@@ -5,10 +5,9 @@ Authors:
 
 <em> Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbossa<sup>1</sup>, Filippo Privitera<sup>2+</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1*</sup></em>.
 
-1 Exeter University, Department of Computer Science, Exeter, EX4 4QF, United Kingdom
+1 Exeter University, Department of Computer Science, Exeter, EX4 4QF, United Kingdom<p>
 2 Cuebiq Inc.
-
-
+ 
 
 ### Timeline of COVID-19 development in the UK
 In January 2020, cases of the novel coronavirus started being reported outside of China. These cases were typically from people who had recently travelled to the Chinese Hubei province, where the disease started spreading. Events related to COVID-19 in the UK started unfolding at the end of January, with the first reported cases in the country. A brief timeline for the UK is the following:
