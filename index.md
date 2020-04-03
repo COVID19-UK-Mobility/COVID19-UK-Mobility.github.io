@@ -12,13 +12,17 @@ Authors:
 
 As April 03rd the number of cases of COVID-19 reported in the UK were more than 33K counting more the 3.5K casualties. Europe and USA are now at the center of the pandemic. 
 Each countries is 
-Folowing the lead of the countries that were the first to be impacted by the virus, many coutnries araound the world are limiting the 
+Folowing the lead of the countries that were the first to be impacted by the virus (China and Sounth Korea), countries around the world are limiting the people movements and implmenteing polity to foster the social distancing.
+Each country 
 
 A key indicator to evaluate the effectiveness of these restrictions and assess the compliance of the population is the reduction in mobility. Here, we will use a large, national-scale data set on human mobility, provided by the collaboration with Cuebiq, to evaluate the adherence to these measures by the general population.
 
-This report has been based on similar analysis carreid on Italian data 
+This report has been based on similar analysis carried on Italian data 
 <a href="https://doi.org/10.1101/2020.03.22.20039933"> Pepe E. et al. 2020 </a>  and USA data
- <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020 k</a>. We aim to provide and assement on the changes in commuting and mobility at county level across UK. These cuold 
+ <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020 k</a>. We aim to provide and assement on the changes in commuting and mobility at county level across UK.
+ 
+ Some infos on the results:
+ 
  
 
 ### Timeline of COVID-19 development in the UK
@@ -38,6 +42,17 @@ In January 2020, cases of the novel coronavirus started being reported outside o
 
 Note that this timeline is not meant to be complete, but is only an indication of how major events related to COVID-19 unfolded in the UK over time, and which restrictions were put into place at what point in time. For a more complete report on the development of COVID-19 in the UK, you can <a href="https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom" target = "_blank" rel = "no opener no referrer">read more here</a>. 
 
+### Results
+
+
+
+
+
+
+### The Analsysis
+
+
+
 ### Data
 
 This research has been performed on data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The silnge users were no identifiable at any research steps. The residencial areas were inferred at an aggregated county level.
@@ -50,4 +65,4 @@ This research has been performed on data from anonymized users who have opted-in
 
 
 ### Acknowledgments
-This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative<\a> for timely and ethical analysis of aggregate human mobility patterns.
+This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns.
