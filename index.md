@@ -8,7 +8,7 @@ Authors:
 1 Exeter University, Department of Computer Science, Exeter, EX4 4QF, United Kingdom<p>
 2 Cuebiq Inc.
  
-### General Information
+## General Information
 
 As April 03rd the number of cases of COVID-19 reported in the UK were more than 33K counting more the 3.5K casualties. Europe and USA are now at the center of the pandemic. 
 Folowing the lead of the countries that were the first to be impacted by the virus (China and Sounth Korea), countries around the world are limiting the people movements and implmenteing policy to foster the social distancing in order to containg the spreding of the virus.
@@ -24,7 +24,7 @@ This report has been based on similar analysis carried on Italian data
  
  
 
-### Timeline of COVID-19 development in the UK
+## Timeline of COVID-19 development in the UK
 In January 2020, cases of the novel coronavirus started being reported outside of China. These cases were typically from people who had recently travelled to the Chinese Hubei province, where the disease started spreading. Events related to COVID-19 in the UK started unfolding at the end of January, with the first reported cases in the country. A brief timeline for the UK is the following:
    * <b>31st January 2020</b>: two Chinese nationals, one of whom studied at the University of York, were the first confirmed cases in the UK.
    * <b>6th February 2020</b>: a man in Brighton became the third confirmed case in the UK. He had previously travelled to Singapore and then visited a ski resort in France.
@@ -41,7 +41,7 @@ In January 2020, cases of the novel coronavirus started being reported outside o
 
 Note that this timeline is not meant to be complete, but is only an indication of how major events related to COVID-19 unfolded in the UK over time, and which restrictions were put into place at what point in time. For a more complete report on the development of COVID-19 in the UK, you can <a href="https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom" target = "_blank" rel = "no opener no referrer">read more here</a>. 
 
-### Results
+## Results
 
 We are assesing the citizen mobility pattern using ..
 
@@ -53,55 +53,55 @@ We are usign three weeks of January as baseline to study the chaning in mobility
 
 
 
-### The Analsysis
+## The Analsysis
 
-## Baseline Jannuary 2020
-
-maps of uk and comments
-
-## 12th March 2020
+### Baseline Jannuary 2020
 
 maps of uk and comments
 
-## 23 March 2020
+### 12th March 2020
+
+maps of uk and comments
+
+### 23 March 2020
 
 maps of uk and comments
 
 
-## 01 April 2020
+### 01 April 2020
 
 
 maps of uk and comments
 
-## The Trend of UK
+### The Trend of UK
 
 
 image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
 
 
-## The Trend By County
+### The Trend By County
 
 collumn plot by county
 
 
-## Remarks
+### Remarks
 
 Comments on the resulsta
 
-## Validation of Data
+### Validation of Data
 
 
 
-### Data
+## Data
 
 This research has been performed on data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The silnge users were no identifiable at any research steps. The residencial areas were inferred at an aggregated county level.
 
-### Team
+## Team
 
 <a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science </a>, work closely with other disciplines on a wide range of projects and enjoy a fruitful relationship with a variety of business partners, collaborating on diverse projects that encompass engineering, IT, telecoms, water, aviation and biosciences. <p>
  
 <a href="https://www.cuebiq.com/"> Cuebiq Inc.</a> is a consumer insights company that analyzes visitation patterns based on aggregated and privacy-safe mobility data, to provide measurement, support academic research and humanitarian initiatives. 
 
 
-### Acknowledgments
+## Acknowledgments
 This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns.
