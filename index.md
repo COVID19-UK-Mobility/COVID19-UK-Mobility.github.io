@@ -35,7 +35,8 @@ The analysis never singled out identifiable individuals and no attempts were mad
 
 ### Team
 
-<a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science </a>, a sente on Exeter Univ 
+<a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science </a>, a sente on Exeter Univ <p>
+ 
 <a href="https://www.cuebiq.com/"> Cuebiq Inc.</a> is a consumer insights company that analyzes visitation patterns based on aggregated and privacy-safe mobility data, to provide measurement, support academic research and humanitarian initiatives. 
 
 
