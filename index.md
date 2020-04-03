@@ -43,12 +43,52 @@ Note that this timeline is not meant to be complete, but is only an indication o
 
 ### Results
 
+We are assesing the citizen mobility pattern using ..
+
+
+We are usign three weeks of January as baseline to study the chaning in mobility....
+
 
 
 
 
 
 ### The Analsysis
+
+## Baseline Jannuary 2020
+
+maps of uk and comments
+
+## 12th March 2020
+
+maps of uk and comments
+
+## 23 March 2020
+
+maps of uk and comments
+
+
+## 01 April 2020
+
+
+maps of uk and comments
+
+## The Trend of UK
+
+
+image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
+
+
+## The Trend By County
+
+collumn plot by county
+
+
+## Remarks
+
+Comments on the resulsta
+
+## Validation of Data
 
 
 
