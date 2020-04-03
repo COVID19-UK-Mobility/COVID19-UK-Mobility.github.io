@@ -3,7 +3,7 @@ layout: default
 ---
 Authors:
 
-<em> Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbossa<sup>1</sup>, Filippo Privitera<sup>2+</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1*</sup></em>.
+<em> Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbossa<sup>1</sup>, Filippo Privitera<sup>2</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1</sup></em>.
 
 1 Exeter University, Department of Computer Science, Exeter, EX4 4QF, United Kingdom<p>
 2 Cuebiq Inc.
