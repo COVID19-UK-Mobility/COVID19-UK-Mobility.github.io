@@ -57,31 +57,70 @@ We are usign three weeks of January as baseline to study the chaning in mobility
 
 ### Baseline Jannuary 2020
 
+<p align="center">
+<img src="plots/uk_baseline.png" width="250">
+<img src="plots/uk_reduc_25_02.png" width="250">
+</p>
+
+
 maps of uk and comments
 
 ### 12th March 2020
 
+<p align="center">
+<img src="plots/uk_reduc_12_03.png" width="250">
+</p>
+
 maps of uk and comments
 
 ### 23 March 2020
+
+<p align="center">
+<img src="plots/uk_reduc_23_03.png" width="250">
+</p>
 
 maps of uk and comments
 
 
 ### 01 April 2020
 
+<p align="center">
+<img src="plots/uk_reduc_01_04.png" width="250">
+</p>
 
 maps of uk and comments
 
 ### The Trend of UK
 
+<p align="center">
+<img src="plots/series_01_03_01_04.png" width="500">
+</p>
 
 image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
 
 
-### The Trend By County
+### Comparison Mobility Before and After Mobility Restrictions
 
-collumn plot by county
+<p align="center">
+<img src="plots/radious_weeks_uk.png" width="800">
+</p>
+
+<p align="center">
+<img src="plots/radious_weeks_en.png" width="800">
+</p>
+
+<p align="center">
+<img src="plots/radious_weeks_nl.png" width="800">
+</p>
+
+<p align="center">
+<img src="plots/radious_weeks_sc.png" width="800">
+</p>
+
+<p align="center">
+<img src="plots/radious_weeks_wa.png" width="800">
+</p>
+
 
 
 ### Remarks
