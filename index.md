@@ -3,7 +3,7 @@ layout: default
 ---
 Authors:
 
-<em> Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbossa<sup>1</sup>, Filippo Privitera<sup>2</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1</sup></em>.
+#### <em> Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbossa<sup>1</sup>, Filippo Privitera<sup>2</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1</sup></em>.
 
 1 Exeter University, Department of Computer Science, Exeter, EX4 4QF, United Kingdom<p>
 2 Cuebiq Inc.
@@ -44,13 +44,9 @@ Note that this timeline is not meant to be complete, but is only an indication o
 ## Results
 
 We are assesing the citizen mobility pattern using ..
-
+Add a lay description of the radius of gyration.
 
 We are usign three weeks of January as baseline to study the chaning in mobility....
-
-
-
-
 
 
 ## The Analsysis
@@ -133,7 +129,7 @@ Population plot
 
 ## Data
 
-This research has been performed on data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The silnge users were no identifiable at any research steps. The residencial areas were inferred at an aggregated county level.
+This research has been performed on data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were no identifiable at any research steps. The residencial areas were inferred at an aggregated county level.
 
 ## Team
 
@@ -143,4 +139,4 @@ This research has been performed on data from anonymized users who have opted-in
 
 
 ## Acknowledgments
-This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns.
+This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
