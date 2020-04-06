@@ -80,48 +80,40 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 ### The Trend of UK
 
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/series_01_03_01_04.png" width="600">
-</p>
-
-image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
+<figcaption align="center"> <b>Figure 5</b></figcaption>
+</figure>
 
 
 ### Comparison Mobility Before and After Mobility Restrictions
 
-to write some comments
+Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/radious_weeks_uk.png.png" width="800">
-</p>
-
-to write some comments
+<figcaption align="center"> <b>Figure 6</b></figcaption>
+</figure>
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/ENG_bar_group.png" width="800">
-</p>
-
-
+<figcaption align="center"> <b>Figure 7</b></figcaption>
+</figure>
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/radious_weeks_nl.png" width="800">
-</p>
-
-
+<figcaption align="center"> <b>Figure 8</b></figcaption>
+</figure>
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/radious_weeks_sc.png" width="800">
-</p>
-
+<figcaption align="center"> <b>Figure 8</b></figcaption>
+</figure>
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/radious_weeks_wa.png" width="800">
-</p>
-
-
-### Remarks
-
-Comments on the resulsta
+<figcaption align="center"> <b>Figure 9</b></figcaption>
+</figure>
 
 ### Validation of Data
 
@@ -143,8 +135,9 @@ This research has been performed using data from anonymized users who have opted
 
 If you have any questions, comments or would like to know more about our analysis, you can contact us at the following email addresses:
 <br>
-
+<a href = "mailto: r.di-clemente@exeter.ac.uk"> Riccardo Di Clemente</a>, Exeter University
 <br>
+<a href = "mailto: blake@cuebiq.com"> Brennan Lake</a>, Cuebiq Inc.
 
 ## Acknowledgments
 This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
