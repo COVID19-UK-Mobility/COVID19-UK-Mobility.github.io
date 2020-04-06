@@ -49,7 +49,7 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
 <figure class="image">
 <img src="plots/uk_baseline.png" width="300">
 <img src="plots/uk_reduc_25_02.png" width="300">
- <figcaption> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration (B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
+ <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration (B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
 </figure>
 
 ### 12th March 2020
@@ -58,7 +58,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 <br>
 <figure class="image">
 <img src="plots/uk_reduc_12_03.png" width="350">
-<figcaption> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present lower mobility, as measured by the radius of gyration. However, the majority of areas still have no decrease.</figcaption>
+<figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present lower mobility, as measured by the radius of gyration. However, the majority of areas still have no decrease.</figcaption>
 </figure>
 
 ### 23 March 2020
@@ -67,12 +67,9 @@ On March 23rd, the Prime Minister asks the British people to stop all non-essent
 <br>
 <figure class="image">
 <img src="plots/uk_reduc_23_03.png" width="350">
-<figcaption> <b>Figure 2</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
+<figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
-<p align="center"><b>Figure 3.</b> Comparison 
-</p>
-maps of uk and comments
 
 
 ### 01 April 2020

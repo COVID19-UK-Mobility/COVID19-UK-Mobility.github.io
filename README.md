@@ -1,3 +1,5 @@
+# NOTE: I (FEDERICO) AM LEAVING THIS TEXT HERE FOR REFERENCE ON HOW THE THEME WORKS AND HOW TO PREVIEW THE SITE LOCALLY, BUT WE WILL REMOVE IT WHEN EVERYTHING IS READY.
+
 # The Slate theme
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
