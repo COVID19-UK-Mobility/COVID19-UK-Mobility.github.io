@@ -11,7 +11,7 @@ layout: default
    * Ronaldo Menezes <sup>1</sup>
    * <a href="http://riccardodiclemente.com">Riccardo Di Clemente</a> <sup>1</sup>
 
-<sup>1</sup> Department of Computer Science, University of Exeter, United Kingdom
+<sup>1</sup> Department of Computer Science, University of Exeter, United Kingdom <p>
 <sup>2</sup> Cuebiq Inc.
 
 [back](./)
