@@ -29,12 +29,6 @@ In January 2020, cases of the novel coronavirus started being reported outside o
 
 Note that this timeline is not meant to be complete, but is only an indication of how major events related to COVID-19 unfolded in the UK over time, and which restrictions were put into place at what point in time. For a more complete report on the development of COVID-19 in the UK, you can <a href="https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom" target = "_blank" rel = "no opener no referrer">read more here</a>. 
 
-## Results
-
-We are assesing the citizen mobility pattern using ..
-Add a lay description of the radius of gyration.
-
-
 ## The Analysis
 
 ### Baseline February 2020
@@ -46,7 +40,7 @@ We estimate our baseline by considering the average mobility during the period x
 EDIT? As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
 
 <br>
-<figure class="image">
+<figure class="image" align="center">
 <img src="plots/uk_baseline.png" width="300">
 <img src="plots/uk_reduc_25_02.png" width="300">
  <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration (B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
@@ -54,9 +48,9 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
 
 ### 12th March 2020
 
-By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increased to about five hundred  and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still present no decrease in the average mobility. 
+By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increased to about five hundred  and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still presents no decrease in the average mobility. 
 <br>
-<figure class="image">
+<figure class="image" align="center">
 <img src="plots/uk_reduc_12_03.png" width="350">
 <figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present lower mobility, as measured by the radius of gyration. However, the majority of areas still have no decrease.</figcaption>
 </figure>
@@ -65,24 +59,20 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 
 On March 23rd, the Prime Minister asks the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
 <br>
-<figure class="image">
+<figure class="image" align="center">
 <img src="plots/uk_reduc_23_03.png" width="350">
 <figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
 
-
 ### 01 April 2020
 
-<Figure 4> shows the UK scenario on the 01st of April 2020. In this date, the total number of confirmed cases was 29.474 with 2352 deaths and, as can be observed in the map, a similar situation to the 23thd is depicted where most of the areas present a reduction on the radius of gyration.
-
+We anticipate that the restriction measures on people's mobility imposed by the British Government will take a few days to show their full effect. Here, we compare the median radius of gyration on April 1st with our baseline (<b> Figure 4</b>). We find a reduction in mobility across the majority of the United Kingdom.
 <br>
-<p align="center">
+<figure class="image" align="center">
 <img src="plots/uk_reduc_01_04.png" width="350">
-</p>
-
-<p align="center"><b>Figure 4.</b> Comparison between the radius of gyration of areas in the UK on the 01st of April 2020 and the baseline.
-</p>
+<figcaption align="center"> <b>Figure 4</b></figcaption>
+</figure>
 
 
 ### The Trend of UK
@@ -137,14 +127,23 @@ Population plot
 
 ## Data
 
-This research has been performed on data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were no identifiable at any research steps. The residencial areas were inferred at an aggregated county level.
+This research has been performed using data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were no identifiable at any research steps. The residential areas were inferred at an aggregated county level.
 
 ## Team
 
-<a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science </a>, work closely with other disciplines on a wide range of projects and enjoy a fruitful relationship with a variety of business partners, collaborating on diverse projects that encompass engineering, IT, telecoms, water, aviation and biosciences. <p>
- 
-<a href="https://www.cuebiq.com/"> Cuebiq Inc.</a> is a consumer insights company that analyzes visitation patterns based on aggregated and privacy-safe mobility data, to provide measurement, support academic research and humanitarian initiatives. 
+<a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science: </a> team members from the Department of Computer Science have expertise in human mobility, data science, human behaviour and urban science.
 
+<p>
+<a href="https://www.cuebiq.com/"> Cuebiq Inc.</a> is a consumer insights company that analyzes visitation patterns based on aggregated and privacy-safe mobility data, to provide measurement, support academic research and humanitarian initiatives. 
+</p>
+
+## Contact us
+
+If you have any questions, comments or would like to know more about our analysis, you can contact us at the following email addresses:
+<br>
+
+<br>
 
 ## Acknowledgments
 This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
+
