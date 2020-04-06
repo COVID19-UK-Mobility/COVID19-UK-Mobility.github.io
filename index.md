@@ -1,6 +1,6 @@
 This website contains our reports assessing changes in human mobility across the UK during the Covid-19 health crisis.
 
-As early April, the number of cases of COVID-19 reported in the UK were more than 33,000, with more the 3,500 casualties.
+As of early April, the number of cases of COVID-19 reported in the UK were more than 33,000, with more the 3,500 casualties.
 Folowing the lead of the countries that were the first to be impacted by the virus (China and Sounth Korea), countries around the world are limiting people's movement and implementing restriction measures to increase social distances and contain the spreading of the virus.
 <br>
 A key indicator to evaluate the effectiveness of these restrictions and assess the compliance of the population is the reduction in mobility. Here, we will use a large, national-scale data set on human mobility, provided by the collaboration with Cuebiq, to evaluate the adherence to these measures by the general population.
