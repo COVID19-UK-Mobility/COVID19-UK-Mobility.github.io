@@ -2,8 +2,16 @@
 layout: default
 ---
 
-## Welcome to another page
+## About
 
-_yay_
+   * Clodomir Santana Jr <sup>1</sup>
+   * Federico Botta <sup>1</sup>
+   * Hugo Barbosa <sup>1</sup>
+   * Filippo Privitera <sup>2</sup>
+   * Ronaldo Menezes <sup>1</sup>
+   * Riccardo Di Clemente <sup>1</sup>
+
+<sup>1</sup> Department of Computer Science, University of Exeter, United Kingdom
+<sup>2</sup> Cuebiq Inc.
 
 [back](./)
