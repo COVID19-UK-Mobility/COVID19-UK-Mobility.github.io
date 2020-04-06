@@ -52,6 +52,8 @@ This research has been performed using data from anonymized users who have opted
 
 If you have any questions, comments or would like to know more about our analysis, you can contact us at the following email addresses:
 <br>
+<a href = "mailto: r.di-clemente@exeter.ac.uk"> Riccardo Di Clemente</a>, Exeter University<p>
+<a href = "mailto: blake@cuebiq.com"> Brennan Lake</a>, Cuebiq Inc.
 
 <br>
 
