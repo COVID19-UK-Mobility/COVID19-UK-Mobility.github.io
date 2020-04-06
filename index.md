@@ -46,50 +46,63 @@ Note that this timeline is not meant to be complete, but is only an indication o
 We are assesing the citizen mobility pattern using ..
 Add a lay description of the radius of gyration.
 
-We are usign three weeks of January as baseline to study the chaning in mobility....
 
-
-## The Analsysis
+## The Analysis
 
 ### Baseline Jannuary 2020
 
+To establish a baseline for comparison, we combined the average mobility patterns of days period used was from 7 to 23 of January of 2020. This period was before the spread of the COVID-19 in the UK and do not contains holidays of other events which could affect the mobility of people. The baseline is the median of the radius of gyration of places in the UK in the period specified and it is depicted in <b>Figure 1 (A)</b>. As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
+
+<br>
 <p align="center">
-<img src="plots/uk_baseline.png" width="250">
-<img src="plots/uk_reduc_25_02.png" width="250">
+<img src="plots/uk_baseline.png" width="350">
+&nbsp&nbsp&nbsp
+<img src="plots/uk_reduc_25_02.png" width="350">
 </p>
 
+<p align="center"> <b>Figure 1.</b> (A) Representation of the radius of gyration of the baseline in a logarithmic scale where the reddish is the colour the means greater is the radius. (B) Comparison of the baseline to the 25th of February. The blue areas represent spaces where the radius of gyration decreased, while in grey areas the radius increased or not changed when compared to the baseline.</p>
 
-maps of uk and comments
 
 ### 12th March 2020
 
+The number of confirmed cases in the UK was around five hundred by the 12th of March and the Chief of the Medical Office advised cancel school trips and recommend people with symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> illustrates the comparison between this day and the baseline. As can be noticed, we can see a rise in the number of regions whose radius of gyration decreased (when compared to the 25th of February). However, we still have an elevated number of places where the mobility was not affected or even increased.
+<br>
 <p align="center">
-<img src="plots/uk_reduc_12_03.png" width="250">
+<img src="plots/uk_reduc_12_03.png" width="350">
 </p>
 
-maps of uk and comments
+<p align="center"> <b>Figure 2.</b> Comparison between the baseline and the 12th of March 2020.
 
 ### 23 March 2020
 
+In the 23thd of March, the UK registered more than 6500 confirmed cases of COVID-19 and over 300 deaths. <b>Figure 3</b> shows the changes in the radius of gyration on this date. As illustrated by this figure, differently to the other two scenarios, now we can observe a reduction of the radios in almost all the regions of the UK. This can be related to the measures announced to slow down the transmission of the virus. One of these measures was the recommendation of working from home which could lead to a reduction in the mobility patterns of the population observed.
+<br>
 <p align="center">
-<img src="plots/uk_reduc_23_03.png" width="250">
+<img src="plots/uk_reduc_23_03.png" width="350">
 </p>
+
+<p align="center"><b>Figure 3.</b> Comparison between the radius of gyration of areas in the UK on the 23thd of March 2020 and the baseline.
 
 maps of uk and comments
 
 
 ### 01 April 2020
 
+<Figure 4> shows the UK scenario on the 01st of April 2020. In this date, the total number of confirmed cases was 29.474 with 2352 deaths and, as can be observed in the map, a similar situation to the 23thd is depicted where most of the areas present a reduction on the radius of gyration.
+
+<br>
 <p align="center">
-<img src="plots/uk_reduc_01_04.png" width="250">
+<img src="plots/uk_reduc_01_04.png" width="350">
 </p>
 
-maps of uk and comments
+<p align="center"><b>Figure 4.</b> Comparison between the radius of gyration of areas in the UK on the 01st of April 2020 and the baseline.
+
 
 ### The Trend of UK
 
+<br>
 <p align="center">
-<img src="plots/series_01_03_01_04.png" width="500">
+<img src="plots/series_01_03_01_04.png" width="600">
 </p>
 
 image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
@@ -97,22 +110,30 @@ image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
 
 ### Comparison Mobility Before and After Mobility Restrictions
 
+<br>
 <p align="center">
 <img src="plots/radious_weeks_uk.png" width="800">
 </p>
 
+
+<br>
 <p align="center">
 <img src="plots/radious_weeks_en.png" width="800">
 </p>
 
+
+<br>
 <p align="center">
 <img src="plots/radious_weeks_nl.png" width="800">
 </p>
 
+
+<br>
 <p align="center">
 <img src="plots/radious_weeks_sc.png" width="800">
 </p>
 
+<br>
 <p align="center">
 <img src="plots/radious_weeks_wa.png" width="800">
 </p>
