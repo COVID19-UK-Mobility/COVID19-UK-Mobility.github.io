@@ -112,7 +112,7 @@ image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
 
 <br>
 <p align="center">
-<img src="plots/radious_weeks_uk.png" width="800">
+<img src="plots/radious_weeks_uk.png.png" width="800">
 </p>
 
 
