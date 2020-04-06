@@ -110,12 +110,13 @@ image on the general trend ENG, SCO, WALL, NI with the time line we proposed.
 
 ### Comparison Mobility Before and After Mobility Restrictions
 
+to write some comments
 <br>
 <p align="center">
 <img src="plots/radious_weeks_uk.png.png" width="800">
 </p>
 
-
+to write some comments
 <br>
 <p align="center">
 <img src="plots/ENG_bar_group.png" width="800">
