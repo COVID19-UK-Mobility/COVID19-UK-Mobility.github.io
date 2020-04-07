@@ -74,7 +74,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 On March 23rd, the Prime Minister asks the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
 <br>
 <figure class="image" align="center">
-<img src="plots/Uk_03_23.png" width="350">
+<img src="plots/Uk_03_23.png">
 <figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ On March 23rd, the Prime Minister asks the British people to stop all non-essent
 We anticipate that the restriction measures on people's mobility imposed by the British Government will take a few days to show their full effect. Here, we compare the median radius of gyration on April 1st with our baseline (<b> Figure 4</b>). We find a reduction in mobility across the majority of the United Kingdom.
 <br>
 <figure class="image" align="center">
-<img src="plots/Uk_03_28.png" width="350">
+<img src="plots/Uk_03_28.png">
 <figcaption align="center"> <b>Figure 4</b></figcaption>
 </figure>
 
