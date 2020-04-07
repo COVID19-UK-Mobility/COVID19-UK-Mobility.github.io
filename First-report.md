@@ -112,7 +112,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 <br>
 <figure class="image" align="center">
 <img src="plots/wal_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 9</b></figcaption>
+<figcaption align="center"> <b>Figure 9 WAL</b></figcaption>
 </figure>
 
 ### Validation of Data
