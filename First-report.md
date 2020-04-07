@@ -44,7 +44,7 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
 <br>
 <figure class="image" align="center">
 <img src="plots/Mobility_UK_new.png">
- <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
+ <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
 </figure>
 
 <figure class="image" align="center">
@@ -52,7 +52,9 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
  <figcaption align="center"> <b>Figure 1</b>(B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
 </figure>
 
-### Changinig in mobility 
+### Changes in mobility 
+
+We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginnign of February. We can see that, until early March, the mobility activity was remainining roughtly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
 
 <figure class="image" align="center">
 <img src="plots/animation_mobility.gif">
@@ -71,7 +73,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 
 ### 23 March 2020
 
-On March 23rd, the Prime Minister asks the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
+On March 23rd, the Prime Minister asked the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
 <br>
 <figure class="image" align="center">
 <img src="plots/Uk_03_23.png">
@@ -90,6 +92,8 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 
 
 ### The Trend of UK
+
+Here, we consider the overall trend over time across the UK. We find a clear drop in mobility activity roughly starting on the first weekend of March, a few days before the first restriction measures were put into place. We find that the reduction is consistent across England, Wales, Scotland, and Northern Ireland.
 
 <br>
 <figure class="image" align="center">
@@ -134,6 +138,8 @@ Population plot the upper point of ENG are London
 <img src="plots/pop_validation.png" width="800">
 <figcaption align="center"> <b>Figure 9</b></figcaption>
 </figure>
+
+### Methods
 
 ## Data
 
