@@ -55,7 +55,7 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
 ### Changinig in mobility 
 
 <figure class="image" align="center">
-<img src="plots/animation_mobitity.gif">
+<img src="plots/animation_mobility.gif">
 <figcaption align="center"> <b>Animation</b> .</figcaption>
 </figure>
 
