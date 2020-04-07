@@ -117,7 +117,11 @@ Our goal is to assess whether restriction measures are having the desired effect
 
 ### Validation of Data
 
-Population plot
+Population plot the upper point of ENG are London
+<figure class="image" align="center">
+<img src="plots/pop_validation.png" width="800">
+<figcaption align="center"> <b>Figure 9</b></figcaption>
+</figure>
 
 ## Data
 
