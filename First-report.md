@@ -106,8 +106,8 @@ Our goal is to assess whether restriction measures are having the desired effect
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_sc.png" width="800">
-<figcaption align="center"> <b>Figure 8</b></figcaption>
+<img src="plots/nir_detailed_regions_before_after.png">
+<figcaption align="center"> <b>Figure 8 NIR</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
