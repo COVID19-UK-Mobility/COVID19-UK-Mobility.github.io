@@ -111,7 +111,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_wa.png" width="800">
+<img src="plots/wal_detailed_regions_before_after.png">
 <figcaption align="center"> <b>Figure 9</b></figcaption>
 </figure>
 
