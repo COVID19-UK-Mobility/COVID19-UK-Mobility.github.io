@@ -25,7 +25,7 @@ In January 2020, cases of the novel coronavirus started being reported outside o
    * <b>12th March 2020</b>: the UK Chief Medical Office raises the risk from moderate to high. Anyone with a new continuous cough or a fever is recommended to self-isolate for seven days, schools cancel trips abroad and people over 70 are asked to avoid cruises.
    * <b>13th March 2020</b>: many sporting events are postponed, as well as the 2020 UK local elections.
    * <b>16th March 2020</b>: the number of cases is over 1,500, and the number of deaths is 55. The Prime Minister advises against non essential travelling, and encourages people to avoid pubs, clubs and theatres. Working from home is encouraged.
-   * <b>23rd March 2020</b>: the Prime Minister announces stricter measures for the UK. People are asked to stay home except for essential food shopping, essential work travel and one form of exercise per day only with members of their household.
+   * <b>23rd March 2020</b>: the Prime Minister announces stricter measures for the UK coming into place from the following day (March 24th). People are asked to stay home except for essential food shopping, essential work travel and one form of exercise per day only with members of their household.
    * <b>26th March 2020</b>: the death toll is 422, and the number of people that tested positive is 11,568.
    * <b>27th March 2020</b>: both the Prime Minister and the Health Secretary announce testing positive for the virus.
 
