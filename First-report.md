@@ -92,12 +92,12 @@ Our goal is to assess whether restriction measures are having the desired effect
 <br>
 <figure class="image" align="center">
 <img src="plots/uk_geo_codes_before_after.png">
-<figcaption align="center"> <b>Figure 6</b></figcaption>
+<figcaption align="center"> <b>Figure 6 UK</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/eng_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 7</b></figcaption>
+<figcaption align="center"> <b>Figure 7 ENG</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
