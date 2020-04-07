@@ -91,7 +91,7 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_uk.png.png" width="800">
+<img src="plots/uk_geo_codes_before_after" width="800">
 <figcaption align="center"> <b>Figure 6</b></figcaption>
 </figure>
 <br>
