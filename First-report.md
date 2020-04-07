@@ -96,7 +96,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/ENG_bar_group.png" width="800">
+<img src="plots/eng_detailed_regions_before_after.png" width="800">
 <figcaption align="center"> <b>Figure 7</b></figcaption>
 </figure>
 <br>
