@@ -81,7 +81,7 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 
 <br>
 <figure class="image" align="center">
-<img src="plots/timeseries.png" width="600">
+<img src="plots/timeseries.png">
 <figcaption align="center"> <b>Figure 5</b></figcaption>
 </figure>
 
