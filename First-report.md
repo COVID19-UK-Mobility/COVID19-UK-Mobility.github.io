@@ -63,7 +63,7 @@ As an example of a comparison between the baseline and another day, we selected 
 
 ### Changes in mobility 
 
-We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginnign of February. We can see that, until early March, the mobility activity was remainining roughtly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
+We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% lower when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginnign of February. We can see that, until early March, the mobility activity was remainining roughtly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
 
 <figure class="image" align="center">
 <img src="plots/animation_mobility.gif">
