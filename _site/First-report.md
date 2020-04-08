@@ -37,23 +37,35 @@ Note that this timeline is not meant to be complete, but is only an indication o
 
 In order to assess whether movement of people has reduced in the UK during the restriction measures, we first have to establish what the regular level of movement across country is. We refer to this as our baseline. We use the <em> radius of gyration </em> as our measure of mobility. The radius of gyration provides an indication of the characteristic distance travelled by a person during a given time period.
 <br>
-We estimate our baseline by considering the average mobility during the period xxx until yyy in February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates.
+We estimate our baseline by considering the average mobility during the period xxx until yyy in February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at county level.
 <br>
 EDIT? As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
 
 <br>
 <figure class="image" align="center">
-<img src="plots/uk_baseline.png" width="300">
-<img src="plots/uk_reduc_25_02.png" width="300">
- <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration (B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
+<img src="plots/Mobility_UK_new.png">
+ <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
 </figure>
+
+<figure class="image" align="center">
+<img src="plots/Uk_02_18_baseline_comp.png">
+ <figcaption align="center"> <b>Figure 1</b>(B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
+</figure>
+
+### Changinig in mobility 
+
+<figure class="image" align="center">
+<img src="plots/animation_mobility.gif">
+<figcaption align="center"> <b>Animation</b> .</figcaption>
+</figure>
+
 
 ### 12th March 2020
 
 By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increased to about five hundred  and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still presents no decrease in the average mobility. 
 <br>
 <figure class="image" align="center">
-<img src="plots/uk_reduc_12_03.png" width="350">
+<img src="plots/UK_03_13.png">
 <figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present lower mobility, as measured by the radius of gyration. However, the majority of areas still have no decrease.</figcaption>
 </figure>
 
@@ -62,7 +74,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 On March 23rd, the Prime Minister asks the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
 <br>
 <figure class="image" align="center">
-<img src="plots/uk_reduc_23_03.png" width="350">
+<img src="plots/Uk_03_23.png">
 <figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
@@ -72,7 +84,7 @@ On March 23rd, the Prime Minister asks the British people to stop all non-essent
 We anticipate that the restriction measures on people's mobility imposed by the British Government will take a few days to show their full effect. Here, we compare the median radius of gyration on April 1st with our baseline (<b> Figure 4</b>). We find a reduction in mobility across the majority of the United Kingdom.
 <br>
 <figure class="image" align="center">
-<img src="plots/uk_reduc_01_04.png" width="350">
+<img src="plots/Uk_03_28.png">
 <figcaption align="center"> <b>Figure 4</b></figcaption>
 </figure>
 
@@ -91,28 +103,28 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
 <figure class="image" align="center">
-<img src="plots/uk_geo_codes_before_after.png" width="800">
-<figcaption align="center"> <b>Figure 6</b></figcaption>
+<img src="plots/uk_geo_codes_before_after.png">
+<figcaption align="center"> <b>Figure 6 UK</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/ENG_bar_group.png" width="800">
-<figcaption align="center"> <b>Figure 7</b></figcaption>
+<img src="plots/eng_detailed_regions_before_after.png">
+<figcaption align="center"> <b>Figure 7 ENG</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_nl.png" width="800">
-<figcaption align="center"> <b>Figure 8</b></figcaption>
+<img src="plots/sct_detailed_regions_before_after.png">
+<figcaption align="center"> <b>Figure 8 SCT</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_sc.png" width="800">
-<figcaption align="center"> <b>Figure 8</b></figcaption>
+<img src="plots/nir_detailed_regions_before_after.png">
+<figcaption align="center"> <b>Figure 8 NIR</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
-<img src="plots/radious_weeks_wa.png" width="800">
-<figcaption align="center"> <b>Figure 9</b></figcaption>
+<img src="plots/wal_detailed_regions_before_after.png">
+<figcaption align="center"> <b>Figure 9 WAL</b></figcaption>
 </figure>
 
 ### Validation of Data
