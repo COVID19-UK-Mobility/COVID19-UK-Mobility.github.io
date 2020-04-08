@@ -4,15 +4,15 @@ layout: default
 
 ## About
 
-   * Clodomir Santana Jr. <sup>1</sup>
-   * <a href="https://federicobotta.github.io/">Federico Botta </a><sup>1</sup>
-   * Hugo Barbosa <sup>1</sup>
-   * Filippo Privitera <sup>2</sup>
-   * Ronaldo Menezes <sup>1</sup>
-   * <a href="http://riccardodiclemente.com">Riccardo Di Clemente</a> <sup>1</sup>
+   * Clodomir Santana Jr. (1)
+   * <a href="https://federicobotta.github.io/">Federico Botta </a> (1)
+   * Hugo Barbosa (1)
+   * Filippo Privitera (2)
+   * Ronaldo Menezes (1)
+   * <a href="http://riccardodiclemente.com">Riccardo Di Clemente</a> (1)
 
-<sup>1</sup> Department of Computer Science, University of Exeter, United Kingdom <br>
-<sup>2</sup> Cuebiq Inc.
+(1) Department of Computer Science, University of Exeter, United Kingdom <br>
+(2) Cuebiq Inc.
 
 ## Contact us
 
