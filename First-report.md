@@ -5,10 +5,6 @@ Authors
 <br>
 (2) Cuebiq Inc.
 
-(1) Department of Computer Science, University of Exeter
-<br>
-(2) Cuebiq Inc.
-
 [Go back to home page](./index.html).
  
 ## Executive summary
