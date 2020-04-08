@@ -1,8 +1,14 @@
+---
+
+description: "First report"
+
+---
+
 Authors:
-**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1)**
+**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
 
 
-(1) Department of Computer Science, University of Exeter
+(1) Department of Computer Science, University of Exeter.
 <br>
 (2) Cuebiq Inc.
 
@@ -17,7 +23,7 @@ Our aim is to assess the effects of the restriction measures on the mobility pat
    
    * in the middle of March, after people were encouraged to work from home and reduce their travelling, mobility levels dropped to about 50% compared to their normal levels before the pandemic
    
-   * from March 24th onwwards the UK entered a state of lockdown, with only essential travelling allowed. This led to a reduction of about 70% in the mobility levels.
+   * from March 24th onwards the UK entered a state of lockdown, with only essential travelling allowed. This led to a reduction of about 70% in the mobility levels.
    
    * mobility levels have dropped consistenlty in all areas across the UK after the lockdown measurments.
 
@@ -159,7 +165,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 
 ### Validation of Data
 
-We want to assess the validity of our data in terms of how representative our sample is. Here, we compare the percentage of the population in each area against the percentage of the number of users. We find an R<sup>2</sup> of 0.92. Note that the two points in the top right correspond to areas in London. 
+We want to assess the validity of our data in terms of how representative our sample is. Here, we compare the percentage of the population in each area against the percentage of the number of users. We find a high correlation in our dataset with an R<sup>2</sup> of 0.92. Please note that the two points in the top right correspond to areas in London. 
 <figure class="image" align="center">
 <img src="plots/pop_validation.png" width="800">
 <figcaption align="center"> <b>Figure 11</b></figcaption>
@@ -167,7 +173,7 @@ We want to assess the validity of our data in terms of how representative our sa
 
 ## Data & Methods
 
-This research has been performed using data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were not identifiable at any research steps. The residential areas were inferred at an aggregated county level. The analysis has been performed on a sample 250K users across the UK. We performed the radius of gyration analysis using the definition of (<a href="https://doi.org/10.1038/nature06958">Gonzalez, M. et al Nature 2008</a>). Moreover each mobility value of a given region is the median value of the distribution of the radius of gyration of the users within a temporal window over the following 8 days.
+This research has been performed using data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were not identifiable at any research steps. The residential areas were inferred at an aggregated county level. The analysis has been performed on a sample 250K users across the UK. We performed the radius of gyration analysis using the definition of (<a href="https://doi.org/10.1038/nature06958">Gonzalez, M. et al Nature 2008</a>). Moreover, each mobility value of a given region is the median value of the distribution of the radius of gyration of the users within a temporal window over the following 8 days.
 
 ## Team
 
