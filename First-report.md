@@ -5,7 +5,7 @@ description: "First report (8th April 2020): analysis of human mobility in the U
 ---
 
 Authors:
-**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
+**Clodomir Santana (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
 
 
 (1) Department of Computer Science, University of Exeter.
@@ -59,19 +59,19 @@ These reports are based on similar analysis carried on Italian data
 
 In order to assess whether movement of people has reduced in the UK during the restriction measures, we first have to establish what the regular level of movement across country is. We refer to this as our baseline. We use the <em> radius of gyration </em> as our measure of mobility. The radius of gyration provides an indication of the characteristic distance travelled by a person during a given time period.
 <br>
-We estimate our baseline by considering the average mobility during the period between 28 and 31 of January 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at local authority level.
+We estimate our baseline by considering the average mobility during the period between 01 and 04 of February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at local authority level.
 <br>
-As an example of a comparison between the baseline and another day, we selected the 18th of February and showed the comparison result in <b>Figure 1 (B)</b>. As the Figure shows, on an average day only few areas within the UK present a lower radius of gyration when compared to the baseline. This supports the validity of our baseline estimate, since on an average day we would not expect the radius of gyration to be very different from the baseline (note that there will always be a few areas with higher or lower mobility levels).
+As an example of a comparison between the baseline and another day, we selected the 22th of February and showed the comparison result in <b>Figure 1 (B)</b>. As the Figure shows, on an average day only few areas within the UK present a lower radius of gyration when compared to the baseline. This supports the validity of our baseline estimate, since on an average day we would not expect the radius of gyration to be very different from the baseline (note that there will always be a few areas with higher or lower mobility levels).
 
 <br>
 <figure class="image" align="center">
 <img src="plots/Mobility_UK_new.png" style = "width:600px">
- <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 28 and 31 of January 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
+ <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
 </figure>
 
 <figure class="image" align="center">
 <img src="plots/Uk_02_18_baseline_comp.png" style = "width:600px">
- <figcaption align="center"> <b>Figure 1</b>(B) We validate our baseline by comparing it to a typical day (18th February 2020) before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
+ <figcaption align="center"> <b>Figure 1</b>(B) We validate our baseline by comparing it to a typical day (22th February 2020) before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
 </figure>
 
 ### Changes in mobility 
