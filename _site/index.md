@@ -7,7 +7,7 @@ A key indicator to evaluate the effectiveness of these restrictions and assess t
 
 These reports are based on similar analysis carried on Italian data 
 <a href="https://doi.org/10.1101/2020.03.22.20039933"> Pepe E. et al. 2020 </a>  and US data
- <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020 k</a>. We aim to provide and assess the changes in commuting and mobility at county level across UK during the Covid-19 health crisis.
+ <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020</a>. We aim to provide and assess the changes in commuting and mobility at county level across UK during the Covid-19 health crisis.
  
 [Link to the first report](./First-report.html).
  
