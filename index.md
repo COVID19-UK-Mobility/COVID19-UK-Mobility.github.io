@@ -9,7 +9,7 @@ These reports are based on similar analysis carried on Italian data
 <a href="https://doi.org/10.1101/2020.03.22.20039933"> Pepe E. et al. 2020 </a>  and US data
  <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020</a>. We aim to provide and assess the changes in commuting and mobility at county level across UK during the Covid-19 health crisis.
  
-<a href="./First-report.html" style="font-size:40px;>[Link to the first report]</a>.
+<a href="./First-report.html" style="font-size:25px;">[Link to the first report]</a>.
  
 Authors:
 
@@ -21,17 +21,7 @@ Authors:
  
 
 
-## Contact us
 
-If you have any questions, comments or would like to know more about our analysis, you can contact us at the following email addresses:
-<br>
-<a href = "mailto: r.di-clemente@exeter.ac.uk"> Riccardo Di Clemente</a>, Exeter University
-<br>
-<a href = "mailto: blake@cuebiq.com"> Brennan Lake</a>, Cuebiq Inc.
-
-## Acknowledgments
-This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
-<br>
 <!--<figure class="image" align="center">
 <img src="_site/cuebiq_logo.jpg">
 </figure>-->
