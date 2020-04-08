@@ -1,6 +1,6 @@
 ---
 
-description: "First report"
+description: "First report: analysis of human mobility in the UK during the COVID-19 pandemic"
 
 ---
 
