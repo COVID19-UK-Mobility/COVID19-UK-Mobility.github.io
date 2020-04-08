@@ -13,7 +13,7 @@ These reports are based on similar analysis carried on Italian data
  
 Authors:
 
-**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1), Riccardo Di Clemente (1)**
+**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1)**
 
 (1) Department of Computer Science, University of Exeter
 <br>
