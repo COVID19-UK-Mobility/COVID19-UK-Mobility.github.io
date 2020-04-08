@@ -19,17 +19,7 @@ Authors:
 <br>
 (2) Cuebiq Inc.
  
-## Data
 
-This research has been performed using data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were no identifiable at any research steps. The residential areas were inferred at an aggregated county level.
-
-## Team
-
-<a href="http://emps.exeter.ac.uk/computer-science/"> University of Exeter, Department of Computer Science: </a> team members from the Department of Computer Science have expertise in human mobility, data science, human behaviour and urban science.
-
-<p>
-<a href="https://www.cuebiq.com/"> Cuebiq Inc.</a> is a consumer insights company that analyzes visitation patterns based on aggregated and privacy-safe mobility data, to provide measurement, support academic research and humanitarian initiatives. 
-</p>
 
 ## Contact us
 
