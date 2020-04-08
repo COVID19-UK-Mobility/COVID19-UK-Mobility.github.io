@@ -115,29 +115,39 @@ Here, we consider the overall trend over time across the UK. We find a clear dro
 
 Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
+
 <figure class="image" align="center">
 <img src="plots/uk_geo_codes_before_after.png">
 <figcaption align="center"> <b>Figure 6 UK</b></figcaption>
 </figure>
 <br>
+
+
+### Detailed mobilty trend in England
 <figure class="image" align="center">
 <img src="plots/eng_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 7 England</b></figcaption>
+<figcaption align="center"></figcaption>
 </figure>
 <br>
+
+### Detailed mobilty trend in Scotland
 <figure class="image" align="center">
 <img src="plots/sct_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 8 Scotland</b></figcaption>
+<figcaption align="center"> </figcaption>
 </figure>
 <br>
+
+### Detailed mobilty trend in Norther Ireland
 <figure class="image" align="center">
 <img src="plots/nir_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 9 Northern Ireland</b></figcaption>
+<figcaption align="center"> </figcaption>
 </figure>
 <br>
+
+### Detailed mobilty trend in Wales
 <figure class="image" align="center">
 <img src="plots/wal_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 10 Wales</b></figcaption>
+<figcaption align="center"></figcaption>
 </figure>
 
 ### Validation of Data
