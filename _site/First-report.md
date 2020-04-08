@@ -9,9 +9,9 @@ Authors
  
 ## Executive summary
  
-Our aim is to asssess the effects of the restriction measures on the mobility patterns of the United Kingdom. These measures are strong public health policies which came into place as a consequence of the Covid-19 pandemic and its potential dramatic effects on the British population and, more specifically, on the NHS. To do so, we analyse changes in the average levels of mobility of users across the whole country, and we consider different time periods which include the periods during which the restriction measures have been put into place and enforced by authorities.
+Our aim is to asssess the effects of the restriction measures on the mobility patterns of people in the United Kingdom. These measures are strong public health policies which came into place as a consequence of the Covid-19 pandemic and its potential dramatic effects on the British population and, more specifically, on the NHS. To do so, we analyse changes in the average levels of mobility of users across the whole country, and we consider different time periods which include the periods during which the restriction measures have been put into place and enforced by authorities.
  
-Here we summarise our main results:
+***Here we summarise our main initial results:***
    * in early March, before restriction measures were enforced, mobility levels slowly started to decrease by about 10%.
    
    * in the middle of March, after people were encouraged to work from home and reduce their travelling, mobility levels dropped to about 50% compared to their normal levels before the pandemic
@@ -48,7 +48,7 @@ In order to assess whether movement of people has reduced in the UK during the r
 <br>
 ***ADD CORRECT DATES***We estimate our baseline by considering the average mobility during the period xxx until yyy in February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at county level.
 <br>
-***EDIT DATE?*** As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
+***EDIT DATE?*** As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As the Figure shows, on an average day only few area within the UK present a lower radius of gyration when compared to the baseline. This supports the validity of our baseline estimate, since on an average day we would not expect the radius of gyration to be very different from the baseline (note that there will always be a few areas with higher or lower mobility levels).
 
 <br>
 <figure class="image" align="center">
@@ -77,7 +77,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 <br>
 <figure class="image" align="center">
 <img src="plots/UK_03_13.png">
-<figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present lower mobility, as measured by the radius of gyration. However, the majority of areas still have no decrease.</figcaption>
+<figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 12th with our baseline estimates. We find that a number of locations present a mobility of about 10% less than the baseline, as measured by the radius of gyration. However, the majority of areas still exhibit no decrease.</figcaption>
 </figure>
 
 ### 23 March 2020
@@ -86,7 +86,7 @@ On March 23rd, the Prime Minister asked the British people to stop all non-essen
 <br>
 <figure class="image" align="center">
 <img src="plots/Uk_03_23.png">
-<figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
+<figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 23rd March and the baseline mobility levels. We observe a reduction in the average mobility of about 70% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
 
@@ -96,7 +96,7 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 <br>
 <figure class="image" align="center">
 <img src="plots/Uk_03_28.png">
-<figcaption align="center"> <b>Figure 4</b></figcaption>
+<figcaption align="center"> <b>Figure 4</b> Here, we present a comparison between the radius of gyration across the UK on April 1st and the baseline mobility levels. We observe a reduction in the average mobility of about 80% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
 
@@ -107,7 +107,7 @@ Here, we consider the overall trend over time across the UK. We find a clear dro
 <br>
 <figure class="image" align="center">
 <img src="plots/timeseries.png">
-<figcaption align="center"> <b>Figure 5</b></figcaption>
+<figcaption align="center"> <b>Figure 5</b> We depict here the evolution over time of the mobility activity for the UK, England, Scotland, Wales, and Northern Ireland. We find that the mobility starts decreasing in early March, and sharply drops around the second part of the month by about 80% compared to the baseline. </figcaption>
 </figure>
 
 
@@ -148,10 +148,10 @@ We want to assess the validity of our data in terms of how representative our sa
 <figcaption align="center"> <b>Figure 11</b></figcaption>
 </figure>
 
-## Data \& Methods
+## Data & Methods
 
 This research has been performed using data from anonymized users who have opted-in to provide access to their location data anonymously, through a GDPR-compliant framework. The single users were no identifiable at any research steps. The residential areas were inferred at an aggregated county level.
-The analysis has been performed on a sample 250K users accross the UK. We performed the radius of gyration analysis using the defition of (<a href="https://doi.org/10.1038/nature06958">Gonzalez, M. et al Nature 2008</a>). Moreover each mobilty value of a given region is the median value of the distribution of the radius of gyration of the users within a temporal windows over the followhing 8 days.
+The analysis has been performed on a sample 250K users accross the UK. We performed the radius of gyration analysis using the defition of (<a href="https://doi.org/10.1038/nature06958">Gonzalez, M. et al Nature 2008</a>). Moreover each mobilty value of a given region is the median value of the distribution of the radius of gyration of the users within a temporal window over the following 8 days.
 
 ## Team
 
