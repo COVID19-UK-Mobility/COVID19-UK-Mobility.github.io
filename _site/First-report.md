@@ -10,8 +10,18 @@ Authors:
  
 ## Executive summary
  
- add here a brief summary of the first report
+Our aim is to asssess the effects of the restriction measures on the mobility patterns of the United Kingdom. These measures are strong public health policies which came into place as a consequence of the Covid-19 pandemic and its potential dramatic effects on the British population and, more specifically, on the NHS. To do so, we analyse changes in the average levels of mobility of users across the whole country, and we consider different time periods which include the periods during which the restriction measures have been put into place and enforced by authorities.
  
+Here we summarise our main results:
+   * in early March, before restriction measures were enforced, mobility levels slowly started to decrease by about 10%.
+   
+   * in the middle of March, after people were encouraged to work from home and reduce their travelling, mobility levels dropped to about 50% compared to their normal levels before the pandemic
+   
+   * from March 24th onwwards the UK entered a state of lockdown, with only essential travelling allowed. This led to a reduction of about 70% in the mobility levels.
+   
+   * mobility levels have dropped consistenlty in all areas across the UK
+
+These results present our initial analysis of the restriction measures and their effect on mobility across the UK. This might be of interest to epidemiologist who can use this to estimate contact matrices, and to public health policy makers who have to assess the impact of their policies on the British population.
  
 
 ## Timeline of COVID-19 development in the UK
@@ -37,14 +47,14 @@ Note that this timeline is not meant to be complete, but is only an indication o
 
 In order to assess whether movement of people has reduced in the UK during the restriction measures, we first have to establish what the regular level of movement across country is. We refer to this as our baseline. We use the <em> radius of gyration </em> as our measure of mobility. The radius of gyration provides an indication of the characteristic distance travelled by a person during a given time period.
 <br>
-We estimate our baseline by considering the average mobility during the period xxx until yyy in February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at county level.
+***ADD CORRECT DATES***We estimate our baseline by considering the average mobility during the period xxx until yyy in February 2020. This period is immediately before restriction measures were put into place by the British government, and it does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at county level.
 <br>
-EDIT? As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
+***EDIT DATE?*** As an example of a comparison between the baseline and another day, we selected the 25th of February and showed the comparison result in <b>Figure 1 (B)</b>. As can be noticed in this figure, in that day the radius increased or not changed in the majority of the regions of the Uk.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/Mobility_UK_new.png">
- <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy (note the logarithmic scale). Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
+ <figcaption align="center"> <b>Figure 1</b> (A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between xxx and yyy. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</figcaption>
 </figure>
 
 <figure class="image" align="center">
@@ -52,11 +62,13 @@ EDIT? As an example of a comparison between the baseline and another day, we sel
  <figcaption align="center"> <b>Figure 1</b>(B) We validate our baseline by comparing it to a typical day before the restriction measures came into place. Blue areas represent locations where the radius of gyration decreased, whereas grey areas represent no changes or an increase in the mobility. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</figcaption>
 </figure>
 
-### Changinig in mobility 
+### Changes in mobility 
+
+We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginnign of February. We can see that, until early March, the mobility activity was remainining roughtly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
 
 <figure class="image" align="center">
 <img src="plots/animation_mobility.gif">
-<figcaption align="center"> <b>Animation</b> .</figcaption>
+<figcaption align="center"> <b>Evolution of mobility activity over the period of our analysis.</b></figcaption>
 </figure>
 
 
@@ -71,7 +83,7 @@ By March 12th 2020, the confirmed number of Covid-19 cases in the UK had increas
 
 ### 23 March 2020
 
-On March 23rd, the Prime Minister asks the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK.
+On March 23rd, the Prime Minister asked the British people to stop all non-essential travelling, effectively imposing a state of lockdown in the UK. We anticipate that this restriction measure will lead to a big reduction in the levels of mobility in the upcoming days. <b>Figure 3</b> presents the changes in the radius of gyration between this date and our baseline. We clearly see a reduction in the mobility of people across the majority of the UK. We also note that the reduction is broadly similar across the whole country.
 <br>
 <figure class="image" align="center">
 <img src="plots/Uk_03_23.png">
@@ -91,6 +103,8 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 
 ### The Trend of UK
 
+Here, we consider the overall trend over time across the UK. We find a clear drop in mobility activity roughly starting on the first weekend of March, a few days before the first restriction measures were put into place. We find that the reduction is consistent across England, Wales, Scotland, and Northern Ireland.
+
 <br>
 <figure class="image" align="center">
 <img src="plots/timeseries.png">
@@ -98,7 +112,7 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 </figure>
 
 
-### Comparison Mobility Before and After Mobility Restrictions
+### Comparing mobility activity before and after the restriction measures
 
 Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
@@ -109,31 +123,33 @@ Our goal is to assess whether restriction measures are having the desired effect
 <br>
 <figure class="image" align="center">
 <img src="plots/eng_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 7 ENG</b></figcaption>
+<figcaption align="center"> <b>Figure 7 England</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/sct_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 8 SCT</b></figcaption>
+<figcaption align="center"> <b>Figure 8 Scotland</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/nir_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 8 NIR</b></figcaption>
+<figcaption align="center"> <b>Figure 9 Northern Ireland</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/wal_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 9 WAL</b></figcaption>
+<figcaption align="center"> <b>Figure 10 Wales</b></figcaption>
 </figure>
 
 ### Validation of Data
 
-Population plot the upper point of ENG are London
+We want to assess the validity of our data in terms of how representative our sample is. Here, we compare the percentage of the population in each area against the percentage of the number of users. We find an R<sup>2</sup> of 0.92. Note that the two points in the top right correspond to areas in London.
 <figure class="image" align="center">
 <img src="plots/pop_validation.png" width="800">
-<figcaption align="center"> <b>Figure 9</b></figcaption>
+<figcaption align="center"> <b>Figure 11</b></figcaption>
 </figure>
+
+### Methods
 
 ## Data
 
