@@ -76,7 +76,7 @@ As an example of a comparison between the baseline and another day, we selected 
 
 ### Changes in mobility 
 
-We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% lower when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginnign of February. We can see that, until early March, the mobility activity was remainining roughtly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
+We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% lower when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginning of February. We can see that, until early March, the mobility activity was remaining roughly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.
 
 <figure class="image" align="center">
 <img src="plots/animation_mobility.gif" style = "width:600px">
@@ -191,5 +191,5 @@ If you have any questions, comments or would like to know more about our analysi
 <a href = "mailto: blake@cuebiq.com"> Brennan Lake</a>, Cuebiq Inc.
 
 ## Acknowledgments
-This preliminary analysis is a collaboration between the Department of Computer Science of Universtiy of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
+This preliminary analysis is a collaboration between the Department of Computer Science of University of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
 
