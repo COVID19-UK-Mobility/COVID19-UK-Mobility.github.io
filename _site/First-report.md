@@ -102,7 +102,7 @@ Here, we consider the overall trend over time across the UK. We find a clear dro
 </figure>
 
 
-### Comparison Mobility Before and After Mobility Restrictions
+### Comparing mobility activity before and after the restriction measures
 
 Our goal is to assess whether restriction measures are having the desired effect in reducing the mobility of British people. Here, we directly compare the degree of mobility in different time periods across the four countries in the United Kingdom. After March 23rd, when an effective lockdown was imposed on the country, we see a great reduction in the levels of mobility across all of the UK.
 <br>
@@ -113,27 +113,27 @@ Our goal is to assess whether restriction measures are having the desired effect
 <br>
 <figure class="image" align="center">
 <img src="plots/eng_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 7 ENG</b></figcaption>
+<figcaption align="center"> <b>Figure 7 England</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/sct_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 8 SCT</b></figcaption>
+<figcaption align="center"> <b>Figure 8 Scotland</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/nir_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 8 NIR</b></figcaption>
+<figcaption align="center"> <b>Figure 8 Northern Ireland</b></figcaption>
 </figure>
 <br>
 <figure class="image" align="center">
 <img src="plots/wal_detailed_regions_before_after.png">
-<figcaption align="center"> <b>Figure 9 WAL</b></figcaption>
+<figcaption align="center"> <b>Figure 9 Wales</b></figcaption>
 </figure>
 
 ### Validation of Data
 
-Population plot the upper point of ENG are London
+Population plot the upper points of England are London
 <figure class="image" align="center">
 <img src="plots/pop_validation.png" width="800">
 <figcaption align="center"> <b>Figure 9</b></figcaption>
