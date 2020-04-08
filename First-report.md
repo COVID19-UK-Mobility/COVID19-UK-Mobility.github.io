@@ -1,10 +1,10 @@
 
 Authors:
-**Clodomir Santana Jr.<sup>1</sup>, Federico Botta<sup>1</sup>, Hugo Barbosa<sup>1</sup>, Filippo Privitera<sup>2</sup>, Ronaldo Menezes<sup>1</sup>, Riccardo Di Clemente<sup>1</sup>**
+**Clodomir Santana Jr. (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1), Riccardo Di Clemente (1)
 
-<sup> 1 </sup> Department of Computer Science, University of Exeter
+(1) Department of Computer Science, University of Exeter
 <br>
-<sup> 2 </sup> Cuebiq Inc.
+(2) Cuebiq Inc.
 
 [Go back to home page](./index.html).
  
