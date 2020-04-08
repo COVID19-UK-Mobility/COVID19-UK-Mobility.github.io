@@ -25,7 +25,7 @@ Our aim is to assess the effects of the COVID-19 restriction measures on the mob
    
    * From March 24th onwards the UK entered a state of lockdown, with only essential travelling allowed. This led to a reduction of about 70% in the mobility levels.
    
-   * Mobility levels have dropped consistenlty in all areas across the UK after the lockdown measurements.
+   * Mobility levels have dropped consistently in all areas across the UK after the lockdown measurements.
 
 These results present our initial analysis of the restriction measures and their effect on mobility across the UK. This might be of interest to epidemiologist who can use this to estimate contact matrices, and to public health policy makers who have to assess the impact of their policies on the British population.
  
@@ -191,5 +191,5 @@ If you have any questions, comments or would like to know more about our analysi
 <a href = "mailto: blake@cuebiq.com"> Brennan Lake</a>, Cuebiq Inc.
 
 ## Acknowledgments
-This preliminary analysis is a collaboration between the Department of Computer Science of University of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the usefull discussions.
+This preliminary analysis is a collaboration between the Department of Computer Science of University of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the useful discussions.
 
