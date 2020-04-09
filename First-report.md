@@ -15,7 +15,7 @@ Authors:
 [Go back to home page](./index.html).
  
  
-<a href="reports/Covid19_UK.pdf" download>Click here to download the report.</a> 
+<a href="reports/Covid19-UK-9-April.pdf" download>Click here to download the report.</a> 
 
 ### Disclaimer
 
@@ -66,9 +66,9 @@ Note that this timeline is not meant to be complete, but is only an indication o
 A key indicator to evaluate the effectiveness of these restrictions and assess the compliance of the population is the reduction in mobility. Here, we will use a large, national-scale data set on human mobility, provided by the collaboration with Cuebiq, to evaluate the adherence to these measures by the general population.</div>
 <br>
 <div style="text-align: justify">
-These reports are based on similar analysis carried on Italian data 
+These reports are based on similar analysis carried out on Italian data 
 <a href="https://doi.org/10.1101/2020.03.22.20039933"> Pepe E. et al. 2020 </a>  and US data
- <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020</a>. We aim to provide and assess the changes in commuting and mobility at local authority level across UK during the Covid-19 health crisis.</div>
+ <a href="https://www.mobs-lab.org/uploads/6/7/8/7/6787877/assessing_mobility_changes_in_the_united_states_during_the_covid_19_outbreak.pdf"> Klein B. et al. 2020</a>. We aim to provide and assess the changes in commuting and mobility at local authority level across UK during the COVID-19 health crisis.</div>
 <br>
 <div style="text-align: justify">
 In order to assess whether movement of people has reduced in the UK during the restriction measures, we first have to establish what the regular level of movement across country is. We refer to this as our baseline. We use the <em> radius of gyration </em> as our measure of mobility. The radius of gyration provides an indication of the characteristic distance travelled by a person during a given time period.</div>
@@ -95,7 +95,7 @@ As the Figure shows, on an average day only few areas within the UK present a lo
 
 ### Changes in mobility 
 <div style="text-align: justify">
-We want to assess the changes in the levels of mobility in the UK during the Covid-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% lower when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginning of February. We can see that, until early March, the mobility activity was remaining roughly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.</div>
+We want to assess the changes in the levels of mobility in the UK during the COVID-19 pandemic. We compare the weekly levels of mobility to our baseline, and we present the results as a percentage of the baseline. We refer to this as the mobility activity. For instance, if the mobility activity has a value of 50, this corresponds to a mobility level which is 50% lower when compared to our baseline. In the animation below, we show how the mobility has been changing since the beginning of February. We can see that, until early March, the mobility activity was remaining roughly constant, but it starts to drop sharply soon after the first restriction measures have been put into place.</div>
 
 <figure class="image" align="center">
 <img src="plots/animation_mobility.gif" style = "width:600px">
@@ -105,7 +105,7 @@ We want to assess the changes in the levels of mobility in the UK during the Cov
 
 ### 17th March 2020
 <div style="text-align: justify">
-By March 17th 2020, the confirmed number of Covid-19 cases in the UK had increased to about five hundred and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still presents no decrease in the average mobility.</div>
+By March 17th 2020, the confirmed number of COVID-19 cases in the UK had increased to about five hundred and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still presents no decrease in the average mobility.</div>
 <br>
 <figure class="image" align="center">
 <img src="plots/UK_03_16.png" style = "width:600px">
