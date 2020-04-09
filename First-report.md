@@ -14,6 +14,9 @@ Authors:
 
 [Go back to home page](./index.html).
  
+ 
+<a href="reports/Covid19_UK.pdf" download>Click here to download the report.</a> 
+
 ## Executive summary
  
 Our aim is to assess the effects of the COVID-19 restriction measures on the mobility patterns of people in the UK. These measures are strong public health policies which came into place as a consequence of the COVID-19 pandemic and its potential impact on the British population and on the NHS. To do so, we analyse changes in the average levels of mobility of anonymous mobile phone users across the country at different time periods, which include the periods when the restriction measures are in place and enforced by authorities.
