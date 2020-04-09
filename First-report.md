@@ -97,7 +97,7 @@ By March 16th 2020, the confirmed number of Covid-19 cases in the UK had increas
 <br>
 <figure class="image" align="center">
 <img src="plots/UK_03_16.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 16th 2020 with our baseline estimates. We find that a number of locations present a mobility of about 10% less than the baseline, as measured by the radius of gyration. However, the majority of areas still exhibit no decrease.</figcaption>
+<figcaption align="center"> <b>Figure 2</b> We compare the average mobility on March 17th 2020 with our baseline estimates. We find that a number of locations present a mobility of about 10% less than the baseline, as measured by the radius of gyration. However, the majority of areas still exhibit no decrease.</figcaption>
 </figure>
 
 ### 26 March 2020
@@ -106,7 +106,7 @@ On March 23rd 2020, the Prime Minister asked the British people to stop all non-
 <br>
 <figure class="image" align="center">
 <img src="plots/UK_03_26.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 26rd March and the baseline mobility levels. We observe a reduction in the average mobility of about 70% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
+<figcaption align="center"> <b>Figure 3</b> Here, we present a comparison between the radius of gyration across the UK on 26th March and the baseline mobility levels. We observe a reduction in the average mobility of about 70% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government.</figcaption>
 </figure>
 
 
