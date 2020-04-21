@@ -150,7 +150,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 
 <figure class="image" align="center">
 <img src="plots/uk_geo_codes_before_after.png" style = "width:600px">
-<figcaption align="center"> <b>Detailed mobility trend in England</b></figcaption>
+<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify">Detailed mobility trend in England. Note that in this chart the bars are overlapped which means that 01/Apr bar is in front of the 26/Mar which is, in turn, in front of the 17/Mar bar. If we take England as an example the degree of mobility on 01/Apr is less than 2KM while on 17/Mar its more than 10KM.</div></figcaption>
 </figure>
 <br>
 
