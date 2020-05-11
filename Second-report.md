@@ -31,6 +31,28 @@ TEXT HERE
 </div>
 #### Summary of main findings
 
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p1_slope_income.png" style = "width:600px">
+<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
+</figure>
+
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p2_slope_income.png" style = "width:600px">
+<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 23 or March and 05 of April 2020.</div></figcaption>
+</figure>
+
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p2_slope_income.png" style = "width:600px">
+<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 05 and 17 of April 2020.</div></figcaption>
+</figure>
+
+
    * TEXT HERE
 
 
