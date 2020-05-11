@@ -1,6 +1,6 @@
 ---
 
-description: "First report (8th April 2020): analysis of human mobility in the UK during the COVID-19 pandemic"
+description: "Second report (13th May 2020): analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic"
 
 ---
 
