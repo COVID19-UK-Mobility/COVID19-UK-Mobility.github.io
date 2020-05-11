@@ -47,13 +47,13 @@ TEXT HERE
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p1_slope_income.png"  width="600"/>
+<img src="plots/second-report/p1_slope_income_nbg.png"  width="600"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
 </figure>
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p1_slope_density.png"  width="600"/>
+<img src="plots/second-report/p1_slope_density_nbg.png"  width="600"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
 </figure>
 
@@ -61,13 +61,13 @@ TEXT HERE
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p2_slope_income.png"  width="600"/>
+<img src="plots/second-report/p2_slope_income_nbg.png"  width="600"/>
 <figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
 </figure>
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p2_slope_density.png"  width="600"/>
+<img src="plots/second-report/p2_slope_density_nbg.png"  width="600"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
 </figure>
 
@@ -75,13 +75,13 @@ TEXT HERE
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p3_slope_income.png" width="600"/>
+<img src="plots/second-report/p3_slope_income_nbg.png" width="600"/>
 <figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 23 or March and 05 of April 2020.</div></figcaption>
 </figure>
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p3_slope_density.png"  width="600"/>
+<img src="plots/second-report/p3_slope_density_nbg.png"  width="600"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
 </figure>
 
