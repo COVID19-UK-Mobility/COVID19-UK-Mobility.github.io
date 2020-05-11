@@ -31,25 +31,47 @@ TEXT HERE
 </div>
 #### Summary of main findings
 
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/slope_ex.png"  width="600"/>
+<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Example of three different scenarios for the slope.</div></figcaption>
+</figure>
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p1_slope_income.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
+<img src="plots/second-report/eng_trends_periods.png"  width="600"/>
+<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Example of three different scenarios for the slope.</div></figcaption>
+</figure>
+
+### First Period: from 11 to 23 of March 2020
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p1_slope_income.png"  width="600"/>
+<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
+</figure>
+
+### Second Period: from 23 of March to 05 of April 2020
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p1_slope_income.png"  width="600"/>
+<figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
+</figure>
+
+### Third Period: from 05 to 17 of April 2020
+
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/p2_slope_income.png" width="600"/>
+<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 23 or March and 05 of April 2020.</div></figcaption>
 </figure>
 
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/p2_slope_income.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 23 or March and 05 of April 2020.</div></figcaption>
-</figure>
-
-
-<br>
-<figure class="image" align="center">
-<img src="plots/second-report/p2_slope_income.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 05 and 17 of April 2020.</div></figcaption>
+<img src="plots/second-report/p2_slope_income.png"  width="600"/>
+<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 05 and 17 of April 2020.</div></figcaption>
 </figure>
 
 
