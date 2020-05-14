@@ -98,20 +98,20 @@ TEXT HERE
 
 
 ### Detailed mobility trend in England
-<figure class="image" align="****center">
-<img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="350"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  height="350"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_3.png"  height="350"/>
+<figure class="image" align="center">
+<img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="380"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  height="380"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_3.png"  height="380"/>
 </figure>
 <figure class="image" align="center">
-<img src="plots/second-report/eng_detailed_regions_before_after_part_4.png"  height="350"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_5.png"  height="350">
-<img src="plots/second-report/eng_detailed_regions_before_after_part_6.png"  height="350"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_4.png"  height="380"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_5.png"  height="380">
+<img src="plots/second-report/eng_detailed_regions_before_after_part_6.png"  height="380"/>
 </figure>
 <figure class="image" align="center">
-<img src="plots/second-report/eng_detailed_regions_before_after_part_7.png"  height="350"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_8.png"  height="350"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_9.png"  height="350"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_7.png"  height="380"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_8.png"  height="380"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_9.png"  height="380"/>
 <figcaption align="center"></figcaption>
 </figure>
 <br>
@@ -126,16 +126,16 @@ TEXT HERE
 
 ### Detailed mobility trend in Norther Ireland
 <figure class="image" align="center">
-<img src="plots/second-report/nir_detailed_regions_before_after_part_1.png"  height="200"/>
-<img src="plots/second-report/nir_detailed_regions_before_after_part_2.png"  height="200"/>
+<img src="plots/second-report/nir_detailed_regions_before_after_part_1.png"  height="280"/>
+<img src="plots/second-report/nir_detailed_regions_before_after_part_2.png"  height="280"/>
 <figcaption align="center"> </figcaption>
 </figure>
 <br>
 
 ### Detailed mobility trend in Wales
 <figure class="image" align="center">
-<img src="plots/second-report/wal_detailed_regions_before_after_part_1.png"  height="200"/>
-<img src="plots/second-report/wal_detailed_regions_before_after_part_2.png"  height="200"/>
+<img src="plots/second-report/wal_detailed_regions_before_after_part_1.png"  height="220"/>
+<img src="plots/second-report/wal_detailed_regions_before_after_part_2.png"  height="220"/>
 <figcaption align="center"></figcaption>
 </figure>
 
