@@ -99,15 +99,15 @@ TEXT HERE
 
 ### Detailed mobility trend in England
 <figure class="image" align="center">
-<img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_3.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_4.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_5.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_6.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_7.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_8.png"  width="200"/>
-<img src="plots/second-report/eng_detailed_regions_before_after_part_9.png"  width="200"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_3.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_4.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_5.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_6.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_7.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_8.png"  width="180"/>
+<img src="plots/second-report/eng_detailed_regions_before_after_part_9.png"  width="180"/>
 <figcaption align="center"></figcaption>
 </figure>
 <br>
