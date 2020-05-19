@@ -96,8 +96,16 @@ TEXT HERE
 </figure>
 
 
+### Synchronisation of the Mobility Levels
 
-### Detailed mobility trend in England
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/sync_general.png"  width="600"/>
+<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify">Correlation between the slope of the curve and the income of the local authorities for the period between 11 and 23 of March 2020.</div></figcaption>
+</figure>
+
+
+### Updated mobility trend in England
 <figure class="image" align="center">
 <img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="380"/>
 <img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  height="380"/>
@@ -116,15 +124,15 @@ TEXT HERE
 </figure>
 <br>
 
-### Detailed mobility trend in Scotland
+### Updated mobility trend in Scotland
 <figure class="image" align="center">
-<img src="plots/second-report/sct_detailed_regions_before_after_part_1.png"  height="300"/>
-<img src="plots/second-report/sct_detailed_regions_before_after_part_2.png"  height="300"/>
+<img src="plots/second-report/sct_detailed_regions_before_after_part_1.png"  height="290"/>
+<img src="plots/second-report/sct_detailed_regions_before_after_part_2.png"  height="290"/>
 <figcaption align="center"> </figcaption>
 </figure>
 <br>
 
-### Detailed mobility trend in Norther Ireland
+### Updated mobility trend in Norther Ireland
 <figure class="image" align="center">
 <img src="plots/second-report/nir_detailed_regions_before_after_part_1.png"  height="250"/>
 <img src="plots/second-report/nir_detailed_regions_before_after_part_2.png"  height="250"/>
@@ -132,13 +140,12 @@ TEXT HERE
 </figure>
 <br>
 
-### Detailed mobility trend in Wales
+### Updated mobility trend in Wales
 <figure class="image" align="center">
 <img src="plots/second-report/wal_detailed_regions_before_after_part_1.png"  height="210"/>
 <img src="plots/second-report/wal_detailed_regions_before_after_part_2.png"  height="210"/>
 <figcaption align="center"></figcaption>
 </figure>
-
 
 
 ## Data & Methods
@@ -165,4 +172,9 @@ If you have any questions, comments or would like to know more about our analysi
 ## Acknowledgments
 <div style="text-align: justify">
 This preliminary analysis is a collaboration between the Department of Computer Science of University of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the useful discussions.</div>
+<br>
+<div style="text-align: justify">
+When citing the content of this report, please cite as:
+Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of human mobility in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/First-report
+
 
