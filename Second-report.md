@@ -26,10 +26,22 @@ These results/analyses do not necessarily reflect the views of the University of
 ## Executive summary
 <div style="text-align: justify">
 
-TEXT HERE WRITE SOMETHING...
+It is clear that lockdowns put in place around the world have affected people's lives at various levels. The debate about when they should start and end is endless with many defending variations of it which considers age, health risk, importance of the work for society (key workers), to name a few. [NEEED REFERENCE]. In certain locations in the world, particularly in developing nations, the debate is between health issues (lockdown) vs. survivebility (getting back to work); this debate is around health concerns and the economy and one that is hard to delve into. 
+
+</div>
+
+<div style="text-align: justify">
+
+In line with the wories about the economy, a few world leaders have defended what is called <i>vertical</i> social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from lost of income". [FIND QUOTES FROM TRUMP ET AL]. Although these policies have not been in place in the UK we explore what has been the <i>de facto</i> effect of lockdown policies to different social classes in the UK. 
 
 </div>
 #### Summary of main findings
+
+<div style="text-align: justify">
+
+In this report, we show that low-income groups have never attained the same level of restrictions as high-income groups in the UK. This means that social isolation policies disproportionally affect different groups with high-income groups being the most able to restrict their movement. 
+
+</div>
 
 <br>
 <figure class="image" align="center">
