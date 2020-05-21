@@ -74,10 +74,10 @@ These reports are based on similar analysis carried out on Italian data
 In order to assess whether movement of people has reduced in the UK during the restriction measures, we first have to establish what the regular level of movement across country is. We refer to this as our baseline. We use the <em> radius of gyration </em> as our measure of mobility. The radius of gyration provides an indication of the characteristic distance travelled by a person during a given time period.</div>
 <br>
 <div style="text-align: justify">
-We estimate our baseline by considering the average mobility during the period between 01 and 04 of February 2020. This period is before restriction measures were put into place by the British government, and does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration labeled as <em>Degree of Mobility</em>. <b>Figure 1 (A)</b> depicts the results of our baseline estimates at local authority level.</div>
+We estimate our baseline by considering the average mobility during the period between 01 and 04 of February 2020. This period is before restriction measures were put into place by the British government, and does not contain significant events, such as bank holidays or festivities, that may affect our baseline estimates. For our baseline, we use the median radius of gyration labeled as <em>Degree of Mobility</em>. <b>Figure 1(A)</b> depicts the results of our baseline estimates at local authority level.</div>
 <br>
 <div style="text-align: justify">
-As an example of a comparison between the baseline and another day, we selected the 22nd of February and showed the comparison result in <b>Figure 1 (B)</b>. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% indicates that the mobility is the same as the baseline, whereas lower values of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div>
+As an example of a comparison between the baseline and another day, we selected the 22nd of February and showed the comparison result in <b>Figure 1(B)</b>. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% indicates that the mobility is the same as the baseline, whereas lower values of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div>
 <br>
 <div style="text-align: justify">
 As the Figure shows, on an average day only few areas within the UK present a lower radius of gyration when compared to the baseline. This supports the validity of our baseline estimate, since on an average day we would not expect the radius of gyration to be very different from the baseline (note that there will always be a few areas with higher or lower mobility levels).</div>
@@ -85,12 +85,12 @@ As the Figure shows, on an average day only few areas within the UK present a lo
 <br>
 <figure class="image" align="center">
 <img src="plots/first-report/Mobility_UK_new.png" style = "width:600px">
- <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>(A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of degree of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</i></div></figcaption>
+ <figcaption align="center"> <b>Figure 1(A)</b> <div style="text-align: justify"><i>We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of degree of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</i></div></figcaption>
 </figure>
 
 <figure class="image" align="center">
 <img src="plots/first-report/Uk_02_18_baseline_comp.png" style = "width:600px">
- <figcaption align="center"> <b>Figure 1</b><div style="text-align: justify"><i>(B) We validate our baseline by comparing it to a typical day (22nd February 2020) before the restriction measures came into place. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</i></div></figcaption>
+ <figcaption align="center"> <b>Figure 1(B)</b><div style="text-align: justify"><i>We validate our baseline by comparing it to a typical day (22nd February 2020) before the restriction measures came into place. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</i></div></figcaption>
 </figure>
 
 ### Changes in mobility 
@@ -99,17 +99,17 @@ We want to assess the changes in the levels of mobility in the UK during the COV
 
 <figure class="image" align="center">
 <img src="plots/first-report/animation_mobility.gif" style = "width:600px">
-<figcaption align="center"> <b><div style="text-align: justify">Evolution of mobility activity over the period of our analysis. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div></b></figcaption>
+<figcaption align="center"> <b>Figure 1(C)</b> <i><div style="text-align: justify">Evolution of mobility activity over the period of our analysis. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div></i></figcaption>
 </figure>
 
 
 ### 17th March 2020
 <div style="text-align: justify">
-By March 17th 2020, the confirmed number of COVID-19 cases in the UK had increased to about five hundred and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to Figure 1 (B). However, the majority of locations still presents no decrease in the average mobility.</div>
+By March 17th 2020, the confirmed number of COVID-19 cases in the UK had increased to about five hundred and the Chief Medical Officer advised schools to cancel school trips and recommended people with coronavirus symptoms (fever of dry continuous cough) to self isolate for seven days. <b>Figure 2</b> depicts the comparison between this day and the baseline. Visual inspection clearly reveals several areas which have a decreased radius of gyration, as compared to <b>Figure 1(B)</b>. However, the majority of locations still presents no decrease in the average mobility.</div>
 <br>
 <figure class="image" align="center">
 <img src="plots/first-report/UK_03_16.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify">We compare the average mobility on March 17th 2020 with our baseline estimates. We find that a number of locations present a mobility of about 10% less than the baseline, as measured by the radius of gyration. However, the majority of areas still exhibit no decrease. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div></figcaption>
+<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>We compare the average mobility on March 17th 2020 with our baseline estimates. We find that a number of locations present a mobility of about 10% less than the baseline, as measured by the radius of gyration. However, the majority of areas still exhibit no decrease. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</i></div></figcaption>
 </figure>
 
 ### 26 March 2020
@@ -118,7 +118,7 @@ On March 23rd 2020, the Prime Minister asked the British people to stop all non-
 <br>
 <figure class="image" align="center">
 <img src="plots/first-report/UK_03_26.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify">Here, we present a comparison between the radius of gyration across the UK on 26th March and the baseline mobility levels. We observe a reduction in the average mobility of about 70% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div></figcaption>
+<figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify"><i>Here, we present a comparison between the radius of gyration across the UK on 26th March and the baseline mobility levels. We observe a reduction in the average mobility of about 70% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</i></div></figcaption>
 </figure>
 
 
@@ -128,7 +128,7 @@ We anticipate that the restriction measures on people's mobility imposed by the 
 <br>
 <figure class="image" align="center">
 <img src="plots/first-report/UK_04_01.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify">Here, we present a comparison between the radius of gyration across the UK on April 1st and the baseline mobility levels. We observe a reduction in the average mobility of about 80% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</div></figcaption>
+<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify"><i>Here, we present a comparison between the radius of gyration across the UK on April 1st and the baseline mobility levels. We observe a reduction in the average mobility of about 80% compared to the baseline for most of the UK as a result of restriction measures put into place by the Government. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis.</i></div></figcaption>
 </figure>
 
 
@@ -139,7 +139,7 @@ Here, we consider the overall trend over time across the UK. We find a clear dro
 <br>
 <figure class="image" align="center">
 <img src="plots/first-report/timeseries.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify">We depict here the evolution over time of the mobility activity for the UK, England, Scotland, Wales, and Northern Ireland. We find that the mobility starts decreasing in early March, and sharply drops around the second part of the month by about 80% compared to the baseline. </div></figcaption>
+<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>We depict here the evolution over time of the mobility activity for the UK, England, Scotland, Wales, and Northern Ireland. We find that the mobility starts decreasing in early March, and sharply drops around the second part of the month by about 80% compared to the baseline. </i></div></figcaption>
 </figure>
 
 
@@ -150,7 +150,7 @@ Our goal is to assess whether restriction measures are having the desired effect
 
 <figure class="image" align="center">
 <img src="plots/first-report/uk_geo_codes_before_after.png" style = "width:600px">
-<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify">Detailed mobility trend in England. Note that in this chart the bars are overlapped which means that 01/Apr bar is in front of the 26/Mar which is, in turn, in front of the 17/Mar bar. If we take England as an example the degree of mobility on 01/Apr is less than 2KM while on 17/Mar its more than 10KM.</div></figcaption>
+<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify"></i>Detailed mobility trend in England. Note that in this chart the bars are overlapped which means that 01/Apr bar is in front of the 26/Mar which is, in turn, in front of the 17/Mar bar. If we take England as an example the degree of mobility on 01/Apr is less than 2KM while on 17/Mar its more than 10KM.</i></div></figcaption>
 </figure>
 <br>
 
