@@ -43,6 +43,10 @@ In this report, we show that low-income groups have never attained the same leve
 
 </div>
 
+### General Information and Methods
+
+As indicated earlier this report focused on variations in human mobility as a function of socio-economics but also specific periods in the last couple of months of the pandemic. Figure 1 gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://www.cuebiq.com/about/data-for-good/"> First Report</a>
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_trends_periods.png"  width="600"/>
