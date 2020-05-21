@@ -45,7 +45,7 @@ In this report, we show that low-income groups have never attained the same leve
 
 ### General Information and Methods
 
-As indicated earlier this report focused on variations in human mobility as a function of socio-economics but also specific periods in the last couple of months of the pandemic. Figure 1 gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://www.cuebiq.com/about/data-for-good/"> First Report</a>
+As indicated earlier this report focused on variations in human mobility as a function of socio-economics but also specific periods in the last couple of months of the pandemic. Figure 1 gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also show us a stabilization in the mobility restrictions and perhaps even a slight increase in P3. However, the figure <i>does not</i> show how each different socio-economic groups compare to this general patterns, that is, do lockdown restrictions affect (or are implemented by) socio-economics groups differently?
 
 <br>
 <figure class="image" align="center">
