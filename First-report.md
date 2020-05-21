@@ -84,7 +84,7 @@ As the Figure shows, on an average day only few areas within the UK present a lo
 
 <br>
 <figure class="image" align="center">
-<img src="plots/first-report/Mobility_UK_new.png" style = "width:600px">
+<img src="plots/first-report/Mobility_UK_new.png" style = "width:300px">
  <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">(A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of degree of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</div></figcaption>
 </figure>
 
