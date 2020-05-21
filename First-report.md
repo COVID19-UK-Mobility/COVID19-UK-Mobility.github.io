@@ -84,13 +84,13 @@ As the Figure shows, on an average day only few areas within the UK present a lo
 
 <br>
 <figure class="image" align="center">
-<img src="plots/first-report/Mobility_UK_new.png" style = "width:300px">
- <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify">(A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of degree of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</div></figcaption>
+<img src="plots/first-report/Mobility_UK_new.png" style = "width:600px">
+ <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>(A) We estimate the average levels of mobility across the UK to use as comparison throughout our analysis. As a measure of degree of mobility, we use the radius of gyration, which indicates the typical distance travelled during the given time period. Here, we depict the median radius of gyration during the time period between 01 and 04 of February 2020. Areas with more intense red correspond to areas with a larger value of the radius of gyration.</i></div></figcaption>
 </figure>
 
 <figure class="image" align="center">
 <img src="plots/first-report/Uk_02_18_baseline_comp.png" style = "width:600px">
- <figcaption align="center"> <b>Figure 1</b><div style="text-align: justify">(B) We validate our baseline by comparing it to a typical day (22nd February 2020) before the restriction measures came into place. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</div></figcaption>
+ <figcaption align="center"> <b>Figure 1</b><div style="text-align: justify"><i>(B) We validate our baseline by comparing it to a typical day (22nd February 2020) before the restriction measures came into place. In the figure, the <em>Mobility Activity</em> represents the percentage of user mobility with respect to the baseline; a value of 100% (white) indicates that the mobility is the same as the baseline, whereas lower values (blue) of mobility activity represent a reduction in the mobility of people in that area. We do not report values higher than 100% as they are not of interest for this analysis. We find that, on a typical day, we do not observe many areas where the radius of gyration is lower than our baseline.</i></div></figcaption>
 </figure>
 
 ### Changes in mobility 
