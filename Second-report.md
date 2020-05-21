@@ -77,7 +77,10 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 
 ### First Period: from 11 to 23 of March 2020
 
-This is the where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4</b> and <b>Figure 5</b>...
+This period is the where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4(A)</b> looks at locations (NEED TO CHECK NAME) with high density versus low density (NEED TO SAY WHAT HIGH AND LOW MEAN); the figure indicates that <i>stay at home</i> had a different effect in high and low density locations (NAME). Locations with high density tend to have small degree of mobility but from these, locations (NAME) with higher degree of mobility had a higher degree of change (slope). For the case of low density, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope) (I'M NOT SO HAPPY WITH MY EXPLANATION HERE).
+
+<br>
+
 
 <br>
 <figure class="image" align="center">
