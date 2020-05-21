@@ -53,6 +53,7 @@ As indicated earlier this report focused on variations in human mobility as a fu
 <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 01 and 04 of February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23 of March). The second period (P2), represented in green, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilize (05 of April). Finally, the last period (yellow region of the plot) is defined between 05 and 17 of April. In this last period, we noticed an increase in mobility activity in some regions of the UK. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2 and P3 are the same.</i></div></figcaption>
 </figure>
 
+<br>
 <div style="text-align: justify">
 Coupled with <b>Figure 1</b>, we can with <b>Figure 2</b> see that in P3 all countries in the UK seen increases in mobility levels with the exception of Northern Ireland.</div>
 
