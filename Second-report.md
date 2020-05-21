@@ -55,8 +55,9 @@ As indicated earlier this report focused on variations in human mobility as a fu
 
 <br>
 <div style="text-align: justify">
-Coupled with <b>Figure 1</b>, we can with <b>Figure 2</b> see that in P3 all countries in the UK seen increases in mobility levels with the exception of Northern Ireland.</div>
+Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within UK with the exception of Northern Ireland.</div>
 
+<div style="text-align: justify">We used an analysis based on the the speed in which mobility patterns have changed by looking </div>
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_detailed_regions_before_after_part_1.png"  width="400"/>
