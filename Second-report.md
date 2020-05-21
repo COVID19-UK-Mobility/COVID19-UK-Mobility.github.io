@@ -77,17 +77,19 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 
 ### First Period: from 11 to 23 of March 2020
 
+This is the where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4</b> and <b>Figure 5</b>...
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p1.png" width="600"/>
-<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify">Analysis of the impact that the population density (A) and annual income (B) of Local Authorities in England have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.
+<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify"><i>Analysis of the impact that the population density (A) and annual income (B) of Local Authorities in England have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</i>
 </div></figcaption>
 </figure>
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p1.png"  width="600"/>
-<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify">In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data (https://seaborn.pydata.org/generated/seaborn.kdeplot.html). As can be seen, for the Final degree of mobility, the density attribute is can be relevant than the income (greater colour variation in the direction parallel to the x-axis). On the other hand, the slope of the curve is influenced by both the income and the density attributes (greater colour variation in the diagonal axis).
+<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data (https://seaborn.pydata.org/generated/seaborn.kdeplot.html). As can be seen, for the Final degree of mobility, the density attribute is can be relevant than the income (greater colour variation in the direction parallel to the x-axis). On the other hand, the slope of the curve is influenced by both the income and the density attributes (greater colour variation in the diagonal axis).</i>
 </div></figcaption>
 </figure>
 
