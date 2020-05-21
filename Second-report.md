@@ -57,7 +57,6 @@ As indicated earlier this report focused on variations in human mobility as a fu
 <div style="text-align: justify">
 Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within UK with the exception of Northern Ireland.</div>
 
-<div style="text-align: justify">We used an analysis based on the the speed in which mobility patterns have changed by looking </div>
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_detailed_regions_before_after_part_1.png"  width="400"/>
@@ -65,7 +64,7 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 </div></figcaption>
 </figure>
 
-
+<div style="text-align: justify">We used an analysis based on the the speed in which mobility patterns have changed by looking at individual locations (NEED THE NAME HERE) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. <b>Figure 3</b></div> shows how this is done. In summary if the degree of larger the change in the degree of mobility the steeper is the slope of the line segment the faster the changes. We have 3 basic cases shown in <b>Figures 3(A), 3(B) and 3(C)</b> representing an increase of mobility levels, contancy, and decrease, respectivelly. After doing this, each location has a slope associated with it for each of the three periods. 
 
 <br>
 <figure class="image" align="center">
