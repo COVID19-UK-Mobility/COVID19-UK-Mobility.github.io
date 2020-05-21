@@ -54,9 +54,7 @@ As indicated earlier this report focused on variations in human mobility as a fu
 </figure>
 
 <div style="text-align: justify">
-
-In line with the wories about the economy, a few world leaders have defended what is called <i>vertical</i> social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from lost of income". [FIND QUOTES FROM TRUMP ET AL]. Although these policies have not been in place in the UK we explore what has been the <i>de facto</i> effect of lockdown policies to different social classes in the UK. 
-</div>Coupled with <b>Figure 1</b>, we can with <b>Figure 2</b> see that in P3 all countries in the UK seen increases in mobility levels with the exception of Northern Ireland.</div>
+Coupled with <b>Figure 1</b>, we can with <b>Figure 2</b> see that in P3 all countries in the UK seen increases in mobility levels with the exception of Northern Ireland.</div>
 
 <br>
 <figure class="image" align="center">
