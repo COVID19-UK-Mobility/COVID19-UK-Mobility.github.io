@@ -81,6 +81,7 @@ This period is the where people in the UK were being told to stay at home and av
 
 <br>
 
+<b>Figure 4(A)</b> looks at the changes in mobility based on the level of income in each of the locations (NAME)
 
 <br>
 <figure class="image" align="center">
