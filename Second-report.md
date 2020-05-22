@@ -81,7 +81,7 @@ This period is the where people in the UK were being told to stay at home and av
 
 <br>
 
-<b>Figure 4(A)</b> looks at the changes in mobility based on the level of income in each of the locations (NAME) (NEED SOME EXPLANATION OF THE MEASURE OF INCOME WE USE). During this first period we see that
+<b>Figure 4(A)</b> looks at the changes in mobility based on the level of income in each of the locations (NAME) (NEED SOME EXPLANATION OF THE MEASURE OF INCOME WE USE). During this first period we see that both low and high income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consitently low income locations (NAME) did not reduce their mobility at the same level as similar areas of high income. 
 
 <br>
 <figure class="image" align="center">
@@ -91,6 +91,9 @@ This period is the where people in the UK were being told to stay at home and av
 </figure>
 
 <br>
+Something here 
+<br>
+
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p1.png"  width="600"/>
 <figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data (https://seaborn.pydata.org/generated/seaborn.kdeplot.html). As can be seen, for the Final degree of mobility, the density attribute is can be relevant than the income (greater colour variation in the direction parallel to the x-axis). On the other hand, the slope of the curve is influenced by both the income and the density attributes (greater colour variation in the diagonal axis).</i>
