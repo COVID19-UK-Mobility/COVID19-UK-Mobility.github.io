@@ -125,17 +125,19 @@ Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
 
 ### Third Period: from 05 to 17 of April 2020
 
+The last period of our analyses supports the claim that different regions and income levels are affected by lockdown measures in a different way. For the regions with high and low we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income we observe that the low income areas appear to slowly be increasing their mobility levels. When looking at <b>Figure 8(B)</b> it is clear that low income regions tend to be above the slope 0 while high income tend to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low income regions never stayed in isolation the levels seen by high income areas and more recently they have slowly increasing their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p3.png" width="600"/>
-<figcaption align="center"> <b>Figure 8</b> <div style="text-align: justify">Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.
+<figcaption align="center"> <b>Figure 8</b> <div style="text-align: justify"><i>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</i>
 </div></figcaption>
 </figure>
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p3.png"  width="600"/>
-<figcaption align="center"> <b>Figure 9</b> <div style="text-align: justify">The colour patterns in this figure are also different from the one depicted in Figure 5 and Figure 7. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.
+<figcaption align="center"> <b>Figure 9</b> <div style="text-align: justify"><i>The colour patterns in this figure are also different from the one depicted in Figure 5 and Figure 7. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</i>
 </div></figcaption>
 </figure>
 
@@ -151,6 +153,9 @@ Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
 
 
 ### Updated mobility trend in England
+
+NEED SOME TEXT HERE TO JUST SAY THIS IS AN UPDATE FROM THE PREVIOUS REPORT.
+
 <figure class="image" align="center">
 <img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="380"/>
 <img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  height="380"/>
