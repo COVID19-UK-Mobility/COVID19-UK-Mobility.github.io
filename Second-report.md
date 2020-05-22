@@ -92,7 +92,7 @@ This period is the where people in the UK were being told to stay at home and av
 </figure>
 
 <br>
-Something here... 
+Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
 <br>
 
 <figure class="image" align="center">
@@ -103,18 +103,23 @@ Something here...
 
 ### Second Period: from 23 of March to 05 of April 2020
 
+The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. The were numerous campaings from all walks of society to incentivese people to stay safe and protect the NHS by staying at home. This was the period in which we also had the address of Queen Elizabeth II.  In this period, depicted <b>Figure 6(A)</b> in we see high-desity areas not reducing their degree of mobility much which is probably due to the fact that their degree of mobility is small alread. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyes continues to show a decrease in mobility but again high-income regions consitently have a stronger decrease in mobility.
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p2.png" width="600"/>
-<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify">In the second period assessed we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.
+<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify"><i>In the second period assessed we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.</i>
 </div></figcaption>
 </figure>
 
 <br>
+Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
+<br>
+
+<br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p2.png"  width="600"/>
-<figcaption align="center"> <b>Figure 7</b> <div style="text-align: justify">The results depicted in this figure were similar to the ones in Figure 5 where the population density plays a major factor in the reduction of the final degree of mobility and both the density and the income influence the slope of the curve.
-
+<figcaption align="center"> <b>Figure 7</b> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 5 where the population density plays a major factor in the reduction of the final degree of mobility and both the density and the income influence the slope of the curve.</i>
 </div></figcaption>
 </figure>
 
