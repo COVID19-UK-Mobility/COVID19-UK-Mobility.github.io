@@ -7,14 +7,12 @@ description: "Second report (13th May 2020): analysis of socioeconomic aspects r
 Authors:
 **Clodomir Santana (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
 
-
 (1) Department of Computer Science, University of Exeter.
 <br>
 (2) Cuebiq Inc.
 
 [Go back to home page](./index.html).
- 
- 
+
 <a href="reports/Covid19_Second_UK.pdf" download>Click here to download the report.</a>
 
 ### Disclaimer
@@ -62,12 +60,15 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 <img src="plots/second-report/uk_detailed_regions_before_after_part_1.png"  width="400"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>Comparison between the mobility levels on the end of the second period (05 of April) and the end of the third period (17 of April) in the UK, England, Nothern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity.</i>
 </div></figcaption>
+
 </figure>
+
 
 <br>
 <div style="text-align: justify">We used an analysis based on the the speed in which mobility patterns have changed by looking at individual locations (NEED THE NAME HERE) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. <b>Figure 3</b> shows how this is done. In summary if the degree of larger the change in the degree of mobility the steeper is the slope of the line segment the faster the changes. We have 3 basic cases shown in <b>Figures 3(A), 3(B) and 3(C)</b> representing an increase of mobility levels, contancy, and decrease, respectivelly. After doing this, each location has a slope associated with it for each of the three periods. </div>
 
 <br>
+
 <figure class="image" align="center">
 <img src="plots/second-report/slope_ex.png"  width="600"/>
 <figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify"><i>To estimate the direction and magnitude of the levels of degree of mobility in a period, the following approach was adopted: for each period, we used a linear regression model to find a line which connects the point that represents the degree of mobility in the start of the period to the point at the end of the period. The magnitude of the slope of this line will indicate how big was the difference while the sign tells if it was a reduction (negative) or an increase (positive) in the mobility levels. Figure 1(A) shows a scenario of increasing mobility (slope > 0) and Figure 1(C) depicts the opposite case (slope < 0). A slope value close to zero, Figure 1(B), indicates small difference in the degree of mobility between the points considered.</i>
@@ -77,7 +78,11 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 
 ### First Period: from 11 to 23 of March 2020
 
-This is the where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4</b> and <b>Figure 5</b>...
+This period is the where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4(A)</b> looks at locations (NEED TO CHECK NAME) with high density versus low density (NEED TO SAY WHAT HIGH AND LOW MEAN); the figure indicates that <i>stay at home</i> had a different effect in high and low density locations (NAME). Locations with high density tend to have small degree of mobility but from these, locations (NAME) with higher degree of mobility had a higher degree of change (slope). For the case of low density, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope) (I'M NOT SO HAPPY WITH MY EXPLANATION HERE).
+
+<br>
+
+<b>Figure 4(A)</b> looks at the changes in mobility based on the level of income in each of the locations (NAME) (NEED SOME EXPLANATION OF THE MEASURE OF INCOME WE USE). During this first period we see that both low and high income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consitently low income locations (NAME) did not reduce their mobility at the same level as similar areas of high income. 
 
 <br>
 <figure class="image" align="center">
@@ -87,6 +92,9 @@ This is the where people in the UK were being told to stay at home and avoid all
 </figure>
 
 <br>
+Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
+<br>
+
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p1.png"  width="600"/>
 <figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data (https://seaborn.pydata.org/generated/seaborn.kdeplot.html). As can be seen, for the Final degree of mobility, the density attribute is can be relevant than the income (greater colour variation in the direction parallel to the x-axis). On the other hand, the slope of the curve is influenced by both the income and the density attributes (greater colour variation in the diagonal axis).</i>
@@ -95,49 +103,207 @@ This is the where people in the UK were being told to stay at home and avoid all
 
 ### Second Period: from 23 of March to 05 of April 2020
 
+The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. The were numerous campaings from all walks of society to incentivese people to stay safe and protect the NHS by staying at home. This was the period in which we also had the address of Queen Elizabeth II.  In this period, depicted <b>Figure 6(A)</b> in we see high-desity areas not reducing their degree of mobility much which is probably due to the fact that their degree of mobility is small alread. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyes continues to show a decrease in mobility but again high-income regions consitently have a stronger decrease in mobility.
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p2.png" width="600"/>
-<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify">In the second period assessed we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.
+<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify"><i>In the second period assessed we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.</i>
 </div></figcaption>
 </figure>
+<br>
+Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
+<br>
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p2.png"  width="600"/>
-<figcaption align="center"> <b>Figure 7</b> <div style="text-align: justify">The results depicted in this figure were similar to the ones in Figure 5 where the population density plays a major factor in the reduction of the final degree of mobility and both the density and the income influence the slope of the curve.
-
+<figcaption align="center"> <b>Figure 7</b> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 5 where the population density plays a major factor in the reduction of the final degree of mobility and both the density and the income influence the slope of the curve.</i>
 </div></figcaption>
 </figure>
 
 ### Third Period: from 05 to 17 of April 2020
 
+The last period of our analyses supports the claim that different regions and income levels are affected by lockdown measures in a different way. For the regions with high and low we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income we observe that the low income areas appear to slowly be increasing their mobility levels. When looking at <b>Figure 8(B)</b> it is clear that low income regions tend to be above the slope 0 while high income tend to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low income regions never stayed in isolation the levels seen by high income areas and more recently they have slowly increasing their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
+
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p3.png" width="600"/>
-<figcaption align="center"> <b>Figure 8</b> <div style="text-align: justify">Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.
+<figcaption align="center"> <b>Figure 8</b> <div style="text-align: justify"><i>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</i>
 </div></figcaption>
 </figure>
-
 <br>
+
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p3.png"  width="600"/>
-<figcaption align="center"> <b>Figure 9</b> <div style="text-align: justify">The colour patterns in this figure are also different from the one depicted in Figure 5 and Figure 7. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.
+<figcaption align="center"> <b>Figure 9</b> <div style="text-align: justify"><i>The colour patterns in this figure are also different from the one depicted in Figure 5 and Figure 7. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</i>
 </div></figcaption>
 </figure>
 
 
-### Synchronisation of the Mobility Levels
+### Mobility synchronisation
+
+In addition to the mobility levels, the mobility _synchronisation_ (i.e., how many people are leaving their homes at the same time) is another important facet of the human travelling behaviours of relevance for the covid-19 prevention offorts. Indeed, human mobility patterns are known to exhibit a large degree of temporal regularities, especially when it comes to commuting behaviours. These regularities are mostly governed by the synchronisation of labour, our work schedules and the activities we accomodate around them. 
+
+
+
+In the context of the covid-19 outbreak analyses, the mobility levels and travel _distances_ are important estimates of _how much_ people are traveling, while the mobility synchronisation metric would affect how much _exposure_ those trips could potentially produce.  Thus, we computed for each areal unit how many people where leaving _home_ every hour. In Figure?? we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
+
+<figure class="image" align="center">
+<img src="plots/second-report/out_of_home_trips.png"  width="1200"/>
+<figcaption align="center"> <b>Figure 10 - out-of-home trips </b> <div style="text-align: justify"> Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility  exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.  
+  </div></figcaption>
+</figure>
+
+
+From Figure 10 it is easy to spot the presence of marked temporal regularities indicating that people tend to leave home at regular time intervals indicating that a largre proportion of the out-of-home trips tend to happen in a synchronised fashion. Under normal circumstances, this phenomenon can be easily observed, for instance, in the high volume of cars and public transport passengers around certain hours of the day (e.g., rush hours). 
+
+
+
+However, such mobility synchronisation is not limited to the conventional commuting times. In fact, it can happen at any time of the day in which a people tend to perform certain activities. It can range from segments of the population with different working patterns (e.g., school teachers, healthcare professionals, hospitality workers ) to certain times of one's routine reserved for specific activities (e.g., eating, exercising, socialising). 
+
+
+
+Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the _mobility synchronicity_  as the total magnitude in the **periodicity** in the out-of-home trips. We therefore analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by three main periods, namely 24h, 12h and 8h as seen in Figure 11.
+
+
+
+<figure class="image" align="center">
+<img src="plots/second-report/global_power.png"  width="480"/>
+<figcaption align="center"> <b>Figure 11 - baseline out-of-home frequencies for February 2019</b> <div style="text-align: justify"> Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of three main periods above the 95% confidence level: 24h, 12h and 8h. 
+  </div></figcaption>
+</figure>
+
+Next, we defined a mobility sychronicity metric as the sum of the  powers from the Lomb-Scargle periodograms corresponding to the 24h, 12h and 8h.  Following, we computed the mobiliity synchronicity  for the out-of-home trips in each week in our data (weeks 6 to 17). A higher synchronicity value for a given week means that more people left their homes at the same time in that week, potentially increasing the likelihood being exposed to the virus or exposing more people.
+
+
+
+Our analyses indicated that before the partial lockdown measures, the overall out-of-home trips exhibited a large level of synchronicity, suggesting that the activity schedules were still in place. However, the partial lockdown measures put in place on 20 March significantly impacted the mobility synchronicity. Without the necessity to commute to work in face of the country-wide closure of non-essential activities, the out-of-home trips were more scattered throughout the day, reducing the likelihood of agglomerations and therefore the spread of the disease. 
+
+
+
+<figure class="image" align="center">
+<img src="plots/second-report/mobility_sync.png"  width="800"/>
+<figcaption align="center"> <b>Figure 12 - out-of-home trips synchronisation</b> <div style="text-align: justify"> The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. 
+  </div></figcaption>
+</figure>
+
+
 
 <br>
-<figure class="image" align="center">
-<img src="plots/second-report/sync_general.png"  width="600"/>
-<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify">
-</div></figcaption>
+
+#### Regional differences in mobility synchronisation
+
+Here we compared how the partial lockdown measures put in place in 20th March affected the out-of-home mobility synchronicity across the different regions of England. It is clear that for all regions, the lockdown reduced the synchronisation of the mobility behaviours. However, some regions still sustained a reasonable degree of synchronicity (e.g., East of England and the South West) whereas for other regions such as Yorkshire and The Humber there was a significant reduction in the mobility synchronisation. 
+
+<figure class="table" align="center">
+    <figcaption align="center"> <b>Table 1 - Mobility synchronisation for the different regions of England. </b> <div style="text-align: justify">
+  </div></figcaption>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th>Region</th>
+      <th>Pre-lockdown</th>
+      <th>During lockdown</th>
+      <th>Reduction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Yorkshire and The Humber</td>
+      <td>0.71</td>
+      <td>0.30</td>
+      <td>0.41</td>
+    </tr>
+    <tr>
+      <td>East Midlands</td>
+      <td>0.79</td>
+      <td>0.40</td>
+      <td>0.39</td>
+    </tr>
+    <tr>
+      <td>West Midlands</td>
+      <td>0.77</td>
+      <td>0.44</td>
+      <td>0.34</td>
+    </tr>
+    <tr>
+      <td>London</td>
+      <td>0.83</td>
+      <td>0.56</td>
+      <td>0.27</td>
+    </tr>
+    <tr>
+      <td>North East</td>
+      <td>0.64</td>
+      <td>0.40</td>
+      <td>0.24</td>
+    </tr>
+    <tr>
+      <td>South East</td>
+      <td>0.81</td>
+      <td>0.60</td>
+      <td>0.21</td>
+    </tr>
+    <tr>
+      <td>North West</td>
+      <td>0.81</td>
+      <td>0.62</td>
+      <td>0.18</td>
+    </tr>
+    <tr>
+      <td>South West</td>
+      <td>0.72</td>
+      <td>0.56</td>
+      <td>0.16</td>
+    </tr>
+    <tr>
+      <td>East of England</td>
+      <td>0.61</td>
+      <td>0.49</td>
+      <td>0.12</td>
+    </tr>
+  </tbody>
+</table>
+
 </figure>
+
+#### Socioeconomic differences in mobility synchronisation 
+
+In addition to the regional differences, we also investigated how the mobility restriction measures and the partial lockdown affected the mobility patterns of populations from different socioeconomic groups accordint to the Office of National Statistics Socio-economic Classification (SEC). However, our highly-anonymised mobility data does not contain any socioeconomic metadata associated to the users. To overcome such limitation, we estimated the contribution of the population from the different socioeconomic  groups to the out-of-home trips by computing the average number of trips weighted by the populations of each of the eight Socioeconomic Classes, which can be described as follows:
+
+| SEC   |  Description                                            |
+| ---- | ------------------------------------------------------------ |
+| 1    | Higher managerial, administrative and professional occupations |
+| 2    | Lower managerial, administrative and professional occupations |
+| 3    | Intermediate occupations                                     |
+| 4    | Small employers and own account workers                      |
+| 5    | Lower supervisory and technical occupations                  |
+| 6    | Semi-routine occupations                                     |
+| 7    | Routine occupations                                          |
+| 8    | Never worked and long-term unemployed                        |
+
+Our approach was to use a strategy that would not incorporate any differences in the mobility patterns at the socioeconomic level. Thus, in our weighted-average approach we assumed that the total number of out-of-home trips within each Local Authority was uniformly distributed across each of SEC groups. The differences therefore would only be visible at large-scale level when the populations and the corresponding contributions from the different SECs were aggregated over the hundreds of areal units.
+
+
+
+Figure 13 indicates that higher income populations (SEC 1 and SEC 2 ) were the ones with the smallest degree of mobility synchronisation. It could suggest that people in these positions  were already less synchronised due to less rigid working patterns. For the lower income groups, on the other hand, their synchronisation levels were always very close to the baseline.  It was only  after the lockdown measures of 20th of March that they became less synchronised. Still, comparatively speaking, lower SECs exhibited a larger degree of out-of-home mobiliity synchronisation than populations from other groups.
+
+<br>
+
+<figure class="image" align="center">
+<img src="plots/second-report/socioeconomic_sync2.png"  width="1200"/>
+<figcaption align="center"> <b>Figure 13 - Mobility synchronisation across different socioeconomic groups</b> <div style="text-align: justify">
+  </div></figcaption>
+</figure>
+
+
 
 
 ### Updated mobility trend in England
+
+NEED SOME TEXT HERE TO JUST SAY THIS IS AN UPDATE FROM THE PREVIOUS REPORT.
+
 <figure class="image" align="center">
 <img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="380"/>
 <img src="plots/second-report/eng_detailed_regions_before_after_part_2.png"  height="380"/>
@@ -205,6 +371,7 @@ If you have any questions, comments or would like to know more about our analysi
 <div style="text-align: justify">
 This preliminary analysis is a collaboration between the Department of Computer Science of University of Exeter and Cuebiq Inc. In response to the COVID-19 crisis, <a href= "https://www.cuebiq.com/">Cuebiq</a> is providing insights to academic and humanitarian groups through a multi-stakeholder <a href="https://www.cuebiq.com/about/data-for-good/"> data collaborative</a> for timely and ethical analysis of aggregate human mobility patterns. We thank Pietro Gravino for the useful discussions.</div>
 <br>
+
 <div style="text-align: justify">
 When citing the content of this report, please cite as:
 Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of human mobility in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/First-report
