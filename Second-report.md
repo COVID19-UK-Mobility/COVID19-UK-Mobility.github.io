@@ -115,9 +115,6 @@ The second period of our analysis contains the peak of the lockdown and probably
 Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
 <br>
 
-<br>
-Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
-<br>
 
 <br>
 <figure class="image" align="center">
@@ -154,7 +151,7 @@ In addition to the mobility levels, the mobility _synchronisation_ (i.e., how ma
 In the context of the covid-19 outbreak analyses, the mobility levels and travel _distances_ are important estimates of _how much_ people are traveling, while the mobility synchronisation metric would affect how much _exposure_ those trips could potentially produce.  Thus, we computed for each areal unit how many people where leaving _home_ every hour. In Figure?? we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
 
 <figure class="image" align="center">
-<img src="plots/second-report/out_of_home_trips.png"  width="1200"/>
+<img src="plots/second-report/out_of_home_trips1.png"  width="600"/>
 <figcaption align="center"> <b>Figure 10 - out-of-home trips </b> <div style="text-align: justify"> Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility  exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.  
   </div></figcaption>
 </figure>
@@ -173,7 +170,7 @@ Thus, in order for us to have a more precise picture of the mobility synchronisa
 
 
 <figure class="image" align="center">
-<img src="plots/second-report/global_power.png"  width="480"/>
+<img src="plots/second-report/global_power.png"  width="600"/>
 <figcaption align="center"> <b>Figure 11 - baseline out-of-home frequencies for February 2019</b> <div style="text-align: justify"> Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of three main periods above the 95% confidence level: 24h, 12h and 8h. 
   </div></figcaption>
 </figure>
@@ -187,7 +184,7 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 
 
 <figure class="image" align="center">
-<img src="plots/second-report/mobility_sync.png"  width="800"/>
+<img src="plots/second-report/mobility_sync.png"  width="600"/>
 <figcaption align="center"> <b>Figure 12 - out-of-home trips synchronisation</b> <div style="text-align: justify"> The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. 
   </div></figcaption>
 </figure>
@@ -296,7 +293,7 @@ Figure 13 indicates that higher income populations (SEC 1 and SEC 2 ) were the o
 <br>
 
 <figure class="image" align="center">
-<img src="plots/second-report/socioeconomic_sync2.png"  width="1200"/>
+<img src="plots/second-report/socioeconomic_sync2.png"  width="600"/>
 <figcaption align="center"> <b>Figure 13 - Mobility synchronisation across different socioeconomic groups</b> <div style="text-align: justify">
   </div></figcaption>
 </figure>
