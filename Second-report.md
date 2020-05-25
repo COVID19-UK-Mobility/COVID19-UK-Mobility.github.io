@@ -116,6 +116,10 @@ Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
 <br>
 
 <br>
+Something here... CLODOMIR, CAN YOU EXPLAIN THESE CHARTS
+<br>
+
+<br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p2.png"  width="600"/>
 <figcaption align="center"> <b>Figure 7</b> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 5 where the population density plays a major factor in the reduction of the final degree of mobility and both the density and the income influence the slope of the curve.</i>
