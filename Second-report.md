@@ -146,7 +146,7 @@ Furthermore, <b>Figure 9(A)</b> reviews that at the end of the second period the
 </figure>
 
 
-### Mobility synchronisation
+### Mobility Synchronisation
 
 In addition to the mobility levels, the mobility _synchronisation_ (i.e., how many people are leaving their homes at the same time) is another important facet of the human travelling behaviours of relevance for the covid-19 prevention offorts. Indeed, human mobility patterns are known to exhibit a large degree of temporal regularities, especially when it comes to commuting behaviours. These regularities are mostly governed by the synchronisation of labour, our work schedules and the activities we accomodate around them. 
 
@@ -194,7 +194,7 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 
 <br>
 
-#### Regional differences in mobility synchronisation
+#### Regional Differences in Mobility Synchronisation
 
 Here we compared how the partial lockdown measures put in place in 20th March affected the out-of-home mobility synchronicity across the different regions of England. It is clear that for all regions, the lockdown reduced the synchronisation of the mobility behaviours. However, some regions still sustained a reasonable degree of synchronicity (e.g., East of England and the South West) whereas for other regions such as Yorkshire and The Humber there was a significant reduction in the mobility synchronisation. 
 
@@ -270,7 +270,7 @@ Here we compared how the partial lockdown measures put in place in 20th March af
 
 </figure>
 
-#### Socioeconomic differences in mobility synchronisation 
+#### Socioeconomic Differences in Mobility Synchronisation
 
 In addition to the regional differences, we also investigated how the mobility restriction measures and the partial lockdown affected the mobility patterns of populations from different socioeconomic groups accordint to the Office of National Statistics Socio-economic Classification (SEC). However, our highly-anonymised mobility data does not contain any socioeconomic metadata associated to the users. To overcome such limitation, we estimated the contribution of the population from the different socioeconomic  groups to the out-of-home trips by computing the average number of trips weighted by the populations of each of the eight Socioeconomic Classes, which can be described as follows:
 
@@ -302,7 +302,7 @@ Figure 13 indicates that higher income populations (SEC 1 and SEC 2 ) were the o
 
 
 
-### Updated mobility trend in England
+### Updated Mobility Trends in England
 
 NEED SOME TEXT HERE TO JUST SAY THIS IS AN UPDATE FROM THE PREVIOUS REPORT.
 
