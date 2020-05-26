@@ -156,7 +156,7 @@ In addition to the mobility levels, the mobility _synchronisation_ (i.e., how ma
 
 
 
-In the context of the covid-19 outbreak analyses, the mobility levels and travel _distances_ are important estimates of _how much_ people are traveling, while the mobility synchronisation metric would affect how much _exposure_ those trips could potentially produce.  Thus, we computed for each unit how many people where leaving _home_ every hour. In Figure 10 we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
+In the context of the covid-19 outbreak analyses, the mobility levels and travel _distances_ are important estimates of _how much_ people are traveling, while the mobility synchronisation metric would affect how much _exposure_ those trips could potentially produce.  Thus, we computed for each areal unit how many people where leaving _home_ every hour. In **Figure 10** we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
 
 <br>
 <figure class="image" align="center">
@@ -173,12 +173,12 @@ From **Figure 10** it is easy to spot the presence of marked temporal regulariti
 However, such mobility synchronisation is not limited to conventional commuting times. In fact, it can happen at any time of the day in which people tend to perform certain activities. It can range from segments of the population with different working patterns (e.g., school teachers, healthcare professionals, hospitality workers ) to certain times of one's routine reserved for specific activities (e.g., eating, exercising, socialising).
 
 
-Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the _mobility synchronicity_  as the total magnitude in the **periodicity** in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by three main periods, namely 24h, 12h and 8h as seen in Figure 11.
+Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the _mobility synchronicity_  as the total magnitude in the _periodicity_ in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by three main periods, namely 24h, 12h and 8h as seen in **Figure 11**.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/global_power.png"  width="600"/>
-<figcaption align="center"> <b>Figure 11</b> <div style="text-align: justify"> Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of three main periods above the 95% confidence level: 24h, 12h and 8h. 
+<figcaption align="center"> <b>Figure 11</b> <div style="text-align: justify"><i>Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of three main periods above the 95% confidence level: 24h, 12h and 8h</i>
   </div></figcaption>
 </figure>
 <br>
@@ -193,7 +193,7 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/mobility_sync.png"  width="600"/>
-<figcaption align="center"> <b>Figure 12</b> <div style="text-align: justify"> The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. 
+<figcaption align="center"> <b>Figure 12</b> <div style="text-align: justify"><i>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</i>
   </div></figcaption>
 </figure>
 <br>
@@ -277,7 +277,7 @@ Here we compared how the partial lockdown measures put in place in 20th March af
 
 #### Socioeconomic Differences in Mobility Synchronisation
 
-In addition to the regional differences, we also investigated how the mobility restriction measures and the partial lockdown affected the mobility patterns of populations from different socioeconomic groups accordint to the Office of National Statistics Socio-economic Classification (SEC). However, our highly-anonymised mobility data does not contain any socioeconomic metadata associated to the users. To overcome such limitation, we estimated the contribution of the population from the different socioeconomic  groups to the out-of-home trips by computing the average number of trips weighted by the populations of each of the eight Socioeconomic Classes, which can be described as follows:
+In addition to the regional differences, we also investigated how the mobility restriction measures and the partial lockdown affected the mobility patterns of populations from different socioeconomic groups according to the Office of National Statistics Socio-economic Classification (SEC). However, our highly-anonymised mobility data does not contain any socioeconomic metadata associated with the users. To overcome such limitation, we estimated the contribution of the population from the different socioeconomic  groups to the out-of-home trips by computing the average number of trips weighted by the populations of each of the eight Socioeconomic Classes, which can be described as follows:
 
 <br>
 
@@ -293,24 +293,23 @@ In addition to the regional differences, we also investigated how the mobility r
 | 8    | Never worked and long-term unemployed                        |
 
 <br>
-Our approach was to use a strategy that would not incorporate any differences in the mobility patterns at the socioeconomic level. Thus, in our weighted-average approach we assumed that the total number of out-of-home trips within each Local Authority was uniformly distributed across each of SEC groups. The differences therefore would only be visible at large-scale level when the populations and the corresponding contributions from the different SECs were aggregated over the hundreds of areal units.
+Our approach was to use a strategy that would not incorporate any differences in the mobility patterns at the socioeconomic level. Thus, in our weighted-average approach, we assumed that the total number of out-of-home trips within each Local Authority was uniformly distributed across each of SEC groups. The differences, therefore, would only be visible at a large-scale level when the populations and the corresponding contributions from the different SECs were aggregated over the hundreds of areal units.
 
 
 
-Figure 13 indicates that higher income populations (SEC 1 and SEC 2 ) were the ones with the smallest degree of mobility synchronisation. It could suggest that people in these positions  were already less synchronised due to less rigid working patterns. For the lower income groups, on the other hand, their synchronisation levels were always very close to the baseline.  It was only  after the lockdown measures of 20th of March that they became less synchronised. Still, comparatively speaking, lower SECs exhibited a larger degree of out-of-home mobiliity synchronisation than populations from other groups.
+**Figure 13** indicates that higher income populations (SEC 1 and SEC 2 ) were the ones with the smallest degree of mobility synchronisation. It could suggest that people in these positions  were already less synchronised due to less rigid working patterns. For the lower income groups, on the other hand, their synchronisation levels were always very close to the baseline.  It was only  after the lockdown measures of 20th of March that they became less synchronised. Still, comparatively speaking, lower SECs exhibited a larger degree of out-of-home mobiliity synchronisation than populations from other groups. Also, the lower the SECs the bigger the increase in synchronicity in the last few weeks of our analyses which reinforces the argument of innequalities leading them to be "forced" to return to a regular work pattern.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/socioeconomic_sync2.png"  width="600"/>
-<figcaption align="center"> <b>Figure 13 - Mobility synchronisation across different socioeconomic groups</b> <div style="text-align: justify">
+  <figcaption align="center"> <b>Figure 13</b> <i>Mobility synchronisation across different socioeconomic groups</i> <div style="text-align: justify">
   </div></figcaption>
 </figure>
 <br>
 
 ### Updated Mobility Trends in England
 
-NEED SOME TEXT HERE TO JUST SAY THIS IS AN UPDATE FROM THE PREVIOUS REPORT.
-
+These charts are updated trends presented in the <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>.
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/eng_detailed_regions_before_after_part_1.png"  height="380"/>
