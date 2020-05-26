@@ -43,7 +43,7 @@ In this report, we show that low-income groups have never attained the same leve
 
 ### General Information and Methods
 
-As indicated earlier, this report focuses on variations in human mobility as a function of socio-economics but also looking at specific periods in the last couple of months of the pandemic. <b>Figure 1</b> gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilization in the mobility restrictions and perhaps even a slight increase in P3. However, the figure does <i>not</i> show how each different socio-economic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socio-economics groups differently?
+As indicated earlier, this report focuses on variations in human mobility as a function of socio-economics but also looking at specific periods in the last couple of months of the pandemic. <b>Figure 1</b> gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilization in the mobility restrictions and perhaps even a slight increase in P3. However, the figure does _not_ show how each different socio-economic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socio-economics groups differently?
 
 <br>
 <figure class="image" align="center">
@@ -53,7 +53,7 @@ As indicated earlier, this report focuses on variations in human mobility as a f
 
 <br>
 <div style="text-align: justify">
-Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland.</div>
+Coupled with <b>Figure 1</b>, we can see in **Figure 2** that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland.</div>
 
 <br>
 <figure class="image" align="center">
