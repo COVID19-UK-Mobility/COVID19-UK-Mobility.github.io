@@ -1,6 +1,6 @@
 ---
 
-description: "Second report (13th May 2020): analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic"
+description: "Second report (13th May 2020): Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic"
 
 ---
 
@@ -24,13 +24,13 @@ These results/analyses do not necessarily reflect the views of the University of
 ## Executive summary
 <div style="text-align: justify">
 
-It is clear that lockdowns put in place around the world have affected people's lives at various levels. The debate about when they should start and end is endless with many defending variations of it which considers age, health risk, importance of the work for society (key workers), to name a few. [NEEED REFERENCE]. In certain locations in the world, particularly in developing nations, the debate is between health issues (lockdown) vs. survivebility (getting back to work); this debate is around health concerns and the economy and one that is hard to delve into. 
+It is clear that lockdowns put in place around the world have affected people's lives at various levels. The debate about when they should start and end is endless with many defending variations of it which considers age, health risk, importance of the work for society (key workers), to name a few. In certain locations in the world, particularly in developing nations, the debate is between health issues (lockdown) vs. survivebility (getting back to work); this debate is around health concerns and the economy and one that is hard to delve into. 
 
 </div>
 
 <div style="text-align: justify">
 
-In line with the wories about the economy, a few world leaders have defended what is called <i>vertical</i> social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from lost of income". [FIND QUOTES FROM TRUMP ET AL]. Although these policies have not been in place in the UK we explore what has been the <i>de facto</i> effect of lockdown policies to different social classes in the UK.
+In line with the wories about the economy, a few world leaders have defended what is called <i>vertical</i> social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from lost of income" [<a href="https://www.wsws.org/en/articles/2020/04/27/bols-a27.html">1</a>,<a href="https://riotimesonline.com/brazil-news/brazil/bolsonaro-to-call-on-mandetta-to-isolate-only-the-elderly-and-sick/">2</a>,<a href="https://eu.freep.com/story/news/local/michigan/2020/05/21/donald-trump-ford-motor-restart-american-economy/5239965002/">3</a>]. Although these policies have not been in place in the UK we explore what has been the <i>de facto</i> effect of lockdown policies to different social classes in several regions of the UK.
 </div>
 
 ### Summary of main findings
@@ -387,6 +387,6 @@ This preliminary analysis is a collaboration between the Department of Computer 
 
 <div style="text-align: justify">
 When citing the content of this report, please cite as:
-Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of human mobility in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/First-report
+Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/Second-report
 
 
