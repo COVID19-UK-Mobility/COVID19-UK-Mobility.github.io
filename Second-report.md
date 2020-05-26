@@ -53,7 +53,7 @@ As indicated earlier, this report focuses on variations in human mobility as a f
 
 <br>
 <div style="text-align: justify">
-Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within UK with the exception of Northern Ireland.</div>
+Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland.</div>
 
 <br>
 <figure class="image" align="center">
@@ -64,23 +64,22 @@ Coupled with <b>Figure 1</b>, we can see in <b>Figure 2</b> that we indeed have 
 
 
 <br>
-<div style="text-align: justify">We used an analysis based on the the speed in which mobility patterns have changed by looking at individual locations (local authorities) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. <b>Figure 3</b> shows how this is done. In summary if the degree of larger the change in the degree of mobility the steeper is the slope of the line segment the faster the changes. We have 3 basic cases shown in <b>Figures 3(A), 3(B) and 3(C)</b> representing an increase of mobility levels, contancy, and decrease, respectivelly. After doing this, each location has a slope associated with it for each of the three periods. </div>
+<div style="text-align: justify">We used an analysis based on the speed in which mobility patterns have changed by looking at individual locations (local authorities) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. <b>Figure 3</b> shows how this is done. In summary, if the degree of larger the change in the degree of mobility the steeper is the slope of the line segment the faster the changes. We have 3 basic cases shown in <b>Figures 3(A), 3(B) and 3(C)</b> representing an increase of mobility levels, constancy, and decrease, respectively. After doing this, each location has a slope associated with it for each of the three periods. </div>
 
 <br>
 
 <figure class="image" align="center">
 <img src="plots/second-report/slope_ex.png"  width="600"/>
-<figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify"><i>To estimate the direction and magnitude of the levels of degree of mobility in a period, the following approach was adopted: for each period, we used a linear regression model to find a line which connects the point that represents the degree of mobility in the start of the period to the point at the end of the period. The magnitude of the slope of this line will indicate how big was the difference while the sign tells if it was a reduction (negative) or an increase (positive) in the mobility levels. Figure 1(A) shows a scenario of increasing mobility (slope > 0) and Figure 1(C) depicts the opposite case (slope < 0). A slope value close to zero, Figure 1(B), indicates small difference in the degree of mobility between the points considered.</i>
+<figcaption align="center"> <b>Figure 3</b> <div style="text-align: justify"><i>To estimate the direction and magnitude of the levels of degree of mobility in a period, the following approach was adopted: for each period, we used a linear regression model to find a line which connects the point that represents the degree of mobility at the start of the period to the point at the end of the period. The magnitude of the slope of this line will indicate how big was the difference while the sign tells if it was a reduction (negative) or an increase (positive) in the mobility levels. Figure 1(A) shows a scenario of increasing mobility (slope > 0) and Figure 1(C) depicts the opposite case (slope < 0). A slope value close to zero, Figure 1(B), indicates a small difference in the degree of mobility between the points considered.</i>
 </div></figcaption>
 </figure>
 <br>
 
 ### First Period: from 11 to 23 of March 2020
 
-This period is where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4(A)</b> looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that <i>stay at home</i> had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope) (I'M NOT SO HAPPY WITH MY EXPLANATION HERE).
+This period is where people in the UK were being told to stay at home and avoid all but essential trips. <b>Figure 4(A)</b> looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that <i>stay at home</i> had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope)
 
-<b>Figure 4(B)</b> looks at the changes in mobility based on the total annual household income in 2018 in each of the local authorities. The locations were divided into two groups: one with the local authorities with annual household income less than £43500.0 (low-income group) and another composed of local authorities with an annual household income greater or equal to £43500.0 (high-income group).  During this first period, we see that both low and high-income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consistently low-income local authorities did not reduce their mobility at the same level as similar areas of high income.
-
+<b>Figure 4(B)</b> looks at the changes in mobility based on the total annual household income in 2018 in each of the local authorities. The locations were divided into two groups: one with the local authorities with annual household income less than £43,500 (low-income group) and another composed of local authorities with an annual household income greater or equal to £43,500 (high-income group).  During this first period, we see that both low and high-income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consistently low-income local authorities did not reduce their mobility at the same level as similar areas of high income.
 <br>
 
 <figure class="image" align="center">
