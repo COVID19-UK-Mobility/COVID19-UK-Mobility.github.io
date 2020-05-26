@@ -84,7 +84,7 @@ This period is where people in the UK were being told to stay at home and avoid 
 
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p1.png" width="600"/>
-<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify"><i>Analysis of the impact that the population density (A) and annual income (B) of Local Authorities in England have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</i>
+<figcaption align="center"> <b>Figure 4</b> <div style="text-align: justify"><i>Analysis of the impact that population density (A) and annual income (B) of local authorities in the UK have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</i>
 </div></figcaption>
 </figure>
 <br>
@@ -97,24 +97,24 @@ With the results depicted in <b>Figure 5</b>, we wanted to have a better underst
 
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p1.png"  width="600"/>
-<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data and both axes are in a logarithm scale for better visualization. </i>
+<figcaption align="center"> <b>Figure 5</b> <div style="text-align: justify"><i>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bivariate kernel estimate of the data and both axes are in a logarithm scale for better visualisation.</i>
 </div></figcaption>
 </figure>
 <br>
 
 ### Second Period: from 23 of March to 05 of April 2020
 
-The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivize people to stay safe and protect the NHS by staying at home. This was the period in which we also had the address of Queen Elizabeth II. In this period, depicted <b>Figure 6(A)</b> in we see high-density areas not reducing their degree of mobility much which is probably due to the fact that their degree of mobility is small already. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility.
+The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivize people to stay safe and protect the NHS by staying at home. This was the period in which we also had the television address of Queen Elizabeth II. In this period, depicted <b>Figure 6(A)</b>, we see high-density areas not reducing their degree of mobility much which is probably because their degree of mobility was small already. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p2.png" width="600"/>
-<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify"><i>In the second period assessed we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.</i>
+<figcaption align="center"> <b>Figure 6</b> <div style="text-align: justify"><i>In the second period assessed, we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it worth mentioning that, when compared to the first period, the slope and the final degree od mobility were smaller.</i>
 </div></figcaption>
 </figure>
 <br>
 
-Similarly to the previous period, we can see in <b>Figure 7(A)</b> that the final degree of mobility is greater in the local authorities with low population density and we there is no clear relationship between the annual population income and the final degree of mobility. Moreover, as shown in <b>Figure 5(B)</b>,   <b>Figure 7(B)</b>  indicates that both the income and population density are associated the slope of the line. It worth mentioning that, compared to the previous period, the values of slope and final mobility were smaller.
+Similarly to the previous period, we can see in <b>Figure 7(A)</b> that the final degree of mobility is greater in the local authorities with low population density and we there is no clear relationship between the annual population income and the final degree of mobility. Moreover, as shown in <b>Figure 5(B)</b>, <b>Figure 7(B)</b>  indicates that both the income and population density are associated the slope of the line. It worth mentioning that, compared to the previous period, the values of slope and final mobility were smaller.
 
 <br>
 
@@ -128,7 +128,7 @@ Similarly to the previous period, we can see in <b>Figure 7(A)</b> that the fina
 
 ### Third Period: from 05 to 17 of April 2020
 
-The last period of our analyses supports the claim that different regions and income levels are affected by lockdown measures in a different way. For the regions with high and low we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income we observe that the low income areas appear to slowly be increasing their mobility levels. When looking at <b>Figure 8(B)</b> it is clear that low income regions tend to be above the slope 0 while high income tend to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low income regions never stayed in isolation the levels seen by high income areas and more recently they have slowly increasing their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
+The last period of our analyses supports the claim that different regions and income levels are affected by lockdown measures differently. For the regions with high and low density, we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income, we observe that the low-income areas appear to slowly be increasing their mobility levels. When looking at <b>Figure 8(B)</b> it is clear that low-income regions tend to be above the slope 0 while high income tends to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low-income regions never stayed in isolation the levels seen by high-income areas and more recently they have slowly increased their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
 
 <br>
 <figure class="image" align="center">
