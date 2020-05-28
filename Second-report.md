@@ -57,7 +57,7 @@ Coupled with **Figure 1**, we can see in **Figure 2** that we indeed have an inc
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/uk_detailed_regions_before_after_part_1.png"  width="400"/>
+<img src="plots/second-report/uk_geo_codes_before_after_part_1.png"  width="400"/>
 <figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>Comparison between the mobility levels on the end of the second period (5th of April) and the end of the third period (17 of April) in the UK, England, Nothern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity.</i>
 </div></figcaption>
 </figure>
