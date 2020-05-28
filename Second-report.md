@@ -37,7 +37,7 @@ In line with the worries about the economy, a few world leaders have defended wh
 
 <div style="text-align: justify">
 
-In this report, we show that low-income groups have never attained the same level of restrictions as high-income groups in the UK. This means that social isolation policies disproportionally affect different groups, with high-income groups being the most able to restrict their movement. We focused the analysis on three periods depicted in <b>Figure 1</b>, henceforth called P1 (from 11/3/2020 to 23/3/2020), P2 (from 23/3/2020 to 5/4/2020), and P3 (from 5/4/2020 to 17/4/2020). We kept the length of the periods roughly the same to ensure fairness in the analysis. We use these 3 periods to contrast the level of movement restriction for different social classes in a period before the announcement of the UK partial lockdown (P1), the period after the announcement until movement levels started to stabilise around the date of the historic TV broadcast from Queen Elizabeth II (P2), and the period after the broadcast until 17 of April (P3). We show that P3 shows an increase in the levels of mobility for lower classes which may be a sign of people getting tired of lockdown restrictions, venturing outside their homes, or even being required to work to provide for their families. The increase in mobility in P3 varies significantly around the UK. Lastly, we show that normal rhythms of individuals which arise from our daily routines are completely lost after the suggestion that people should "avoid crowded places and work from home if possible" (17/3/2020); this means that such measures lead to people having variety in their rhythms or even not having regular rhythms.
+In this report, we show that low-income groups have never attained the same level of restrictions as high-income groups in the UK. This means that social isolation policies disproportionally affect different groups, with high-income groups being the most able to restrict their movement. We focused the analysis on four periods depicted in <b>Figure 1</b>, henceforth called P1 (from 11/3/2020 to 23/3/2020), P2 (from 23/3/2020 to 5/4/2020), and P3 (from 5/4/2020 to 17/4/2020). We kept the length of the periods roughly the same to ensure fairness in the analysis. We use these 3 periods to contrast the level of movement restriction for different social classes in a period before the announcement of the UK partial lockdown (P1), the period after the announcement until movement levels started to stabilise around the date of the historic TV broadcast from Queen Elizabeth II (P2), and the period after the broadcast until 17 of April (P3). We show that P3 shows an increase in the levels of mobility for lower classes which may be a sign of people getting tired of lockdown restrictions, venturing outside their homes, or even being required to work to provide for their families. The increase in mobility in P3 varies significantly around the UK. Lastly, we show that normal rhythms of individuals which arise from our daily routines are completely lost after the suggestion that people should "avoid crowded places and work from home if possible" (17/3/2020); this means that such measures lead to people having variety in their rhythms or even not having regular rhythms.
 
 </div>
 
@@ -48,23 +48,23 @@ As indicated earlier, this report focuses on variations in human mobility as a f
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_trends_periods.png"  width="600"/>
-<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 1st and 4th February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23rd March). The second period (P2), represented in green, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilize (5th of April). Finally, the last period (yellow region of the plot) is defined between 5th and 17th of April. In this last period, we noticed an increase in mobility activity in some regions of the UK. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2 and P3 are the same.</i></div></figcaption>
+<figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 1st and 4th February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23rd March). The second period (P2), represented in yellow, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilize (5th of April). The penultimate period (green region of the plot) is defined between 5th and 17th of April. In P3, we noticed an increase in mobility activity in some regions of the UK. Finally, the last period (P4) represented by the colour red confirms the increase the mobility activity from 10 to 22 of May 2020. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2, P3 and P4 are the same.</i></div></figcaption>
 </figure>
 
 <br>
 
-Coupled with **Figure 1**, we can see in **Figure 2** that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland.
+Coupled with **Figure 1**, we can see in **Figure 2** that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland. It also shows an increase in the degree of mobility in the UK and all of its four countries in the fourth period.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_geo_codes_before_after_part_1.png"  width="400"/>
-<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>Comparison between the mobility levels on the end of the second period (5th of April) and the end of the third period (17 of April) in the UK, England, Nothern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity.</i>
+<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>Comparison between the mobility levels on the end of the fist (23th of March), second (5th of April), third (17 of April) and fourth (22 of May) periods in the UK, England, Nothern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity in P3 and P4.</i>
 </div></figcaption>
 </figure>
 
 
 <br>
-We used an analysis based on the speed at which mobility patterns have changed by looking at individual locations (at the local authority level) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. **Figure 3** shows how this is done. In summary, the larger the degree of change in mobility, the steeper the line segment. We have 3 basic cases shown in **Figures 3(A), 3(B) and 3(C)** representing an increase of mobility levels, no change, and a decrease, respectively. After doing this, each location has a slope associated with it for each of the three periods.
+We used an analysis based on the speed at which mobility patterns have changed by looking at individual locations (at the local authority level) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. **Figure 3** shows how this is done. In summary, the larger the degree of change in mobility, the steeper the line segment. We have 3 basic cases shown in **Figures 3(A), 3(B) and 3(C)** representing an increase of mobility levels, no change, and a decrease, respectively. After doing this, each location has a slope associated with it for each of the four periods.
 
 <br>
 
@@ -128,7 +128,7 @@ Similarly to the previous period, we can see in **Figure 7(A)** that the final d
 
 ### Third Period: from 05 to 17 of April 2020
 
-The last period of our analyses supports the claim that different regions and income levels are affected by lockdown measures differently. For the regions with high and low density, we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income, we observe that the low-income areas appear to slowly be increasing their mobility levels. When looking at **Figure 8(B)** it is clear that low-income regions tend to be above the slope 0 while high income tends to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low-income regions never stayed in isolation at the same levels seen by high-income areas, and more recently they have slowly increased their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
+The penultimate period of our analyses supports the claim that different regions and income levels are affected by lockdown measures differently. For the regions with high and low density, we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income, we observe that the low-income areas appear to slowly be increasing their mobility levels. When looking at **Figure 8(B)** it is clear that low-income regions tend to be above the slope 0 while high income tends to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low-income regions never stayed in isolation at the same levels seen by high-income areas, and more recently they have slowly increased their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
 
 <br>
 <figure class="image" align="center">
@@ -150,6 +150,28 @@ Furthermore, **Figure 9(A)** reviews that at the end of the second period the lo
 <br>
 
 
+### Fourth Period: from 10 to 22 of May 2020
+
+The last period of our analyses  
+<br>
+<figure class="image" align="center">
+<img src="plots/second-report/slope_radius_p4.png" width="600"/>
+<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify"><i>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</i>
+</div></figcaption>
+</figure>
+<br>
+
+
+<br>
+
+<figure class="image" align="center">
+<img src="plots/second-report/density_income_p4.png"  width="600"/>
+<figcaption align="center"> <b>Figure 11</b> <div style="text-align: justify"><i>The colour patterns in this figure are also different from the one depicted in Figure 5 and Figure 7. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</i>
+</div></figcaption>
+</figure>
+<br>
+
+
 ### Mobility Synchronisation
 
 In addition to the mobility levels, the mobility _synchronisation_ (i.e., how many people are leaving their homes at the same time) is another important facet of the human travelling behaviour of relevance for the covid-19 prevention efforts. Indeed, human mobility patterns are known to exhibit a large degree of temporal regularities, especially when it comes to commuting behaviours. These regularities are mostly governed by the synchronisation of labour, our work schedules and the activities we accomodate around them. 
@@ -161,7 +183,7 @@ In the context of the covid-19 outbreak analyses, the mobility levels and travel
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/out_of_home_trips1.png"  width="600"/>
-<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify"><i>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility  exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</i>
+<figcaption align="center"> <b>Figure 12</b> <div style="text-align: justify"><i>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility  exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</i>
 </div></figcaption>
 </figure>
 <br>
@@ -173,12 +195,12 @@ From **Figure 10** it is easy to spot the presence of marked temporal regulariti
 However, such mobility synchronisation is not limited to conventional commuting times. In fact, it can happen at any time of the day in which people tend to perform certain activities. It can range from segments of the population with different working patterns (e.g., school teachers, healthcare professionals, hospitality workers ) to certain times of one's routine reserved for specific activities (e.g., eating, exercising, socialising).
 
 
-Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the _mobility synchronicity_  as the total magnitude in the _periodicity_ in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by three main periods, namely 24h, 12h and 8h as seen in **Figure 11**.
+Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the _mobility synchronicity_  as the total magnitude in the _periodicity_ in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by four main periods, namely 24h, 12h and 8h as seen in **Figure 11**.
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/global_power.png"  width="600"/>
-<figcaption align="center"> <b>Figure 11</b> <div style="text-align: justify"><i>Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of three main periods above the 95% confidence level: 24h, 12h and 8h</i>
+<figcaption align="center"> <b>Figure 13</b> <div style="text-align: justify"><i>Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of four main periods above the 95% confidence level: 24h, 12h and 8h</i>
   </div></figcaption>
 </figure>
 <br>
@@ -193,7 +215,7 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/mobility_sync.png"  width="600"/>
-<figcaption align="center"> <b>Figure 12</b> <div style="text-align: justify"><i>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</i>
+<figcaption align="center"> <b>Figure 14</b> <div style="text-align: justify"><i>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</i>
   </div></figcaption>
 </figure>
 <br>
