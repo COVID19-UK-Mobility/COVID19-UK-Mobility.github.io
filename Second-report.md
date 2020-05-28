@@ -152,11 +152,11 @@ Furthermore, **Figure 9(A)** reviews that at the end of the second period the lo
 
 ### Fourth Period: from 10 to 22 of May 2020
 
-The last period of our analyses  
+The last period of our analyses shows that there is a trend of increasing the degree of mobility in the local authorities. **Figure 10(A)** shows that the largest increases were registered in local authorities with low density; however, the slope of the line indicates a similarity between the increase rate of low and high-density areas. Concerning the relationship of the slope and final degree of mobility with the annual household income, **Figure 10(B)** that the result for the low-income group was more concentrated in the area of the plot where the final degree of mobility was less than 4 and the slope less than 2.  On the other hand, the high-income local authorities were more distributed along the regression line. Similar results were also observed in the US, where the mobility activity of the population began to increase even though the mobility-restriction measures were not lifted [<a ref="https://news.northeastern.edu/2020/05/26/people-in-the-us-started-moving-around-more-before-stay-at-home-measures-were-lifted/">4</a>]. These results are also supported by articles which report an increase in the number of people at beaches and parks in the UK [<a href="https://www.mirror.co.uk/news/uk-news/uk-abandoned-social-distancing-photos-22087839">5</a>].
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p4.png" width="600"/>
-<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify"><i>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</i>
+<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify"><i></i>>
 </div></figcaption>
 </figure>
 <br>
