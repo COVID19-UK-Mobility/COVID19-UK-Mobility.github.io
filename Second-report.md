@@ -346,7 +346,7 @@ These charts are updated trends presented in the <a href="https://github.com/COV
 
 <br>
 <figure class="image" align="center">
-<iframe src='https://flo.uri.sh/visualisation/2628094/embed' frameborder='0' scrolling='no' style='width:100%;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2628094/?utm_source=embed&utm_campaign=visualisation/2628094' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/2628094/embed' frameborder='0' scrolling='no' style='width:100%;height:800px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2628094/?utm_source=embed&utm_campaign=visualisation/2628094' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </figure>
 <br>
 
@@ -354,7 +354,7 @@ These charts are updated trends presented in the <a href="https://github.com/COV
 
 <br>
 <figure class="image" align="center">
-<iframe src='https://flo.uri.sh/visualisation/2629318/embed' frameborder='0' scrolling='no' style='width:100%;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2629318/?utm_source=embed&utm_campaign=visualisation/2629318' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/2629318/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2629318/?utm_source=embed&utm_campaign=visualisation/2629318' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </figure>
 <br>
 
@@ -362,7 +362,7 @@ These charts are updated trends presented in the <a href="https://github.com/COV
 
 <br>
 <figure class="image" align="center">
-
+<iframe src='https://flo.uri.sh/visualisation/2629340/embed' frameborder='0' scrolling='no' style='width:100%;height:800px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2629340/?utm_source=embed&utm_campaign=visualisation/2629340' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </figure>
 <br>
 
