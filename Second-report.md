@@ -41,7 +41,7 @@ In this report, we show that low-income groups have never attained the same leve
 
 <br>
 <figure class="image" align="center">
-<iframe src='https://flo.uri.sh/visualisation/2618959/embed' frameborder='0' scrolling='no' style='width:110%;height:500px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2618959/?utm_source=embed&utm_campaign=visualisation/2618959' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/2618959" data-url="https://flo.uri.sh/visualisation/2618959/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <figcaption align="center"> <b>Figure 1</b> <div style="text-align: justify"><i>Evolution of the mobility activity in the UK, ENG, NIR, SCT and WAL since the announcement of the partial lockdown in 23rd of March.</i>
 </div></figcaption>
 </figure>
