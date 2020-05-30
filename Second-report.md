@@ -362,7 +362,7 @@ These charts are the updated trends presented in the <a href="https://github.com
 
 <br>
 <figure class="image" align="center">
-<div class="flourish-embed flourish-map" data-src="visualisation/2629340" data-url="https://flo.uri.sh/visualisation/2629340/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/2636660" data-url="https://flo.uri.sh/visualisation/2636660/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </figure>
 <br>
 
