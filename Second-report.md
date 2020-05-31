@@ -340,37 +340,13 @@ Our approach was to use a strategy that would not incorporate any differences in
 </figure>
 <br>
 
-### Updated Mobility Trends in England
+### Updated Mobility Trends
 
 These charts are the updated trends presented in the <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>.
 
 <br>
 <figure class="image" align="center">
-<div class="flourish-embed flourish-map" data-src="visualisation/2628094" data-url="https://flo.uri.sh/visualisation/2628094/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</figure>
-<br>
-
-### Updated mobility trend in Northern Ireland
-
-<br>
-<figure class="image" align="center">
-<div class="flourish-embed flourish-map" data-src="visualisation/2629318" data-url="https://flo.uri.sh/visualisation/2629318/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</figure>
-<br>
-
-### Updated mobility trend in Scotland
-
-<br>
-<figure class="image" align="center">
-<div class="flourish-embed flourish-map" data-src="visualisation/2636660" data-url="https://flo.uri.sh/visualisation/2636660/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</figure>
-<br>
-
-### Updated mobility trend in Wales
-
-<br>
-<figure class="image" align="center">
-<div class="flourish-embed flourish-map" data-src="visualisation/2629377" data-url="https://flo.uri.sh/visualisation/2629377/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/2641930" data-url="https://flo.uri.sh/visualisation/2641930/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </figure>
 <br>
 
