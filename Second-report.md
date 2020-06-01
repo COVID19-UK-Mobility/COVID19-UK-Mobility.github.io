@@ -193,10 +193,11 @@ In the context of the covid-19 outbreak analyses, the mobility levels and travel
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/out_of_home_trips1.png"  width="600"/>
+<img src="plots/second-report/out_of_home_trips.png"  width="600"/>
 <figcaption align="center"> <b>Figure 13</b> <div style="text-align: justify"><i>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility  exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</i>
 </div></figcaption>
 </figure>
+
 <br>
 
 
@@ -225,10 +226,11 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/mobility_sync.png"  width="600"/>
-<figcaption align="center"> <b>Figure 15</b> <div style="text-align: justify"><i>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the reference 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</i>
+<img src="plots/second-report/mobility_sync2.png"  width="600"/>
+<figcaption align="center"> <b>Figure 15</b> <div style="text-align: justify"><i>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, descreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</i>
   </div></figcaption>
 </figure>
+
 <br>
 
 #### Regional Differences in Mobility Synchronisation
@@ -236,76 +238,88 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 Here we compared how the partial lockdown measures put in place in 20th March affected the out-of-home mobility synchronicity across the different regions of England. It is clear that, for all regions, the lockdown reduced the synchronisation of the mobility behaviour. However, some regions still sustained a reasonable degree of synchronicity (e.g., East of England and the South West) whereas for other regions such as Yorkshire and The Humber there was a significant reduction in the mobility synchronisation. 
 
 <br>
+
 <figure class="table" align="center">
     <figcaption align="center"> <b>Table 1 - Mobility synchronisation for the different regions of England. </b> <div style="text-align: justify">
   </div></figcaption>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: center;">
+    <tr style="text-align: right;">
+      <th></th>
       <th>Region</th>
       <th>Pre-lockdown</th>
-      <th>During lockdown</th>
+      <th>Lockdown</th>
       <th>Reduction</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Yorkshire and The Humber</td>
-      <td>0.71</td>
+      <th>6</th>
+      <td>South West</td>
+      <td>0.72</td>
       <td>0.30</td>
-      <td>0.41</td>
+      <td>0.42</td>
     </tr>
     <tr>
+      <th>0</th>
       <td>East Midlands</td>
       <td>0.79</td>
-      <td>0.40</td>
-      <td>0.39</td>
-    </tr>
-    <tr>
-      <td>West Midlands</td>
-      <td>0.77</td>
-      <td>0.44</td>
+      <td>0.45</td>
       <td>0.34</td>
     </tr>
     <tr>
+      <th>2</th>
       <td>London</td>
       <td>0.83</td>
       <td>0.56</td>
       <td>0.27</td>
     </tr>
     <tr>
-      <td>North East</td>
-      <td>0.64</td>
-      <td>0.40</td>
-      <td>0.24</td>
+      <th>7</th>
+      <td>West Midlands</td>
+      <td>0.77</td>
+      <td>0.51</td>
+      <td>0.26</td>
     </tr>
     <tr>
+      <th>8</th>
+      <td>Yorkshire and The Humber</td>
+      <td>0.71</td>
+      <td>0.46</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <th>5</th>
       <td>South East</td>
       <td>0.81</td>
-      <td>0.60</td>
-      <td>0.21</td>
+      <td>0.61</td>
+      <td>0.20</td>
     </tr>
     <tr>
-      <td>North West</td>
-      <td>0.81</td>
-      <td>0.62</td>
-      <td>0.18</td>
-    </tr>
-    <tr>
-      <td>South West</td>
-      <td>0.72</td>
-      <td>0.56</td>
+      <th>3</th>
+      <td>North East</td>
+      <td>0.64</td>
+      <td>0.49</td>
       <td>0.16</td>
     </tr>
     <tr>
+      <th>4</th>
+      <td>North West</td>
+      <td>0.81</td>
+      <td>0.70</td>
+      <td>0.11</td>
+    </tr>
+    <tr>
+      <th>1</th>
       <td>East of England</td>
       <td>0.61</td>
-      <td>0.49</td>
-      <td>0.12</td>
+      <td>0.56</td>
+      <td>0.05</td>
     </tr>
   </tbody>
 </table>
 </figure>
+
 <br>
 
 #### Socioeconomic Differences in Mobility Synchronisation
@@ -334,10 +348,11 @@ Our approach was to use a strategy that would not incorporate any differences in
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/socioeconomic_sync2.png"  width="600"/>
+<img src="plots/second-report/socioeconomic_sync.png"  width="600"/>
   <figcaption align="center"> <b>Figure 16</b> <i>Mobility synchronisation across different socioeconomic groups</i> <div style="text-align: justify">
   </div></figcaption>
 </figure>
+
 <br>
 
 ### Updated Mobility Trends
