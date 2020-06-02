@@ -41,7 +41,7 @@ In this report, we show that low-income groups have never attained the same leve
 <br>
 <figure class="image" align="center">
 <div class="flourish-embed flourish-chart" data-src="visualisation/2618959" data-url="https://flo.uri.sh/visualisation/2618959/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<figcaption align="center"> **Figure 1** <div style="text-align: justify">*Evolution of the mobility activity in the UK, ENG, NIR, SCT and WAL since the announcement of the partial lockdown in 23rd of March.*
+<figcaption align="center"> <strong>Figure 1</strong> <div style="font-style: italic">Evolution of the mobility activity in the UK, ENG, NIR, SCT and WAL since the announcement of the partial lockdown in 23rd of March.
 </div></figcaption>
 </figure>
 <br>
