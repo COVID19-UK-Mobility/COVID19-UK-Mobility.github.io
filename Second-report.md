@@ -41,7 +41,7 @@ In this report, we show that low-income groups have never attained the same leve
 <br>
 <figure class="image" align="center">
 <div class="flourish-embed flourish-chart" data-src="visualisation/2618959" data-url="https://flo.uri.sh/visualisation/2618959/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<figcaption align="center"> <strong>Figure 1</strong> <div style="font-style: italic">Evolution of the mobility activity in the UK, ENG, NIR, SCT and WAL since the announcement of the partial lockdown in 23rd of March.
+<figcaption align="center"> <strong>Figure 1</strong> <div style="text-align: justify"><em>Evolution of the mobility activity in the UK, ENG, NIR, SCT and WAL since the announcement of the partial lockdown in 23rd of March.</em>
 </div></figcaption>
 </figure>
 <br>
@@ -62,7 +62,7 @@ As indicated earlier, this report focuses on variations in human mobility as a f
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/uk_trends_periods.png"  width="600"/>
-<figcaption align="center"> <b>Figure 2</b> <div style="text-align: justify"><i>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 1st and 4th February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23rd March). The second period (P2), represented in yellow, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilise (5th of April). The penultimate period (green region of the plot) is defined between 5th and 17th of April. In P3, we noticed an increase in mobility activity in some regions of the UK. Finally, the last period (P4) represented by the colour red confirms the increase the mobility activity from 10 to 22 of May 2020. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2, P3 and P4 are the same.</i></div></figcaption>
+<figcaption align="center"> <strong>Figure 2</strong> <div style="text-align: justify"><em>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 1st and 4th February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23rd March). The second period (P2), represented in yellow, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilise (5th of April). The penultimate period (green region of the plot) is defined between 5th and 17th of April. In P3, we noticed an increase in mobility activity in some regions of the UK. Finally, the last period (P4) represented by the colour red confirms the increase the mobility activity from 10 to 22 of May 2020. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2, P3 and P4 are the same.</em></div></figcaption>
 </figure>
 
 <br>
