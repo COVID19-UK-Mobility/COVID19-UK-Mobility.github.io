@@ -27,7 +27,7 @@ Lockdown measures put in place around the world have affected people's lives at 
 </div>
 
 <div style="text-align: justify">
-In line with the worries about the economy, a few world leaders have defended what is called vertical social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from loss of income" [<a href="https://www.wsws.org/en/articles/2020/04/27/bols-a27.html">1</a>,<a href="https://riotimesonline.com/brazil-news/brazil/bolsonaro-to-call-on-mandetta-to-isolate-only-the-elderly-and-sick/">2</a>,<a href="https://eu.freep.com/story/news/local/michigan/2020/05/21/donald-trump-ford-motor-restart-american-economy/5239965002/">3</a>]. Although these policies have not been in place in the UK we explore what has been the _de facto_ effect of lockdown policies to different social classes in several regions of the UK.
+In line with the worries about the economy, a few world leaders have defended what is called vertical social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from loss of income" [<a href="https://www.wsws.org/en/articles/2020/04/27/bols-a27.html">1</a>,<a href="https://riotimesonline.com/brazil-news/brazil/bolsonaro-to-call-on-mandetta-to-isolate-only-the-elderly-and-sick/">2</a>,<a href="https://eu.freep.com/story/news/local/michigan/2020/05/21/donald-trump-ford-motor-restart-american-economy/5239965002/">3</a>]. Although these policies have not been in place in the UK we explore what has been the <em>de facto</em> effect of lockdown policies to different social classes in several regions of the UK.
 </div>
 
 ### Summary of main findings
@@ -60,7 +60,7 @@ As our measure of mobility, we employed the radius of gyration[<a href="http://w
 </div>
 
 <div style="text-align: justify">
-As indicated earlier, this report focuses on variations in human mobility as a function of socioeconomic status but also looking at specific periods in the last two months of the pandemic. <strong>Figure 2</strong> gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilisation in the mobility restrictions and an increase starting in P3. However, the figure does _not_ show how each different socioeconomic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socioeconomic groups differently?
+As indicated earlier, this report focuses on variations in human mobility as a function of socioeconomic status but also looking at specific periods in the last two months of the pandemic. <strong>Figure 2</strong> gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilisation in the mobility restrictions and an increase starting in P3. However, the figure does <em>not</em> show how each different socioeconomic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socioeconomic groups differently?
 </div>
 
 <br>
@@ -97,7 +97,7 @@ We used an analysis based on the speed at which mobility patterns have changed b
 ### First Period: from 11 to 23 of March 2020
 
 <div style="text-align: justify">
-This is the period during which people in the UK were being told to stay at home and avoid all but essential trips. <strong>Figure 5(A)</strong> looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that the *stay at home* message had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density areas, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope).
+This is the period during which people in the UK were being told to stay at home and avoid all but essential trips. <strong>Figure 5(A)</strong> looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that the <em>stay at home</em> message had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density areas, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope).
 </div>
 
 <div style="text-align: justify">
@@ -131,7 +131,7 @@ With the results depicted in <strong>Figure 6</strong>, we wanted to have a bett
 ### Second Period: from 23 of March to 05 of April 2020
 
 <div style="text-align: justify">
-The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivise people to *stay safe* and *protect the NHS* by *staying at home*. This was the period in which we also had the television address by Queen Elizabeth II. In this period, depicted in <strong>Figure 7(A)</strong>, we see high-density areas not reducing their degree of mobility much. This is probably due to the fact that their degree of mobility was already small. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility (<strong>Figure 7(B)</strong>).
+The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivise people to <em>stay safe</em> and <em>protect the NHS</em> by <em>staying at home</em>. This was the period in which we also had the television address by Queen Elizabeth II. In this period, depicted in <strong>Figure 7(A)</strong>, we see high-density areas not reducing their degree of mobility much. This is probably due to the fact that their degree of mobility was already small. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility (<strong>Figure 7(B)</strong>).
 </div>
 
 <br>
@@ -212,11 +212,11 @@ An increase in the degree of mobility during the lockdown were also observed in 
 ### Mobility Synchronisation
 
 <div style="text-align: justify">
-In addition to the mobility levels, the mobility *synchronisation* (i.e., how many people are leaving their homes at the same time) is another important facet of the human travelling behaviour of relevance for the COVID-19 prevention efforts. Indeed, human mobility patterns are known to exhibit a large degree of temporal regularities, especially when it comes to commuting behaviours. These regularities are mostly governed by the synchronisation of labour, our work schedules and the activities we accommodate around them.
+In addition to the mobility levels, the mobility <em>synchronisation</em> (i.e., how many people are leaving their homes at the same time) is another important facet of the human travelling behaviour of relevance for the COVID-19 prevention efforts. Indeed, human mobility patterns are known to exhibit a large degree of temporal regularities, especially when it comes to commuting behaviours. These regularities are mostly governed by the synchronisation of labour, our work schedules and the activities we accommodate around them.
 <\div>
 
 <div style="text-align: justify">
-In the context of the COVID-19 outbreak analyses, the mobility levels and travel *distances* are important estimates of *how much* people are travelling, while the mobility synchronisation metric would affect how much *exposure* those trips could potentially produce. Thus, we computed for each areal unit how many people where leaving *home* every hour. In <strong>Figure 13</strong> we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
+In the context of the COVID-19 outbreak analyses, the mobility levels and travel <em>distances</em> are important estimates of <em>how much</em> people are travelling, while the mobility synchronisation metric would affect how much <em>exposure</em> those trips could potentially produce. Thus, we computed for each areal unit how many people where leaving <em>home</em> every hour. In <strong>Figure 13</strong> we compare the out-of-home trips for the first week of February in 2019 and the first week of April in 2020. It is clear that the lockdown measures imposed in the UK were effective in reducing the number of out-of-home trips.
 <\div>
 
 <br>
@@ -236,7 +236,7 @@ However, such mobility synchronisation is not limited to conventional commuting 
 <\div>
 
 <div style="text-align: justify">
-Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the *mobility synchronicity* as the total magnitude in the *periodicity* in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by four main periods, namely 24h, 12h and 8h as seen in <strong>Figure 14</strong>.
+Thus, in order for us to have a more precise picture of the mobility synchronisation patterns, instead of analysing it as a concentration of trips around certain hours, we define the <em>mobility synchronicity</em> as the total magnitude in the <em>periodicity</em> in the out-of-home trips. We, therefore, analysed the Wavelet and Fourier spectra to determine the strongest frequency components in the mobility regularity from our reference week from February 2019. Our analysis indicated that the mobility patterns are characterised by four main periods, namely 24h, 12h and 8h as seen in <strong>Figure 14</strong>.
 <\div>
 
 <br>
@@ -436,5 +436,3 @@ This preliminary analysis is a collaboration between the Department of Computer 
 When citing the content of this report, please cite as:
 Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/Second-report
 </div>
-
-
