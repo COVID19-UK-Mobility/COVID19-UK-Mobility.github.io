@@ -27,16 +27,14 @@ These results/analyses do not necessarily reflect the views of the University of
 Lockdown measures put in place around the world have affected people's lives at various levels. The debate about when they should start and end is endless, with many defending variations of it which consider age, health risk, the importance of labour for society (key workers), to name a few. In certain locations in the world, particularly in developing nations, the debate is between health issues (lockdown) vs. survivability (getting back to work); this debate is around health concerns and the economy and one that is hard to delve into. 
 
 </div>
-<div style="text-align: justify">
 
-In line with the worries about the economy, a few world leaders have defended what is called vertical social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from loss of income" [<a href="https://www.wsws.org/en/articles/2020/04/27/bols-a27.html">1</a>,<a href="https://riotimesonline.com/brazil-news/brazil/bolsonaro-to-call-on-mandetta-to-isolate-only-the-elderly-and-sick/">2</a>,<a href="https://eu.freep.com/story/news/local/michigan/2020/05/21/donald-trump-ford-motor-restart-american-economy/5239965002/">3</a>]. Although these policies have not been in place in the UK we explore what has been the _de facto_ effect of lockdown policies to different social classes in several regions of the UK.
-</div>
+<td align='justify'>In line with the worries about the economy, a few world leaders have defended what is called vertical social isolation to "enable people in low income classes to earn a living" and "avoid further suffering from loss of income" [<a href="https://www.wsws.org/en/articles/2020/04/27/bols-a27.html">1</a>,<a href="https://riotimesonline.com/brazil-news/brazil/bolsonaro-to-call-on-mandetta-to-isolate-only-the-elderly-and-sick/">2</a>,<a href="https://eu.freep.com/story/news/local/michigan/2020/05/21/donald-trump-ford-motor-restart-american-economy/5239965002/">3</a>]. Although these policies have not been in place in the UK we explore what has been the _de facto_ effect of lockdown policies to different social classes in several regions of the UK.</td>
 
 ### Summary of main findings
 
 <div style="text-align: justify">
   
-In this report, we show that low-income groups have never attained the same level of restrictions as high-income groups in the UK. This means that social isolation policies disproportionately affect different groups, with high-income groups being the most able to restrict their movement. We focused the analysis on four periods depicted in Figure 2, henceforth called P1 (from 11/3/2020 to 23/3/2020), P2 (from 23/3/2020 to 5/4/2020), P3 (from 5/4/2020 to 17/4/2020) and P4 (from 10/05/2020 to 22/05/2020). We kept the length of the periods roughly the same to ensure fairness in the analysis. We use these 4 periods to contrast the level of movement restriction for different social classes in a period before the announcement of the UK partial lockdown (P1), the period after the announcement until movement levels started to stabilise around the date of the historic TV broadcast from Queen Elizabeth II (P2), the period after the broadcast until 17 of April (P3), and the more recent period when some restriction measures have been slowly lifted (P4)[<a href="https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom">1</a>]. We show that P3 shows an increase in the levels of mobility for lower classes which may be a sign of people getting tired of lockdown restrictions, venturing outside their homes, or even being required to work to provide for their families. The increase in mobility varies significantly around the UK. Lastly, we show that normal rhythms of individuals which arise from our daily routines are completely lost after the suggestion that people should "avoid crowded places and work from home if possible" (17/3/2020); this means that such measures lead to people having variety in their rhythms or even not having regular rhythms.
+<td align='justify'>In this report, we show that low-income groups have never attained the same level of restrictions as high-income groups in the UK. This means that social isolation policies disproportionately affect different groups, with high-income groups being the most able to restrict their movement. We focused the analysis on four periods depicted in Figure 2, henceforth called P1 (from 11/3/2020 to 23/3/2020), P2 (from 23/3/2020 to 5/4/2020), P3 (from 5/4/2020 to 17/4/2020) and P4 (from 10/05/2020 to 22/05/2020). We kept the length of the periods roughly the same to ensure fairness in the analysis. We use these 4 periods to contrast the level of movement restriction for different social classes in a period before the announcement of the UK partial lockdown (P1), the period after the announcement until movement levels started to stabilise around the date of the historic TV broadcast from Queen Elizabeth II (P2), the period after the broadcast until 17 of April (P3), and the more recent period when some restriction measures have been slowly lifted (P4)[<a href="https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom">1</a>]. We show that P3 shows an increase in the levels of mobility for lower classes which may be a sign of people getting tired of lockdown restrictions, venturing outside their homes, or even being required to work to provide for their families. The increase in mobility varies significantly around the UK. Lastly, we show that normal rhythms of individuals which arise from our daily routines are completely lost after the suggestion that people should "avoid crowded places and work from home if possible" (17/3/2020); this means that such measures lead to people having variety in their rhythms or even not having regular rhythms.</td>
 
 <br>
 <figure class="image" align="center">
@@ -45,44 +43,38 @@ In this report, we show that low-income groups have never attained the same leve
 </div></figcaption>
 </figure>
 <br>
-
 </div>
 
 ### General Information and Methods
 
-In order to measure the effectiveness of the mobility restrictions and assess the compliance of the population, as in our first report[<a href="https://covid19-uk-mobility.github.io/First-report.html">2</a>], we used a national-scale data set on human mobility, provided by the collaboration with Cuebiq. Our goal is to provide and assess the changes in commuting and mobility at the local authority level across the UK during the COVID-19 health crisis.
+<td align='justify'>In order to measure the effectiveness of the mobility restrictions and assess the compliance of the population, as in our first report[<a href="https://covid19-uk-mobility.github.io/First-report.html">2</a>], we used a national-scale data set on human mobility, provided by the collaboration with Cuebiq. Our goal is to provide and assess the changes in commuting and mobility at the local authority level across the UK during the COVID-19 health crisis.</td>
 
-To analyse whether the movement of people has reduced in the UK during the mobility restriction measures, we established what the regular level of movement across the country (the baseline) is by considering the average mobility during the period between 01 and 04 of February 2020. This period is before restriction measures were announced by the British government, and does not contain significant events, such as bank holidays or festivities, that could affect our baseline estimates.
+<td align='justify'>To analyse whether the movement of people has reduced in the UK during the mobility restriction measures, we established what the regular level of movement across the country (the baseline) is by considering the average mobility during the period between 01 and 04 of February 2020. This period is before restriction measures were announced by the British government, and does not contain significant events, such as bank holidays or festivities, that could affect our baseline estimates.</td>
 
-As our measure of mobility, we employed the radius of gyration[<a href="http://www.nature.com/articles/nature06958">3</a>] which provides an indication of the characteristic distance travelled by a person during a given time period. To define our baseline, we applied the median radius of gyration in the period aforementioned. For simplification purposed, from now on we will use the term “degree of mobility” instead of "radius of gyration". **Figure 2** depicts the evolution of the degree of mobility in the UK. In **Figure 2**, the Mobility Activity represents the percentage of user mobility with respect to the baseline; a value of 100% indicates that the mobility is the same as the baseline, whereas lower values of mobility activity represent a reduction in the mobility in that area. Values higher than 100% are not reported since they are not one of the interests of this analysis.
+<td align='justify'>As our measure of mobility, we employed the radius of gyration[<a href="http://www.nature.com/articles/nature06958">3</a>] which provides an indication of the characteristic distance travelled by a person during a given time period. To define our baseline, we applied the median radius of gyration in the period aforementioned. For simplification purposed, from now on we will use the term “degree of mobility” instead of "radius of gyration". **Figure 2** depicts the evolution of the degree of mobility in the UK. In **Figure 2**, the Mobility Activity represents the percentage of user mobility with respect to the baseline; a value of 100% indicates that the mobility is the same as the baseline, whereas lower values of mobility activity represent a reduction in the mobility in that area. Values higher than 100% are not reported since they are not one of the interests of this analysis.</td>
 
-As indicated earlier, this report focuses on variations in human mobility as a function of socioeconomic status but also looking at specific periods in the last two months of the pandemic. **Figure 2** gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilisation in the mobility restrictions and an increase starting in P3. However, the figure does _not_ show how each different socioeconomic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socioeconomic groups differently?
+<td align='justify'>As indicated earlier, this report focuses on variations in human mobility as a function of socioeconomic status but also looking at specific periods in the last two months of the pandemic. **Figure 2** gives us a general overview of mobility patterns for the entire UK. This general view demonstrates a clear change in patterns which we explored in our <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. Yet, this figure also shows us a stabilisation in the mobility restrictions and an increase starting in P3. However, the figure does _not_ show how each different socioeconomic groups compare to these general patterns, that is, do lockdown restrictions affect (or are implemented by) socioeconomic groups differently?</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/uk_trends_periods.png"  width="600"/>
 <figcaption align="center"> <strong>Figure 2</strong> <div style="text-align: justify"><em>Updated evolution of the mobility activity over time for the UK compared to the baseline (average mobility between 1st and 4th February 2020). We divided the series into 3 periods: the first one (P1) is highlighted in blue and goes from 11 of March until the day where the partial lockdown was announced in the UK (23rd March). The second period (P2), represented in yellow, starts when the partial lockdown was announced and finished when the mobility activity levels begin to stabilise (5th of April). The penultimate period (green region of the plot) is defined between 5th and 17th of April. In P3, we noticed an increase in mobility activity in some regions of the UK. Finally, the last period (P4) represented by the colour red confirms the increase the mobility activity from 10 to 22 of May 2020. The important dates here are roughly the same ones used in Figure 5 in <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>. However, here we wanted to ensure the lengths of P1, P2, P3 and P4 are the same.</em></div></figcaption>
 </figure>
-
 <br>
 
-Coupled with **Figure 2**, we can see in **Figure 3** that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland. It also shows an increase in the degree of mobility in the UK and all of its four countries in the fourth period.
+<td align='justify'>Coupled with **Figure 2**, we can see in **Figure 3** that we indeed have an increase in mobility levels in the UK from P2 to P3 but also individually in all countries within the UK except for Northern Ireland. It also shows an increase in the degree of mobility in the UK and all of its four countries in the fourth period.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/uk_geo_codes_before_after_part_1.png"  width="400"/>
 <figcaption align="center"> <strong>Figure 3</strong> <div style="text-align: justify"><em>Comparison between the mobility levels on the end of the fist (23th of March), second (5th of April), third (17 of April) and fourth (22 of May) periods in the UK, England, Northern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity in P3 and P4.</em>
 </div></figcaption>
 </figure>
-
 <br>
 
-We used an analysis based on the speed at which mobility patterns have changed by looking at individual locations (at the local authority level) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. **Figure 4** shows how this is done. In summary, the larger the degree of change in mobility, the steeper the line segment. We have 3 basic cases shown in **Figures 4(A), 4(B) and 4(C)** representing an increase of mobility levels, no change, and a decrease, respectively. After doing this, each location has a slope associated with it for each of the four periods.
+<td align='justify'>We used an analysis based on the speed at which mobility patterns have changed by looking at individual locations (at the local authority level) at the beginning and end of each period and calculating the slope of the line segment that links the two positions. **Figure 4** shows how this is done. In summary, the larger the degree of change in mobility, the steeper the line segment. We have 3 basic cases shown in **Figures 4(A), 4(B) and 4(C)** representing an increase of mobility levels, no change, and a decrease, respectively. After doing this, each location has a slope associated with it for each of the four periods.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/slope_ex.png"  width="600"/>
 <figcaption align="center"> <strong>Figure 4</strong> <div style="text-align: justify"><em>To estimate the direction and magnitude of the levels of degree of mobility in a period, the following approach was adopted: for each period, we used a linear regression model to find a line which connects the point that represents the degree of mobility at the start of the period to the point at the end of the period. The magnitude of the slope of this line will indicate how big was the difference while the sign tells if it was a reduction (negative) or an increase (positive) in the mobility levels. <strong>Figure 4(A)</strong> shows a scenario of increasing mobility (slope > 0) and <strong>Figure 4(C)</strong> depicts the opposite case (slope < 0). A slope value close to zero, <strong>Figure 4(B)</strong>, indicates a small difference in the degree of mobility between the points considered.</em>
@@ -92,26 +84,23 @@ We used an analysis based on the speed at which mobility patterns have changed b
 
 ### First Period: from 11 to 23 of March 2020
 
-This is the period during which people in the UK were being told to stay at home and avoid all but essential trips. **Figure 5(A)** looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that the *stay at home* message had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density areas, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope).
+<td align='justify'>This is the period during which people in the UK were being told to stay at home and avoid all but essential trips. **Figure 5(A)** looks at local authorities with high density (density greater or equal to 1033.0 hab/km²) versus low density (less than 1033.0 hab/km²); the figure indicates that the *stay at home* message had a different effect in high and low-density local authorities. Locations with high density tend to have a small degree of mobility but from these,  local authorities with a higher degree of mobility had a higher degree of change (slope). For the case of low density areas, we see a milder effect and a wider diversity of degree of mobility; even at the end of the period some locations still have a high degree of mobility despite the significant decreases (slope).</td>
 
-**Figure 5(B)** looks at the changes in mobility based on the total annual household income in 2018 in each of the local authorities. The locations were divided into two groups: one with the local authorities with annual household income less than £43,500 (low-income group) and another composed of local authorities with an annual household income greater or equal to £43,500 (high-income group). During this first period, we see that both low and high-income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consistently low-income local authorities did not reduce their mobility at the same level as similar areas of high income.
+<td align='justify'>**Figure 5(B)** looks at the changes in mobility based on the total annual household income in 2018 in each of the local authorities. The locations were divided into two groups: one with the local authorities with annual household income less than £43,500 (low-income group) and another composed of local authorities with an annual household income greater or equal to £43,500 (high-income group). During this first period, we see that both low and high-income groups reduced their mobility and as expected the reduction happened at all levels of mobility from areas with low mobility to areas with high mobility. However, it is striking that this figure shows that for consistently low-income local authorities did not reduce their mobility at the same level as similar areas of high income.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p1.png" width="600"/>
 <figcaption align="center"> <strong>Figure 5</strong> <div style="text-align: justify"><em>Analysis of the impact that population density (A) and annual income (B) of local authorities in the UK have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</em>
 </div></figcaption>
 </figure>
-
 <br>
 
-With the results depicted in **Figure 6**, we wanted to have a better understanding of how important the population density and the annual income are to the results presented in **Figure 5**. **Figure 6(A)** looks at how the annual household income and the population density are associated with the final degree of mobility in each local authority. As can be seen in **Figure 6(A)**, the variation in the final degree of mobility is more related to the population density than to the income. This might be to the fact that in a low-density area, such as rural areas, people tend to have a longer trajectory to work/study when compared to a high-density area such as cities.
+<td align='justify'>With the results depicted in **Figure 6**, we wanted to have a better understanding of how important the population density and the annual income are to the results presented in **Figure 5**. **Figure 6(A)** looks at how the annual household income and the population density are associated with the final degree of mobility in each local authority. As can be seen in **Figure 6(A)**, the variation in the final degree of mobility is more related to the population density than to the income. This might be to the fact that in a low-density area, such as rural areas, people tend to have a longer trajectory to work/study when compared to a high-density area such as cities.</td>
 
-**Figure 6(B)** shows looks at how the annual household income and the population density are associated with the slope (how large was the reduction in the mobility). As observed in **Figure 6(B)**, both the annual household income and the population density of the local authorities influence the slope of the line. Also, the plot shows that the greatest slopes were generally related to areas with high income and high density.
+<td align='justify'>**Figure 6(B)** shows looks at how the annual household income and the population density are associated with the slope (how large was the reduction in the mobility). As observed in **Figure 6(B)**, both the annual household income and the population density of the local authorities influence the slope of the line. Also, the plot shows that the greatest slopes were generally related to areas with high income and high density.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p1.png"  width="600"/>
 <figcaption align="center"> <strong>Figure 6</strong> <div style="text-align: justify"><em>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bi-variate kernel estimate of the data and both axes are in a logarithm scale for better visualisation.</em>
@@ -121,8 +110,7 @@ With the results depicted in **Figure 6**, we wanted to have a better understand
 
 ### Second Period: from 23 of March to 05 of April 2020
 
-The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivise people to *stay safe* and *protect the NHS* by *staying at home*. This was the period in which we also had the television address by Queen Elizabeth II. In this period, depicted in **Figure 7(A)**, we see high-density areas not reducing their degree of mobility much. This is probably due to the fact that their degree of mobility was already small. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility (**Figure 7(B)**).
-
+<td align='justify'>The second period of our analysis contains the peak of the lockdown and probably the time in which the government invested the most in convincing the population to stay at home. There were numerous campaigns from all walks of society to incentivise people to *stay safe* and *protect the NHS* by *staying at home*. This was the period in which we also had the television address by Queen Elizabeth II. In this period, depicted in **Figure 7(A)**, we see high-density areas not reducing their degree of mobility much. This is probably due to the fact that their degree of mobility was already small. Conversely, the low-density areas have a more diverse set of change in mobility diversity. The income analyses continue to show a decrease in mobility but again high-income regions consistently have a stronger decrease in mobility (**Figure 7(B)**).</td>
 
 <br>
 <figure class="image" align="center">
@@ -132,37 +120,34 @@ The second period of our analysis contains the peak of the lockdown and probably
 </figure>
 <br>
 
-Similarly to the previous period, we can see in **Figure 8(A)** that the final degree of mobility is greater in the local authorities with low population density and we see that there is no clear relationship between the annual population income and the final degree of mobility. Moreover, as shown in **Figure 6}(B)**, **Figure 8(B)** indicates that both the income and population density are associated the slope of the line. It worth mentioning that, compared to the previous period, the values of slope and final mobility are smaller.
+<td align='justify'>Similarly to the previous period, we can see in **Figure 8(A)** that the final degree of mobility is greater in the local authorities with low population density and we see that there is no clear relationship between the annual population income and the final degree of mobility. Moreover, as shown in **Figure 6}(B)**, **Figure 8(B)** indicates that both the income and population density are associated the slope of the line. It worth mentioning that, compared to the previous period, the values of slope and final mobility are smaller.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p2.png"  width="600"/>
 <figcaption align="center"> <strong>Figure 8</strong> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 6 where the final degree of mobility is more related to the population density of the local authorities and both the density and the annual income of the household influence the slope of the curve.</i>
 </div></figcaption>
 </figure>
-
 <br>
 
 ### Third Period: from 05 to 17 of April 2020
 
-The penultimate period of our analyses supports the claim that different regions and income levels are affected by lockdown measures differently. For the regions with high and low density, we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income, we observe that the low-income areas appear to slowly be increasing their mobility levels. When looking at **Figure 9(B)** it is clear that low-income regions tend to be above the slope 0 while high income tends to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low-income regions never stayed in isolation at the same levels seen by high-income areas, and more recently they have slowly increased their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).
+<td align='justify'>The penultimate period of our analyses supports the claim that different regions and income levels are affected by lockdown measures differently. For the regions with high and low density, we do not see much of a difference and most of them have maintained their mobility levels (slope is around 0). However, for income, we observe that the low-income areas appear to slowly be increasing their mobility levels. When looking at **Figure 9(B)** it is clear that low-income regions tend to be above the slope 0 while high income tends to be below. This supports the idea that although not implemented in the UK, vertical isolation appears to be in fact in place. Low-income regions never stayed in isolation at the same levels seen by high-income areas, and more recently they have slowly increased their mobility while high-income areas continue to decrease their mobility levels (even if by a small margin).</td>
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p3.png" width="600"/>
-<figcaption align="center"> <b>Figure 9</b> <div style="text-align: justify"><i>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</i>
+<figcaption align="center"> <strong>Figure 9</strong> <div style="text-align: justify"><em>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</em>
 </div></figcaption>
 </figure>
 <br>
 
-Furthermore, **Figure 10(A)** reviews that at the end of the second period the local authorities with low population density present the largest degree of mobility. **Figure 10(B)**  shows that there were areas with a small increase or decrease in the mobility degree in local authorities with low and high income/density.
+<td align='justify'>Furthermore, **Figure 10(A)** reviews that at the end of the second period the local authorities with low population density present the largest degree of mobility. **Figure  10(B)** shows that there were areas with a small increase or decrease in the mobility degree in local authorities with low and high income/density.</td>
 
 <br>
-
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p3.png"  width="600"/>
-<figcaption align="center"> <b>Figure 10</b> <div style="text-align: justify"><i>The colour patterns in this figure are also different from the one depicted in Figure 6 and Figure 8. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</i>
+<figcaption align="center"> <strong>Figure 10</strong> <div style="text-align: justify"><em>The colour patterns in this figure are also different from the one depicted in **Figure 6** and **Figure 8**. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</em>
 </div></figcaption>
 </figure>
 <br>
@@ -170,26 +155,25 @@ Furthermore, **Figure 10(A)** reviews that at the end of the second period the l
 
 ### Fourth Period: from 10 to 22 of May 2020
 
-The last period of our analyses shows that there is a trend of increasing the degree of mobility in the local authorities. **Figure 11(A)** shows that the largest increases were registered in local authorities with low density; however, the slope of the line indicates a similarity between the increase rate of low and high-density areas. Concerning the relationship of the slope and final degree of mobility with the annual household income, **Figure 11(B)** that the result for the low-income group was more concentrated in the area of the plot where the final degree of mobility was less than 4 and the slope less than 2.  On the other hand, the high-income local authorities were more distributed along the regression line.  In fact, **Figure 12(A)** also indicates that local authorities with high population density present, in general,  a smaller final degree of mobility.  **Figure 12(B)** shows that the slope of the line depends on both the annual household income and the population density of the local authorities.
+<td align='justify'>The last period of our analyses shows that there is a trend of increasing the degree of mobility in the local authorities. **Figure 11(A)** shows that the largest increases were registered in local authorities with low density; however, the slope of the line indicates a similarity between the increase rate of low and high-density areas. Concerning the relationship of the slope and final degree of mobility with the annual household income, **Figure 11(B)** that the result for the low-income group was more concentrated in the area of the plot where the final degree of mobility was less than 4 and the slope less than 2. On the other hand, the high-income local authorities were more distributed along the regression line. In fact, **Figure 12(A)** also indicates that local authorities with high population density present, in general, a smaller final degree of mobility. **Figure 12(B)** shows that the slope of the line depends on both the annual household income and the population density of the local authorities.</td>
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/slope_radius_p4.png" width="600"/>
-<figcaption align="center"> <b>Figure 11</b> <div style="text-align: justify"><i>The plots show a general increase in the mobility level among the local authorities in the UK. Although we can see an increase in almost all local authorities regardless of the population density and annual household income, we can observe that the increase was greater in some of the low-density and high-income areas.</i>
+<figcaption align="center"> <strong>Figure 11</strong> <div style="text-align: justify"><em>The plots show a general increase in the mobility level among the local authorities in the UK. Although we can see an increase in almost all local authorities regardless of the population density and annual household income, we can observe that the increase was greater in some of the low-density and high-income areas.</em>
 </div></figcaption>
 </figure>
 <br>
-
 
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p4.png"  width="600"/>
-<figcaption align="center"> <b>Figure 12</b> <div style="text-align: justify"><i>The patterns depicted in these figures indicates that the relationship between the population density with the final degree of mobility is stronger than the relationship between annual household income and the final degree of mobility. On the other hand, both the population density and the annual household income influences the slope of the regression line.</i>
+<figcaption align="center"> <strong>Figure 12</strong> <div style="text-align: justify"><em>The patterns depicted in these figures indicates that the relationship between the population density with the final degree of mobility is stronger than the relationship between annual household income and the final degree of mobility. On the other hand, both the population density and the annual household income influences the slope of the regression line.</em>
 </div></figcaption>
 </figure>
 <br>
 
-An increase in the degree of mobility during the lockdown were also observed in the US, where the mobility activity of the population began to increase even though the mobility-restriction measures were not lifted [<a href="http://news.northeastern.edu/2020/05/26/people-in-the-us-started-moving-around-more-before-stay-at-home-measures-were-lifted">4</a>]. These results are also supported by articles which report an increase in the number of people at beaches and parks in the UK [<a href="https://www.mirror.co.uk/news/uk-news/uk-abandoned-social-distancing-photos-22087839">5</a>].
+<td align='justify'>An increase in the degree of mobility during the lockdown were also observed in the US, where the mobility activity of the population began to increase even though the mobility-restriction measures were not lifted[<a href="http://news.northeastern.edu/2020/05/26/people-in-the-us-started-moving-around-more-before-stay-at-home-measures-were-lifted">4</a>]. These results are also supported by articles which report an increase in the number of people at beaches and parks in the UK[<a href="https://www.mirror.co.uk/news/uk-news/uk-abandoned-social-distancing-photos-22087839">5</a>].</td>
 
 <br>
 
