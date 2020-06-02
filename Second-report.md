@@ -271,7 +271,7 @@ Here we compared how the partial lockdown measures put in place in 20th March af
 
 <br>
 <figure class="table" align="center">
-<figcaption align="center"> <strong>Table 1<\strong> <div style="text-align: justify"><em>Mobility synchronisation for the different regions of England.</em>
+<figcaption align="center"> <strong>Table 1</strong> <div style="text-align: justify"><em>Mobility synchronisation for the different regions of England.</em>
 </div></figcaption>
 <table border="1" class="dataframe">
   <thead>
