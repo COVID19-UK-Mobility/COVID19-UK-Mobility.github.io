@@ -222,7 +222,7 @@ In the context of the COVID-19 outbreak analyses, the mobility levels and travel
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/out_of_home_trips1.png"  width="600"/>
-<figcaption align="center"> <strong>Figure 13</strong> <div style="text-align: justify"><em>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</e/>
+<figcaption align="center"> <strong>Figure 13</strong> <div style="text-align: justify"><em>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</em>
 </div></figcaption>
 </figure>
 <br>
