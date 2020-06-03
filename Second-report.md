@@ -75,7 +75,7 @@ Coupled with <strong>Figure 2</strong>, we can see in <strong>Figure 3</strong> 
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/uk_geo_codes_before_after_part_1.png"  width="400"/>
+<img src="plots/second-report/uk_geo_codes_before_after_part_1.png"  width="500"/>
 <figcaption align="center"> <strong>Figure 3</strong> <div style="text-align: justify"><em>Comparison between the mobility levels on the end of the fist (23th of March), second (5th of April), third (17 of April) and fourth (22 of May) periods in the UK, England, Northern Ireland, Scotland and Wales. As observed, in most of the regions there was an increase in the mobility activity in P3 and P4.</em>
 </div></figcaption>
 </figure>
