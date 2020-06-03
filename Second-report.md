@@ -257,7 +257,7 @@ Our analyses indicated that before the partial lockdown measures, the overall ou
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/mobility_sync2.png"  width="600"/>
+<img src="plots/second-report/mobility_sync2.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 15</strong> <div style="text-align: justify"><em>The synchronicity metric reveals that in general, the out-of-home trips were less synchronised than the 2019 reference week. Furthermore, it shows that the partial lockdown measure imposed on 20th March was effecting also in reducing the mobility synchronisation, decreasing therefore the likelihood of contagion. It also appears that in the last week of the analysis we see an uptick on the synchronicity levels which is in line with what we demonstrated earlier for P3.</em>
 </div></figcaption>
 </figure>
@@ -385,7 +385,7 @@ Our approach was to use a strategy that would not incorporate any differences in
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/socioeconomic_sync.png"  width="600"/>
+<img src="plots/second-report/socioeconomic_sync.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 16</strong> <em>Mobility synchronisation across different socioeconomic groups.</em> <div style="text-align: justify">
   </div></figcaption>
 </figure>
