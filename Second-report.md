@@ -105,10 +105,7 @@ This is the period during which people in the UK were being told to stay at home
 
 <br>
 <figure class="image" align="center">
-<div class="container">
-<div style="width: 410px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2682179" data-url="https://flo.uri.sh/visualisation/2682179/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div style="width: 410px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2692223" data-url="https://flo.uri.sh/visualisation/2692223/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</div>
+<img src="plots/second-report/slope_radius_p1.png" width="800"/>
 <figcaption align="center"> <strong>Figure 5</strong> <div style="text-align: justify"><em>Analysis of the impact that population density (A) and annual income (B) of local authorities in the UK have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</em>
 </div></figcaption>
 </figure>
@@ -124,7 +121,7 @@ With the results depicted in <strong>Figure 6</strong>, we wanted to have a bett
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/density_income_p1.png"  width="600"/>
+<img src="plots/second-report/density_income_p1.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 6</strong> <div style="text-align: justify"><em>In this analysis, we wanted to have a better understanding of how important the population density and the annual income are to the results achieved in terms of the slope and the final degree of mobility. The contours represent the bi-variate kernel estimate of the data and both axes are in a logarithm scale for better visualisation.</em>
 </div></figcaption>
 </figure>
@@ -138,7 +135,7 @@ The second period of our analysis contains the peak of the lockdown and probably
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/slope_radius_p2.png" width="600"/>
+<img src="plots/second-report/slope_radius_p2.png" width="800"/>
 <figcaption align="center"> <strong>Figure 7</strong> <div style="text-align: justify"><em>In the second period assessed, we observed similar results to the previous period where we can see a reduction in the degree of mobility in both groups of income and population density; however, it is worth mentioning that, when compared to the first period, the slope and the final degree of mobility are smaller.</em>
 </div></figcaption>
 </figure>
@@ -150,7 +147,7 @@ Similarly to the previous period, we can see in <strong>Figure 8(A)</strong> tha
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/density_income_p2.png"  width="600"/>
+<img src="plots/second-report/density_income_p2.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 8</strong> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 6 where the final degree of mobility is more related to the population density of the local authorities and both the density and the annual income of the household influence the slope of the curve.</i>
 </div></figcaption>
 </figure>
@@ -164,7 +161,7 @@ The penultimate period of our analyses supports the claim that different regions
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/slope_radius_p3.png" width="600"/>
+<img src="plots/second-report/slope_radius_p3.png" width="800"/>
 <figcaption align="center"> <strong>Figure 9</strong> <div style="text-align: justify"><em>Here we start to see the appearance of local authorities which have a positive slope of their line indicating an increase in the mobility degree in this period. Notice that this behaviour was observed in the income and population density groups.</em>
 </div></figcaption>
 </figure>
@@ -176,7 +173,7 @@ Furthermore, <strong>Figure 10(A)</strong> reviews that at the end of the second
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/density_income_p3.png"  width="600"/>
+<img src="plots/second-report/density_income_p3.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 10</strong> <div style="text-align: justify"><em>The colour patterns in this figure are also different from the one depicted in <strong>Figure 6</strong> and <strong>Figure 8</strong>. We can no longer see a clear relationship between income/density and the results in terms of slope and final degree of mobility.</em>
 </div></figcaption>
 </figure>
@@ -191,7 +188,7 @@ The last period of our analyses shows that there is a trend of increasing the de
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/slope_radius_p4.png" width="600"/>
+<img src="plots/second-report/slope_radius_p4.png" width="800"/>
 <figcaption align="center"> <strong>Figure 11</strong> <div style="text-align: justify"><em>The plots show a general increase in the mobility level among the local authorities in the UK. Although we can see an increase in almost all local authorities regardless of the population density and annual household income, we can observe that the increase was greater in some of the low-density and high-income areas.</em>
 </div></figcaption>
 </figure>
@@ -199,7 +196,7 @@ The last period of our analyses shows that there is a trend of increasing the de
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/density_income_p4.png"  width="600"/>
+<img src="plots/second-report/density_income_p4.png"  width="800"/>
 <figcaption align="center"> <strong>Figure 12</strong> <div style="text-align: justify"><em>The patterns depicted in these figures indicates that the relationship between the population density with the final degree of mobility is stronger than the relationship between annual household income and the final degree of mobility. On the other hand, both the population density and the annual household income influences the slope of the regression line.</em>
 </div></figcaption>
 </figure>
@@ -224,7 +221,7 @@ In the context of the COVID-19 outbreak analyses, the mobility levels and travel
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/out_of_home_trips1.png"  width="600"/>
+<img src="plots/second-report/out_of_home_trips1.png"  width="700"/>
 <figcaption align="center"> <strong>Figure 13</strong> <div style="text-align: justify"><em>Here we use the first week of February 2019 as a baseline for what would be a standard behaviour in terms of the number of out-of-home trips. For the reference week, it is evident that the mobility exhibit a large degree of temporal regularity with two daily peaks (morning and evening) with this pattern repeating every weekday. When we look at the first week of April 2020 it is evident that lockdown measures imposed in late-March were very effective in restricting the out-of-home trips in the UK.</em>
 </div></figcaption>
 </figure>
@@ -244,7 +241,7 @@ Thus, in order for us to have a more precise picture of the mobility synchronisa
 
 <br>
 <figure class="image" align="center">
-<img src="plots/second-report/global_power.png"  width="600"/>
+<img src="plots/second-report/global_power.png"  width="700"/>
 <figcaption align="center"> <strong>Figure 14</strong> <div style="text-align: justify"><em>Global Wavelet and Fourier for the out-of-home trips spectra indicating the presence of four main periods above the 95% confidence level: 24h, 12h and 8h.</em>
 </div></figcaption>
 </figure>
