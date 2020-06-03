@@ -106,8 +106,8 @@ This is the period during which people in the UK were being told to stay at home
 <br>
 <figure class="image" align="center">
 <div class="container">
-<div style="width: 300px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2682179" data-url="https://flo.uri.sh/visualisation/2682179/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div style="width: 300px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2692223" data-url="https://flo.uri.sh/visualisation/2692223/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div style="width: 400px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2682179" data-url="https://flo.uri.sh/visualisation/2682179/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div style="width: 400px; display: table-cell;" class="flourish-embed flourish-scatter" data-src="visualisation/2692223" data-url="https://flo.uri.sh/visualisation/2692223/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </div>
 <figcaption align="center"> <strong>Figure 5</strong> <div style="text-align: justify"><em>Analysis of the impact that population density (A) and annual income (B) of local authorities in the UK have on the slope of the line and the degree of mobility at the end of the period. The groups represented by the green and yellow colours were obtained with the division of the data into two equal-sized groups based on sample quantiles. The lines are the output of linear regression for its respective group (colour). These plots show that the reduction in mobility was greater in areas with low density and the ones with high income.</em>
 </div></figcaption>
