@@ -5,7 +5,7 @@ description: "About us"
 
 ## About
 
-   * Clodomir Santana Jr. (1)
+   * Clodomir Santana (1)
    * <a href="https://federicobotta.github.io/">Federico Botta </a> (1)
    * Hugo Barbosa (1)
    * Filippo Privitera (2)
