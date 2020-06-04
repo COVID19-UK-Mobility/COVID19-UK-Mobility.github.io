@@ -1,6 +1,6 @@
 ---
 
-description: "Second report (6th June 2020): analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic"
+description: "Second report (4th June 2020): analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic"
 
 ---
 
