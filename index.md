@@ -12,9 +12,9 @@ Our analysis is based on similar projects carried out on Italian data
 </div>
 <br>
 
-<div style="text-align: justify">
+
 Reports:
-</div>
+
 
 <div style="text-align: justify">
 <a href="./First-report.html" style="font-size:25px;">[Link to the first report]</a> (8th April 2020).
