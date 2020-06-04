@@ -148,7 +148,7 @@ Similarly to the previous period, we can see in <strong>Figure 8(A)</strong> tha
 <br>
 <figure class="image" align="center">
 <img src="plots/second-report/density_income_p2.png"  width="800"/>
-<figcaption align="center"> <strong>Figure 8</strong> <div style="text-align: justify"><i>The results depicted in this figure were similar to the ones in Figure 6 where the final degree of mobility is more related to the population density of the local authorities and both the density and the annual income of the household influence the slope of the curve.</i>
+<figcaption align="center"> <strong>Figure 8</strong> <div style="text-align: justify"><em>The results depicted in this figure were similar to the ones in Figure 6 where the final degree of mobility is more related to the population density of the local authorities and both the density and the annual income of the household influence the slope of the curve.</em>
 </div></figcaption>
 </figure>
 <br>
