@@ -22,7 +22,7 @@ Our analysis is based on similar projects carried out on Italian data
 
 <br>
 <div style="text-align: justify">
-<a href="./Second-report.html" style="font-size:25px;">[Link to the first report]</a> (4th June 2020).
+<a href="./Second-report.html" style="font-size:25px;">[Link to the second report]</a> (4th June 2020).
 </div>
 <div style="text-align: justify">
 <strong>Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic.</strong>
