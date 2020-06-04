@@ -14,13 +14,13 @@ Our analysis is based on similar projects carried out on Italian data
 <div style="text-align: justify">
 <a href="./First-report.html" style="font-size:25px;">[Link to the first report]</a> (8th April 2020).
  
-Analysis of human mobility in the UK during the COVID-19 pandemic.
+<strong>Analysis of human mobility in the UK during the COVID-19 pandemic.</strong>
 </div>
  
 <div style="text-align: justify">
 <a href="./Second-report.html" style="font-size:25px;">[Link to the first report]</a> (4th June 2020).
  
-Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic.
+<strong>Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic.</strong>
 </div>
  
 Authors:
