@@ -399,7 +399,7 @@ These charts are the updated trends presented in the <a href="https://covid19-uk
 
 <br>
 <figure class="image" align="center">
-<div  style="width:65%;" class="flourish-embed flourish-map" data-src="visualisation/2641930" data-url="https://flo.uri.sh/visualisation/2641930/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div  style="width:80%;" class="flourish-embed flourish-map" data-src="visualisation/2641930" data-url="https://flo.uri.sh/visualisation/2641930/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </figure>
 <br>
 
