@@ -217,6 +217,9 @@ This preliminary analysis is a collaboration between the Department of Computer 
 <div style="text-align: justify">
 When citing the content of this report, please cite as:
 Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, and Riccardo Di Clemenete (2020), Analysis of human mobility in the UK during the COVID-19 pandemic, https://covid19-uk-mobility.github.io/First-report
+ 
+ 
+<a href="#top">Back to top of page</a>
 
 
 
