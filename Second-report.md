@@ -394,7 +394,7 @@ Our approach was to use a strategy that would not incorporate any differences in
 ### Updated Mobility Trends
 
 <div style="text-align: justify">
-These charts are the updated trends presented in the <a href="https://github.com/COVID19-UK-Mobility/COVID19-UK-Mobility.github.io/blob/master/First-report.md">First Report</a>.
+These charts are the updated trends presented in the <a href="https://covid19-uk-mobility.github.io/First-report.html">First Report</a>.
 </div>
 
 <br>
