@@ -31,6 +31,9 @@ Reports:
 <strong>Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic.</strong>
 </div>
 <br> 
+
+You can also find here the recording of an informal live discussion which we had on June 12th about the findings of our reports:
+<a href="https://www.youtube.com/watch?v=aMLsLJQ8G2Y" style="font-size:25px;"> [Link to live discussion]</a>.
  
 Authors:
 
