@@ -32,7 +32,8 @@ Reports:
 </div>
 <br> 
 
-If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper.</a>
+If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper:</a>
+Santana C., Botta F., Barbosa H., Privitera F.,Menezes R. & Di Clemente, R. Changes in the time-space dimension of human mobility during the COVID-19 pandemic. To Be Submitted ArXiv::2201.06527 (2020)
 
 You can also find here the recording of an informal live discussion which we had on June 12th 2020 about the findings of our reports:
 <a href="https://www.youtube.com/watch?v=aMLsLJQ8G2Y" style="font-size:25px;"> [Link to live discussion]</a>.
