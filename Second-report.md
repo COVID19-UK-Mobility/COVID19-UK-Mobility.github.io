@@ -18,7 +18,7 @@ Authors:
 <a href="reports/Covid19_Second_UK.pdf" download>Click here to download the report.</a>
 
 If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper:</a>
-Santana C., Botta F., Barbosa H., Privitera F.,Menezes R. & Di Clemente, R. Changes in the time-space dimension of human mobility during the COVID-19 pandemic. To Be Submitted ArXiv::2201.06527 (2020)
+<br> Santana C., Botta F., Barbosa H., Privitera F.,Menezes R. & Di Clemente, R. Changes in the time-space dimension of human mobility during the COVID-19 pandemic. To Be Submitted ArXiv::2201.06527 (2020)
 
 ### Disclaimer
 
