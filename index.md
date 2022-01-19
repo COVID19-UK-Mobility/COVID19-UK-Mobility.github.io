@@ -34,7 +34,7 @@ Reports:
 
 If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper.</a>
 
-You can also find here the recording of an informal live discussion which we had on June 12th about the findings of our reports:
+You can also find here the recording of an informal live discussion which we had on June 12th 2020 about the findings of our reports:
 <a href="https://www.youtube.com/watch?v=aMLsLJQ8G2Y" style="font-size:25px;"> [Link to live discussion]</a>.
  
 Authors:
