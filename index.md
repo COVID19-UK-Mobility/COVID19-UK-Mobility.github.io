@@ -37,11 +37,13 @@ You can also find here the recording of an informal live discussion which we had
  
 Authors:
 
-**Clodomir Santana (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
+**Clodomir Santana (1), Federico Botta (1,2), Hugo Barbosa (1), Filippo Privitera (3), Ronaldo Menezes (1,2) and Riccardo Di Clemente (1,2).**
 
 (1) Department of Computer Science, University of Exeter.
 <br>
-(2) Cuebiq Inc.
+(2) The Alan Turing Institute, London.
+<br>
+(3) Cuebiq Inc.
  
 
 

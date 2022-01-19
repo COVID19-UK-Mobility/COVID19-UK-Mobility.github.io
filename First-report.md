@@ -5,17 +5,20 @@ description: "First report (8th April 2020): analysis of human mobility in the U
 ---
 
 Authors:
-**Clodomir Santana (1), Federico Botta (1), Hugo Barbosa (1), Filippo Privitera (2), Ronaldo Menezes (1) and Riccardo Di Clemente (1).**
-
+**Clodomir Santana (1), Federico Botta (1,2), Hugo Barbosa (1), Filippo Privitera (3), Ronaldo Menezes (1,2) and Riccardo Di Clemente (1,2).**
 
 (1) Department of Computer Science, University of Exeter.
 <br>
-(2) Cuebiq Inc.
+(2) The Alan Turing Institute, London.
+<br>
+(3) Cuebiq Inc.
 
 [Go back to home page](./index.html).
  
  
 <a href="reports/Covid19-UK-9-April.pdf" download>Click here to download the report.</a> 
+
+If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper.</a>
 
 ### Disclaimer
 
