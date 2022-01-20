@@ -12,9 +12,16 @@ Our analysis is based on similar projects carried out on Italian data
 </div>
 <br>
 
+Articles:
+
+<div style="text-align: justify">
+<a href="https://arxiv.org/abs/2201.06527" style="font-size:25px;">[Link to arXiv Paper]</a> (19th January 2022).
+</div>
+<div style="text-align: justify">
+<strong>Checkout out our paper which investigates the changes in the time-space dimension of human mobility during the COVID-19 pandemic.</strong>
+</div>
 
 Reports:
-
 
 <div style="text-align: justify">
 <a href="./First-report.html" style="font-size:25px;">[Link to the first report]</a> (8th April 2020).
