@@ -12,19 +12,23 @@ Our analysis is based on similar projects carried out on Italian data
 </div>
 <br>
 
-Articles:
+<p style="color:#343a40; font-size:28px;">Articles</p>
+
 
 <div style="text-align: justify">
-<a href="https://arxiv.org/abs/2201.06527" style="font-size:25px;">[Link to arXiv Paper]</a> (19th January 2022).
+<a href="https://arxiv.org/abs/2201.06527" style="font-size:22px;">[Link to arXiv Paper]</a> (19th January 2022).
 </div>
 <div style="text-align: justify">
 <strong>Checkout out our paper which investigates the changes in the time-space dimension of human mobility during the COVID-19 pandemic.</strong>
 </div>
 
-Reports:
+<br>
+
+<p style="color:#343a40; font-size:28px;">Reports</p>
+
 
 <div style="text-align: justify">
-<a href="./First-report.html" style="font-size:25px;">[Link to the first report]</a> (8th April 2020).
+<a href="./First-report.html" style="font-size:22px;">[Link to the first report]</a> (8th April 2020).
 </div>
 <div style="text-align: justify">
 <strong>Analysis of human mobility in the UK during the COVID-19 pandemic.</strong>
@@ -32,7 +36,7 @@ Reports:
 
 <br>
 <div style="text-align: justify">
-<a href="./Second-report.html" style="font-size:25px;">[Link to the second report]</a> (4th June 2020).
+<a href="./Second-report.html" style="font-size:22px;">[Link to the second report]</a> (4th June 2020).
 </div>
 <div style="text-align: justify">
 <strong>Analysis of socioeconomic aspects related to mobility patterns in the UK during the COVID-19 pandemic.</strong>
@@ -43,7 +47,7 @@ If you would like to reference this work, please cite <a href="https://arxiv.org
 <br> Santana C., Botta F., Barbosa H., Privitera F.,Menezes R. & Di Clemente, R. Changes in the time-space dimension of human mobility during the COVID-19 pandemic. To Be Submitted ArXiv::2201.06527 (2022)
 
 You can also find here the recording of an informal live discussion which we had on June 12th 2020 about the findings of our reports:
-<a href="https://www.youtube.com/watch?v=aMLsLJQ8G2Y" style="font-size:25px;"> [Link to live discussion]</a>.
+<a href="https://www.youtube.com/watch?v=aMLsLJQ8G2Y" style="font-size:22px;"> [Link to live discussion]</a>.
  
 Authors:
 
