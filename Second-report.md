@@ -17,8 +17,8 @@ Authors:
 
 <a href="reports/Covid19_Second_UK.pdf" download>Click here to download the report.</a>
 
-If you would like to reference this work, please cite <a href="https://arxiv.org/abs/2201.06527">our paper:</a>
-<br> Santana C., Botta F., Barbosa H., Privitera F.,Menezes R. & Di Clemente, R. Changes in the time-space dimension of human mobility during the COVID-19 pandemic. To Be Submitted ArXiv::2201.06527 (2022)
+If you would like to reference this work, please cite <a href="www.nature.com/articles/s41562-023-01660-3">our paper:</a>
+<br> Santana, C., Botta, F., Barbosa, H. et al. COVID-19 is linked to changes in the time–space dimension of human mobility. Nat Hum Behav (2023). <a href="https://www.doi.org/10.1038/s41562-023-01660-3">doi.org/10.1038/s41562-023-01660-3</a> 
 
 ### Disclaimer
 
