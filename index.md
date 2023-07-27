@@ -18,8 +18,7 @@ Our analysis is based on similar projects carried out on Italian data
 <div style="text-align: justify">
 Peer-reviewed Paper: Santana, C., Botta, F., Barbosa, H. et al. <a href="https://www.nature.com/articles/s41562-023-01660-3" style="font-size:22px;">COVID-19 is linked to changes in the time–space dimension of human mobility.</a>  Nat Hum Behav (2023). <a href="https://doi.org/10.1038/s41562-023-01660-3" style="font-size:22px;">DOI:s41562-023-01660-3</a>.
 </div>
- <br>
- 
+
 <div style="text-align: justify">
 <a href="https://arxiv.org/abs/2201.06527" style="font-size:22px;">[Link to arXiv Paper]</a> (19th January 2022).
 </div>
